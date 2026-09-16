@@ -1,0 +1,3470 @@
+{
+  "metadata": {
+    "game": "代号鸢国际服（港台／海外服）",
+    "as_of": "2026-09-16T21:02:00+08:00",
+    "language": "zh-CN",
+    "quality_options_bwiki": [
+      "电影",
+      "绝密",
+      "机密",
+      "隐密"
+    ],
+    "quality_note": "BWIKI 当前筛选器使用“隐密”；“电影”是特殊形态/分类，但确实是该筛选器中的完整选项之一。严白虎等角色名不是品阶。",
+    "agent_count": 87,
+    "limited_pool_rows_structured": 56,
+    "scope_note": "agents 仅含截至截点已上线绝密；魏延、士䵋因首池在 2026-09-17 开启而排除。",
+    "sources": [
+      {
+        "id": "bw_qualities",
+        "title": "密探筛选页（品质与角色图鉴）",
+        "url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2"
+      },
+      {
+        "id": "pools_2023",
+        "title": "2023卡池一览",
+        "url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+      },
+      {
+        "id": "pools_2024",
+        "title": "2024卡池一览",
+        "url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+      },
+      {
+        "id": "pools_2025",
+        "title": "2025卡池一览",
+        "url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+      },
+      {
+        "id": "pools_2026",
+        "title": "2026卡池一览",
+        "url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+      },
+      {
+        "id": "permanent_20260903",
+        "title": "2026-09-02维护公告",
+        "url": "https://wiki.biligame.com/yuan/%E5%85%AC%E5%91%8A-2026%E5%B9%B49%E6%9C%882%E6%97%A5"
+      },
+      {
+        "id": "zhoumiao",
+        "title": "周庙之璋维护公告镜像",
+        "url": "https://www.sina.cn/news/detail/5341298229249633.html"
+      },
+      {
+        "id": "future_pool",
+        "title": "魏延、士䵋卡池预告镜像",
+        "url": "https://www.sina.cn/news/detail/5342749117121359.html"
+      }
+    ]
+  },
+  "limited_pools": [
+    {
+      "year": 2026,
+      "name": "周庙之璋",
+      "date_range": "2026-09-10 07:00 ～ 2026-10-07 23:59",
+      "up_agents": [
+        "周泰",
+        "陈琳"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "诚之云孚",
+      "date_range": "2026-07-23 07:00 ～ 2026-09-02 23:59",
+      "up_agents": [
+        "司马孚",
+        "赵云"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "却月凌风（复刻）",
+      "date_range": "2026-07-23 07:00 ～ 2026-08-05 23:59",
+      "up_agents": [
+        "黄月英",
+        "凌统"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "奉天华盖（复刻）",
+      "date_range": "2026-07-09 07:00 ～ 2026-07-22 23:59",
+      "up_agents": [
+        "董奉",
+        "黄盖"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "松桥辅德",
+      "date_range": "2026-05-28 07:00 ～ 2026-07-08 23:59",
+      "up_agents": [
+        "张松",
+        "孙辅"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "含明隐迹",
+      "date_range": "2026-05-21 07:00 ～ 2026-06-17 23:59",
+      "up_agents": [
+        "孙静",
+        "孟获"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "影迹陈陈",
+      "date_range": "2026-04-02 07:00 ～ 2026-05-13 23:59",
+      "up_agents": [
+        "陈纪",
+        "陈应"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "东阁待贤（限时自选）",
+      "date_range": "2026-03-30 07:00 ～ 2026-04-28 23:59",
+      "up_agents": [],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "坐令干霄",
+      "date_range": "2026-02-26 07:00 ～ 2026-03-25 23:59",
+      "up_agents": [
+        "卢植",
+        "庞德"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "珠玑琼玖",
+      "date_range": "2026-02-05 07:00 ～ 2026-03-18 23:59",
+      "up_agents": [
+        "酆公珠",
+        "酆公玖"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "洪匀玄机（复刻）",
+      "date_range": "2026-01-15 07:00 ～ 2026-01-28 23:59",
+      "up_agents": [
+        "葛洪",
+        "张仲景"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2026,
+      "name": "抱琴载酒（复刻）",
+      "date_range": "2026-01-15 07:00 ～ 2026-01-28 23:59",
+      "up_agents": [
+        "周瑜",
+        "孙尚香"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "持心离欲",
+      "date_range": "2025-12-23 07:00 ～ 2026-01-19 23:59",
+      "up_agents": [
+        "法正",
+        "陈群"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "动静非我",
+      "date_range": "2025-12-11 07:00 ～ 2026-01-21 23:59",
+      "up_agents": [
+        "蒯良",
+        "郭女王"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "英徽弥亮",
+      "date_range": "2025-11-06 07:00 ～ 2025-12-03 23:59",
+      "up_agents": [
+        "司马徽",
+        "诸葛亮"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "大和丕应",
+      "date_range": "2025-10-16 07:00 ～ 2025-11-26 23:59",
+      "up_agents": [
+        "曹丕",
+        "简雍"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "求贤访士（限时自选）",
+      "date_range": "2025-09-30 07:00 ～ 2025-10-29 23:59",
+      "up_agents": [],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "以奉嘉觞",
+      "date_range": "2025-09-11 09:00 ～ 2025-10-08 23:59",
+      "up_agents": [
+        "吕布",
+        "周忠"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "劫烬灰飞",
+      "date_range": "2025-08-21 07:00 ～ 2025-10-01 23:59",
+      "up_agents": [
+        "刘璋",
+        "庞羲"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "渊鼓锽钟",
+      "date_range": "2025-06-26 07:00 ～ 2025-08-06 23:59",
+      "up_agents": [
+        "夏侯渊",
+        "钟繇"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "金相玉质（复刻）",
+      "date_range": "2025-06-12 07:00 ～ 2025-06-25 23:59",
+      "up_agents": [
+        "孔融",
+        "黄月英"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "暮燕翻雷",
+      "date_range": "2025-05-29 07:00 ～ 2025-06-25 23:59",
+      "up_agents": [
+        "虞翻",
+        "张燕"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "隧象衔尾",
+      "date_range": "2025-04-30 07:00 ～ 2025-06-11 23:59",
+      "up_agents": [
+        "士燮",
+        "程普"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "白日昭只",
+      "date_range": "2025-03-13 07:00 ～ 2025-04-23 23:59",
+      "up_agents": [
+        "董白",
+        "张昭"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "深水逐鹿",
+      "date_range": "2025-02-20 07:00 ～ 2025-03-19 23:59",
+      "up_agents": [
+        "刘豹",
+        "张绣"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "火中取梦（复刻）",
+      "date_range": "2025-01-23 07:00 ～ 2025-02-05 23:59",
+      "up_agents": [
+        "甄宓",
+        "张郃"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2025,
+      "name": "风兴云蒸",
+      "date_range": "2025-01-09 07:00 ～ 2025-02-19 23:59",
+      "up_agents": [
+        "蒯越",
+        "祢衡"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "黍梦焚舟（照影）",
+      "date_range": "2024-12-12 07:00 ～ 2024-12-25 23:59",
+      "up_agents": [
+        "陈登·黍王",
+        "史子眇·赴烛"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "搏鸷缚虬",
+      "date_range": "2024-11-15 07:00 ～ 2024-12-29 23:59",
+      "up_agents": [
+        "朱然",
+        "黄盖"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "一体盈虚",
+      "date_range": "2024-11-07 07:00 ～ 2024-12-04 23:59",
+      "up_agents": [
+        "马腾",
+        "令狐茂"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "动如雷霆（复刻）",
+      "date_range": "2024-10-31 07:00 ～ 2024-11-13 23:59",
+      "up_agents": [
+        "张辽",
+        "马超"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "逐奔不远",
+      "date_range": "2024-09-12 07:00 ～ 2024-10-16 23:59",
+      "up_agents": [
+        "戏学",
+        "刘繇"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "腾陵张胆",
+      "date_range": "2024-08-29 07:00 ～ 2024-10-09 23:59",
+      "up_agents": [
+        "安期",
+        "凌统"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "照以三光（复刻）",
+      "date_range": "2024-08-15 07:00 ～ 2024-08-28 23:59",
+      "up_agents": [
+        "张闿",
+        "张飞"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "二柄刑德",
+      "date_range": "2024-07-04 07:00 ～ 2024-08-14 23:59",
+      "up_agents": [
+        "荀攸",
+        "满宠"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "云雨滂润",
+      "date_range": "2024-05-25 07:00 ～ 2024-06-28 23:59",
+      "up_agents": [
+        "诸葛瑾",
+        "诸葛诞"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "谨司天英",
+      "date_range": "2024-05-09 07:00 ～ 2024-06-19 23:59",
+      "up_agents": [
+        "曹植",
+        "董奉"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "天门启阖",
+      "date_range": "2024-03-14 07:00 ～ 2024-04-24 23:59",
+      "up_agents": [
+        "张邈",
+        "黄月英"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "闻斯行诸",
+      "date_range": "2024-02-22 07:00 ～ 2024-03-20 23:59",
+      "up_agents": [
+        "孔融",
+        "张鲁"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "秉数而一（复刻）",
+      "date_range": "2024-02-06 07:00 ～ 2024-02-19 23:59",
+      "up_agents": [
+        "孙权",
+        "张仲景"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2024,
+      "name": "击金鸣鼓",
+      "date_range": "2024-01-18 07:00 ～ 2024-02-28 23:59",
+      "up_agents": [
+        "甘宁",
+        "甄宓"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "绝艳惊鸿",
+      "date_range": "2023-12-21 07:00 ～ 2024-01-24 23:59",
+      "up_agents": [
+        "徐庶",
+        "张郃"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "扬矢摧锋（复刻）",
+      "date_range": "2023-12-14 07:00 ～ 2023-12-27 23:59",
+      "up_agents": [
+        "张辽",
+        "孙尚香"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "天曲日术",
+      "date_range": "2023-11-28 07:00 ～ 2024-01-08 23:59",
+      "up_agents": [
+        "张闿",
+        "太史慈"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "出奇无穷",
+      "date_range": "2023-11-09 07:00 ～ 2023-12-06 23:59",
+      "up_agents": [
+        "马超",
+        "程昱"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "度势攻心",
+      "date_range": "2023-11-02 07:00 ～ 2023-11-29 23:59",
+      "up_agents": [
+        "杨修",
+        "吕蒙"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "争光日月",
+      "date_range": "2023-09-28 07:00 ～ 2023-11-08 23:59",
+      "up_agents": [
+        "夏侯惇",
+        "张角"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "诗画同律",
+      "date_range": "2023-09-07 07:00 ～ 2023-10-08 23:59",
+      "up_agents": [
+        "蔡琰",
+        "张飞"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "坐照运筹",
+      "date_range": "2023-08-31 07:00 ～ 2023-09-27 23:59",
+      "up_agents": [
+        "陆逊",
+        "贾诩"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "王佐之才",
+      "date_range": "2023-08-03 07:00 ～ 2023-09-13 23:59",
+      "up_agents": [
+        "荀彧",
+        "庞统"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "四方顺时",
+      "date_range": "2023-07-20 07:00 ～ 2023-08-16 23:59",
+      "up_agents": [
+        "郭解",
+        "华佗"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "山有扶苏",
+      "date_range": "2023-06-21 07:00 ～ 2023-08-02 23:59",
+      "up_agents": [
+        "周瑜",
+        "葛洪"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "万物化光",
+      "date_range": "2023-06-08 07:00 ～ 2023-07-19 23:59",
+      "up_agents": [
+        "张辽",
+        "张仲景"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "异才奇士",
+      "date_range": "2023-05-25 05:00 ～ 2023-06-20 23:59",
+      "up_agents": [
+        "王粲",
+        "郭嘉"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "鬼城之主",
+      "date_range": "2023-04-29 05:00 ～ 2023-05-17 23:59",
+      "up_agents": [
+        "张修",
+        "干吉"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    },
+    {
+      "year": 2023,
+      "name": "弓剑江东",
+      "date_range": "2023-04-06 05:00 ～ 2023-05-24 23:59",
+      "up_agents": [
+        "孙权",
+        "孙尚香"
+      ],
+      "source_url": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88"
+    }
+  ],
+  "agents": [
+    {
+      "name": "陈琳",
+      "first_up_pool": "周庙之璋",
+      "first_up_date": "2026-09-10",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/5/57/s814246myh0x8ovrzd4ai29l0tvictj.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%99%88%E7%90%B3",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%99%88%E7%90%B3&action=raw",
+      "permanent_status": {
+        "is_permanent_now": false,
+        "verification": "verified",
+        "status_text": "截至 2026-09-16，限时 UP 尚未结束；公告称活动结束后加入常驻。",
+        "source_url": "https://www.sina.cn/news/detail/5341298229249633.html"
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%99%88%E7%90%B3&action=raw&research=20260916",
+      "ability_gap": "HTTP 200，但未匹配到技能模板字段（响应长度 2262）"
+    },
+    {
+      "name": "周泰",
+      "first_up_pool": "周庙之璋",
+      "first_up_date": "2026-09-10",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/9/96/mxo0jfluk4knr5fibrnb3egjhpbzrht.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%91%A8%E6%B3%B0",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%91%A8%E6%B3%B0&action=raw",
+      "permanent_status": {
+        "is_permanent_now": false,
+        "verification": "verified",
+        "status_text": "截至 2026-09-16，限时 UP 尚未结束；公告称活动结束后加入常驻。",
+        "source_url": "https://www.sina.cn/news/detail/5341298229249633.html"
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%91%A8%E6%B3%B0&action=raw&research=20260916",
+      "ability_gap": "HTTP 200，但未匹配到技能模板字段（响应长度 2352）"
+    },
+    {
+      "name": "司马孚",
+      "first_up_pool": "诚之云孚",
+      "first_up_date": "2026-07-23",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/a/a8/auyop23nleux9azvn7a3q091fz63gtf.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%8F%B8%E9%A9%AC%E5%AD%9A",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%8F%B8%E9%A9%AC%E5%AD%9A&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified",
+        "status_text": "2026-09-03 维护后加入「绣衣天下」常驻。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%85%AC%E5%91%8A-2026%E5%B9%B49%E6%9C%882%E6%97%A5"
+      },
+      "abilities": {
+        "普攻": "伏兽",
+        "普攻信息": "根据自身的小猫，使用以下对应的效果：<br>若带着【狸花铁钉】，则对我方全体造成1000点固定伤害，并使我方全体获得自身攻击力50%的护盾（可叠加，1回合）。<br>若带着【黑白二路】，则对当前目标造成500%攻击力的伤害，若本次伤害触发<强刃>，则伤害翻倍。<br>若带着【三花皮皮】，则对敌方全体造成350%攻击力的伤害，若本次伤害触发<强刃>，则伤害翻倍。",
+        "技能": "猫毛过敏",
+        "消耗能量": "5",
+        "技能1": "对当前目标造成100%攻击力的伤害，并附加【过敏】（2回合）。<br>【过敏】的敌人受到普攻伤害时，司马孚为其附加一层【浮毛】（可叠加），将25%的伤害记录在【浮毛】中。<br>【浮毛】：印记<br><印记>记录的初始上限为印记拥有者30%的最大生命，可受到<印记>上限提升效果影响",
+        "技能2": "对当前目标造成110%攻击力的伤害，并附加【过敏】（2回合）。<br>【过敏】的敌人受到普攻伤害时，司马孚为其附加一层【浮毛】（可叠加），将25%的伤害记录在【浮毛】中。<br>【浮毛】：印记<br><印记>记录的初始上限为印记拥有者30%的最大生命，可受到<印记>上限提升效果影响",
+        "技能3": "对当前目标造成120%攻击力的伤害，并附加【过敏】（2回合）。<br>【过敏】的敌人受到普攻伤害时，司马孚为其附加一层【浮毛】（可叠加），将25%的伤害记录在【浮毛】中。<br>【浮毛】：印记<br><印记>记录的初始上限为印记拥有者30%的最大生命，可受到<印记>上限提升效果影响",
+        "队长技能": "春梦不觉",
+        "队长技能信息": "战斗开始时，我方全体密探普攻增伤提升30，强刃增伤提升30，印记伤害增伤提升20，若我方全为水、阴属性的密探，则效果翻倍",
+        "天赋1": "张牙<!--2星天赋 -->",
+        "天赋信息1": "除自身外的友方密探触发<强刃>时，可以立刻行动1次。这个效果1回合只能触发1次<br>自身受到任意目标攻击时，我方全体普攻增伤提升3，强刃增伤提升3（可叠加20层）",
+        "天赋2": "生刍之宫<!--4星天赋 -->",
+        "天赋信息2": "强刃增伤提升15，印记伤害增伤提升15",
+        "天赋3": "舞爪<!--觉醒天赋 -->",
+        "天赋信息3": "自身触发<强刃>时，我方全体普攻增伤提升2.5，强刃增伤提升2.5（可叠加10层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%8F%B8%E9%A9%AC%E5%AD%9A&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "赵云",
+      "first_up_pool": "诚之云孚",
+      "first_up_date": "2026-07-23",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/6/66/mhs187nbpy1wsoh27lerwmc120sj5uq.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%B5%B5%E4%BA%91",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%B5%B5%E4%BA%91&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified",
+        "status_text": "2026-09-03 维护后加入「绣衣天下」常驻。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%85%AC%E5%91%8A-2026%E5%B9%B49%E6%9C%882%E6%97%A5"
+      },
+      "abilities": {
+        "普攻": "枪挑",
+        "普攻信息": "对当前目标造成2次250%攻击力的伤害",
+        "技能": "义贯金石",
+        "消耗能量": "5",
+        "技能1": "自身不为【将星】，对当前目标造成1000%攻击力的伤害。若自身为【将星】，技能效果变更为：<br>如果不处于将星耀中，则会进入<将星耀>（3回合），随后对当前目标造成800%攻击力的伤害。<br><将星耀>：在将星耀中，我方全体攻击力提升20%，普攻增伤提升20，增伤值提升20，免伤值提升20。我方密探的普攻效果有50%概率额外执行一次（不视作行动，不触发自身其他攻击效果）。<br>如果处于将星耀中，则使我方全体密探对当前目标使用一次普攻。",
+        "技能2": "自身不为【将星】，对当前目标造成1020%攻击力的伤害。若自身为【将星】，技能效果变更为：<br>如果不处于将星耀中，则会进入<将星耀>（3回合），随后对当前目标造成820%攻击力的伤害。<br><将星耀>：在将星耀中，我方全体攻击力提升20%，普攻增伤提升20，增伤值提升20，免伤值提升20。我方密探的普攻效果有50%概率额外执行一次（不视作行动，不触发自身其他攻击效果）。<br>如果处于将星耀中，则使我方全体密探对当前目标使用一次普攻。",
+        "技能3": "自身不为【将星】，对当前目标造成1050%攻击力的伤害。若自身为【将星】，技能效果变更为：<br>如果不处于将星耀中，则会进入<将星耀>（3回合），随后对当前目标造成850%攻击力的伤害。<br><将星耀>：在将星耀中，我方全体攻击力提升20%，普攻增伤提升20，增伤值提升20，免伤值提升20。我方密探的普攻效果有50%概率额外执行一次（不视作行动，不触发自身其他攻击效果）。<br>如果处于将星耀中，则使我方全体密探对当前目标使用一次普攻。",
+        "队长技能": "猛将之烈",
+        "队长技能信息": "战斗开始时，我方全体风属性密探获得3点能量。我方全体密探攻击力提升30%，普攻增伤提升30。自身获得【将星】。<br>【将星】：自身所有技能伤害转为普攻伤害",
+        "天赋1": "冲阵<!--2星天赋 -->",
+        "天赋信息1": "战斗开始时，我方全体密探获得【出入阵】，【出入阵】记录攻击造成普攻伤害的次数，群体攻击只算1次。每造成10次普攻伤害，就会升一次级，一共可以升4级。每次升级后仍然保留之前的效果<br>【1级出入阵】：每次对敌方攻击造成普攻伤害时，自身风属性增伤提升5(可叠加30层)。<br>【2级出入阵】：每次对敌方攻击造成普攻伤害时，敌方获得一层【无畏】（可叠加100层）；【无畏】：普攻免伤降低1。<br>【3级出入阵】：自身每攻击造成3次普攻伤害后，下一次普攻伤害前额外造成1次200%攻击力的普攻伤害（不触发自身其他攻击效果）；<br>【4级出入阵】：提升攻击力，提升值为我方全体基础攻击力的10%。<br>【5级出入阵】：使用技能后，可以额外行动一次，1回合只能触发1次；技能伤害转化为普攻伤害。",
+        "天赋2": "忠卫<!--4星天赋 -->",
+        "天赋信息2": "战斗开始时，自身不为队长也可以获得【将星】。",
+        "天赋3": "智勇<!--觉醒天赋 -->",
+        "天赋信息3": "回合开始时，若处于<将星耀>中，自身受到致命伤害时恢复10%最大生命，这个效果一场战斗生效7次。"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%B5%B5%E4%BA%91&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "孙辅",
+      "first_up_pool": "松桥辅德",
+      "first_up_date": "2026-05-28",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/a/a6/15avs7kc8glqsvawh4361iqpbvig3qx.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%AD%99%E8%BE%85",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%AD%99%E8%BE%85&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "刺",
+        "普攻信息": "对当前目标造成250%攻击力的伤害。<br>若自身处于【强化】，则伤害系数提升500%。<br>若自身拥有【利刺】，则额外削减目标最大生命，削减量等于本次伤害造成的生命损失（最多削减当前最大生命50%的最大生命）。<br>之后清除自身所有【利刺】。",
+        "技能": "瞬影杀诀",
+        "消耗能量": "0",
+        "技能1": "技能不消耗能量。至少拥有3层【利刺】时可以使用技能。<br>对当前目标造成100%攻击力的伤害。<br>自身有且仅有3层【利刺】时，使当前目标获得【标记】（2回合）。<br>自身有且仅有4层【利刺】时，使自身获得【强化】（3回合）。<br>自身有且仅有5层【利刺】时，则使当前目标获得【孱弱】（1回合）。<br>随后清除自身所有【利刺】。<br>【标记】：生命高于90%时，全属性增伤降低20，全属性抗性降低50<br>【强化】：水属性增伤提升50<br>【孱弱】：受到致命伤害后，自身基础生命下降10%（可叠加3层）",
+        "技能2": "技能不消耗能量。至少拥有3层【利刺】时可以使用技能。<br>对当前目标造成110%攻击力的伤害。<br>自身有且仅有3层【利刺】时，使当前目标获得【标记】（2回合）。<br>自身有且仅有4层【利刺】时，使自身获得【强化】（3回合）。<br>自身有且仅有5层【利刺】时，则使当前目标获得【孱弱】（1回合）。<br>随后清除自身所有【利刺】。<br>【标记】：生命高于90%时，全属性增伤降低20，全属性抗性降低50<br>【强化】：水属性增伤提升50<br>【孱弱】：受到致命伤害后，自身基础生命下降10%（可叠加3层）",
+        "技能3": "技能不消耗能量。至少拥有3层【利刺】时可以使用技能。<br>对当前目标造成120%攻击力的伤害。<br>自身有且仅有3层【利刺】时，使当前目标获得【标记】（2回合）。<br>自身有且仅有4层【利刺】时，使自身获得【强化】（3回合）。<br>自身有且仅有5层【利刺】时，则使当前目标获得【孱弱】（1回合）。<br>随后清除自身所有【利刺】。<br>【标记】：生命高于90%时，全属性增伤降低20，全属性抗性降低50<br>【强化】：水属性增伤提升50<br>【孱弱】：受到致命伤害后，自身基础生命下降10%（可叠加3层）",
+        "队长技能": "诡伏设奇",
+        "队长技能信息": "每回合我方第一个密探行动时，使我方能量为0的密探攻击力提升60%，最大生命提升60%（1回合）",
+        "天赋1": "潜行",
+        "天赋信息1": "我方能量为0的密探行动时，我方全体普攻增伤提升5（可叠加30层）。若自身一回合内使用过防御、技能、普攻，则使自身及顺位上一位和下一位的密探攻击力提升50%（2回合）",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升15%",
+        "天赋3": "掠阵",
+        "天赋信息3": "战斗开始时，自身顺位上一位和下一位基础攻击力提升，提升值相当于自身基础攻击力的30%"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%AD%99%E8%BE%85&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "张松",
+      "first_up_pool": "松桥辅德",
+      "first_up_date": "2026-05-28",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/5/50/79xh8fgfgtgv4jwqy90bhg1ubsmr917.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E6%9D%BE",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E6%9D%BE&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "挥羽",
+        "普攻信息": "对当前目标造成100%伤害，获得1层【阴羽】",
+        "技能": "点勘阴阳",
+        "消耗能量": "5",
+        "技能1": "自身同时拥有【阴羽】和【阳羽】时可以使用对敌方全体造成基于自身攻击力的伤害。自身每有1层【阴羽】，伤害系数提升150%；自身每有1层【阳羽】，攻击1次。移除自身所有【毫羽】如果自身【阴羽】层数与【阳羽】层数相同，还会先使我方全体攻击力提升（1回合），每有1层【毫羽】，提升10%",
+        "技能2": "自身同时拥有【阴羽】和【阳羽】时可以使用对敌方全体造成基于自身攻击力的伤害。自身每有1层【阴羽】，伤害系数提升160%；自身每有1层【阳羽】，攻击1次。移除自身所有【毫羽】如果自身【阴羽】层数与【阳羽】层数相同，还会先使我方全体攻击力提升（1回合），每有1层【毫羽】，提升10%",
+        "技能3": "自身同时拥有【阴羽】和【阳羽】时可以使用对敌方全体造成基于自身攻击力的伤害。自身每有1层【阴羽】，伤害系数提升170%；自身每有1层【阳羽】，攻击1次。移除自身所有【毫羽】如果自身【阴羽】层数与【阳羽】层数相同，还会先使我方全体攻击力提升（1回合），每有1层【毫羽】，提升10%",
+        "队长技能": "领袖群伦",
+        "队长技能信息": "我方每有1名阳属性密探，我方全体生命值提升10%（可叠加1层）；每有1名阴属性密探，我方全体攻击力提升10%（可叠加5层）",
+        "天赋1": "莫逆<!--2星天赋 -->",
+        "天赋信息1": "回合开始时，自身每有1层【毫羽】，技能增伤提升10（1回合）<br>如果场上存在法正，法正也会获得该效果",
+        "天赋2": "过目不忘<!--4星天赋 -->",
+        "天赋信息2": "使用技能后，随机获得4层【毫羽】。自身【毫羽】数量溢出时，获得1点能量，这个效果每2回合最多触发1次",
+        "天赋3": "识达精果<!--觉醒天赋 -->",
+        "天赋信息3": "战斗开始时，我方阴、阳属性密探获得3点能量。我方阳属性密探行动后，我方全体阳属性增伤提升5（1回合，可叠加5层），我方阴属性密探行动后，我方全体阴属性增伤提升5（1回合，可叠加5层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E6%9D%BE&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "孟获",
+      "first_up_pool": "含明隐迹",
+      "first_up_date": "2026-05-21",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/7/7c/9mqv1tu4mdvhxyoj208ngevu3rp54iv.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%AD%9F%E8%8E%B7",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%AD%9F%E8%8E%B7&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "咀味",
+        "普攻信息": "恢复我方全体的生命，恢复量为自身40%攻击力加上10%最大生命",
+        "技能": "鲸吞",
+        "消耗能量": "0",
+        "技能1": "技能不消耗能量，自身拥有【仙胎】时可以释放<br>吞吃【仙胎】，使敌我双方普攻免伤和技能免伤降低80（1回合），恢复我方全体100%最大生命，本次治疗不会为<胎体>充能",
+        "技能2": "技能不消耗能量，自身拥有【仙胎】时可以释放<br>吞吃【仙胎】，使敌我双方普攻免伤和技能免伤降低80（1回合），恢复我方全体110%最大生命，本次治疗不会为<胎体>充能",
+        "技能3": "技能不消耗能量，自身拥有【仙胎】时可以释放<br>吞吃【仙胎】，使敌我双方普攻免伤和技能免伤降低80（1回合），恢复我方全体120%最大生命，本次治疗不会为<胎体>充能",
+        "队长技能": "哀牢夷",
+        "队长技能信息": "回合开始时，恢复我方全体10%最大生命",
+        "天赋1": "九隆之裔<!--2星天赋 -->",
+        "天赋信息1": "我方岐黄、神纪密探的治疗效果可以暴击，暴击率提升20%，暴击伤害提升20%<br>回合开始时，若自身拥有【仙胎】，自身暴击率提升30%，暴击伤害提升300%（1回合）。若队伍中存在<双蛇>，<双蛇>也会获得该效果",
+        "天赋2": "龙生夷<!--4星天赋 -->",
+        "天赋信息2": "<胎体>受到的治疗效果提升50%",
+        "天赋3": "流火开祥<!--觉醒天赋 -->",
+        "天赋信息3": "吞吃【仙胎】后，我方全体火、阳属性增伤提升30（可叠加4层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%AD%9F%E8%8E%B7&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "孙静",
+      "first_up_pool": "含明隐迹",
+      "first_up_date": "2026-05-21",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/f/fd/fzaa0bskquxkqi9tjdmnu01et6mj75w.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%AD%99%E9%9D%99",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%AD%99%E9%9D%99&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "穿云",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害。若自身存在{{颜色|红|【白猿剑】}}，则提升我方全体{{颜色|绿|30}}触发伤害增伤（{{颜色|绿|1}}回合），并获得{{颜色|绿|1}}层{{颜色|红|【黄石书】}}。",
+        "技能": "奇正相生",
+        "消耗能量": "4",
+        "技能1": "对当前目标造成800%攻击力的伤害。<br>若自身拥有2层【白猿剑】，则自身额外造成一次我方全体800%攻击力的伤害，并移除所有【白猿剑】。<br>若自身拥有4层【黄石书】，则提升我方全体破军密探60触发伤害增伤（2回合），并使自身本回合造成的伤害转为触发伤害。",
+        "技能2": "对当前目标造成810%攻击力的伤害。<br>若自身拥有2层【白猿剑】，则自身额外造成一次我方全体810%攻击力的伤害，并移除所有【白猿剑】。<br>若自身拥有4层【黄石书】，则提升我方全体破军密探60触发伤害增伤（2回合），并使自身本回合造成的伤害转为触发伤害。",
+        "技能3": "对当前目标造成820%攻击力的伤害。<br>若自身拥有2层【白猿剑】，则自身额外造成一次我方全体820%攻击力的伤害，并移除所有【白猿剑】。<br>若自身拥有4层【黄石书】，则提升我方全体破军密探60触发伤害增伤（2回合），并使自身本回合造成的伤害转为触发伤害。",
+        "队长技能": "六韬将略",
+        "队长技能信息": "我方5名密探都为破军密探的时候，我方全体造成普攻伤害及触发伤害的100%转化为其自身等量生命恢复（最大不超过各自1000%的攻击力）",
+        "天赋1": "英星入庙<!--2星天赋 -->",
+        "天赋信息1": "回合开始时，若我方存在3名破军密探，我方全体生命百分比提升50%，攻击力提升50%（1回合）；若我方存在5名破军密探时，我方全体暴击率和暴击伤害提升（1回合），提升值等同于我方暴击率最高密探的值",
+        "天赋2": "灭谛<!--4星天赋 -->",
+        "天赋信息2": "普攻增伤和技能增伤提升15",
+        "天赋3": "白猿剑法<!--觉醒天赋 -->",
+        "天赋信息3": "我方每造成一次普攻伤害，我方全体触发伤害增伤提升2.5（可叠加10层）。我方每造成一次触发伤害，我方全体普攻增伤提升2.5（可叠加10层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%AD%99%E9%9D%99&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "陈应",
+      "first_up_pool": "影迹陈陈",
+      "first_up_date": "2026-04-02",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/9/99/dq7mcq2ljjtxhodsmij4yejkprww2br.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%99%88%E5%BA%94",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%99%88%E5%BA%94&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "折柳",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害，若处于{{颜色|红|【弥天雾霭】}}，则自身额外获得{{颜色|绿|2}}点能量",
+        "技能": "晓雾笼花",
+        "消耗能量": "{{颜色|绿|5}}",
+        "技能1": "对敌方全体造成300%攻击力的伤害，将当前场地效果变换为【弥天雾霭】（4回合）<br>",
+        "技能2": "对敌方全体造成315%攻击力的伤害，将当前场地效果变换为【弥天雾霭】（4回合）<br>",
+        "技能3": "对敌方全体造成330%攻击力的伤害，将当前场地效果变换为【弥天雾霭】（4回合）<br>",
+        "队长技能": "鲜衣客",
+        "队长技能信息": "回合开始时，如果我方存在场地效果，提升我方全体{{颜色|绿|50%}}攻击力，{{颜色|绿|50%}}最大生命（{{颜色|绿|1}}回合）",
+        "天赋1": "连枝柳<!--2星天赋 -->",
+        "天赋信息1": "{{颜色|红|【弥天雾霭】}}因场地切换消失时，自身攻击力提升{{颜色|绿|10%}}，风属性增伤提升{{颜色|绿|10%}}（可叠加{{颜色|绿|4}}层），并立刻触发一次敌方全体身上风系场地效果的持续伤害，伤害量为原伤害的{{颜色|绿|200%}}<br>若队伍里存在陈登，则战斗开始时自身技能消耗能量{{颜色|绿|-1}}",
+        "天赋2": "落花踏<!--4星天赋 -->",
+        "天赋信息2": "战斗开始时，我方全体风、水属性密探获得{{颜色|绿|3}}点能量；{{颜色|红|【弥天雾霭】}}因场地切换消失时，额外获得{{颜色|绿|1}}层{{颜色|红|【游侠】}}",
+        "天赋3": "春风度<!--觉醒天赋 -->",
+        "天赋信息3": "场地效果改变时，我方全体攻击力提升{{颜色|绿|15%}}，最大生命提升{{颜色|绿|15%}}（可叠加{{颜色|绿|5}}层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%99%88%E5%BA%94&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "陈纪",
+      "first_up_pool": "影迹陈陈",
+      "first_up_date": "2026-04-02",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/0/00/qxyd5eqyz77az2vsesqysesx1msd8fm.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%99%88%E7%BA%AA",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%99%88%E7%BA%AA&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "秉牍",
+        "普攻信息": "对敌方全体造成{{颜色|绿|80%}}攻击力的伤害。如果自身拥有{{颜色|红|【文墨】}}，本次伤害变为触发伤害",
+        "技能": "刊削",
+        "消耗能量": "{{颜色|绿|1}}",
+        "技能1": "对敌方全体造成{{颜色|绿|80%}}攻击力的伤害，使当前目标获得{{颜色|红|【笔伐】}}（{{颜色|绿|1}}回合）。如果自身拥有{{颜色|红|【文墨】}}，本次伤害变为触发伤害。{{颜色|红|【笔伐】}}：只能受到触发伤害，但触发伤害免伤降低{{颜色|绿|30}}",
+        "技能2": "对敌方全体造成{{颜色|绿|90%}}攻击力的伤害，使当前目标获得{{颜色|红|【笔伐】}}（{{颜色|绿|1}}回合）。如果自身拥有{{颜色|红|【文墨】}}，本次伤害变为触发伤害。{{颜色|红|【笔伐】}}：只能受到触发伤害，但触发伤害免伤降低{{颜色|绿|30}}",
+        "技能3": "对敌方全体造成{{颜色|绿|100%}}攻击力的伤害，使当前目标获得{{颜色|红|【笔伐】}}（{{颜色|绿|1}}回合）。如果自身拥有{{颜色|红|【文墨】}}，本次伤害变为触发伤害。{{颜色|红|【笔伐】}}：只能受到触发伤害，但触发伤害免伤降低{{颜色|绿|30}}",
+        "队长技能": "圣贤之德",
+        "队长技能信息": "我方密探造成触发伤害时（对多个单位同时攻击时只触发{{颜色|绿|1}}次），我方全体获得{{颜色|绿|1}}种随机效果（{{颜色|绿|2}}回合，可叠加{{颜色|绿|99}}层）：攻击力提升{{颜色|绿|1%}}、最大生命提升{{颜色|绿|1%}}、触发伤害增伤提升{{颜色|绿|1}}、全属性增伤提升{{颜色|绿|1}}、增伤值提升{{颜色|绿|0.5}}",
+        "天赋1": "兼善天下<ref>《孟子·尽心章句上》：孟子谓宋勾践曰：“子好游乎？吾语子游。人知之，亦嚣嚣；人不知，亦嚣嚣。”曰：“何如斯可以嚣嚣矣？”曰：“尊德乐义，则可以嚣嚣矣。故士穷不失义，达不离道。穷不失义，故士得己焉；达不离道，故民不失望焉。古之人，得志，泽加于民；不得志，修身见于世。穷则独善其身，达则'''兼善天下'''。”</ref><!--2星天赋 -->",
+        "天赋信息1": "我方密探一回合内消耗{{颜色|绿|3}}层{{颜色|红|【文墨】}}后，使其触发伤害增伤提升{{颜色|绿|15}}（{{颜色|绿|2}}回合，可叠加{{颜色|绿|4}}层）<br>我方密探一回合内消耗{{颜色|绿|5}}层{{颜色|红|【文墨】}}后，使其攻击力提升{{颜色|绿|30%}}（{{颜色|绿|2}}回合）",
+        "天赋2": "苦谛<!--4星天赋 -->",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "杀青简<ref>古代制作竹简的程序，先用火烤炙，至其冒出水分，刮去青皮，始方便书写并防止虫蠹。《别录》：“杀青者，直治竹作简书之耳。新竹有汗，善朽蠹；凡作简者，皆于火上炙干之。陈、楚间谓之汗。汗者，亦去其汁也。”</ref><!--觉醒天赋 -->",
+        "天赋信息3": "每回合{{颜色|绿|1}}次，敌人行动后，对敌方全体造成{{颜色|绿|80%}}攻击力的触发伤害"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%99%88%E7%BA%AA&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "卢植",
+      "first_up_pool": "坐令干霄",
+      "first_up_date": "2026-02-26",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/2/21/psog27h4hpcvnujuq0vyk1aotkqajn7.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%8D%A2%E6%A4%8D",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%8D%A2%E6%A4%8D&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "竹击",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害，获得{{颜色|绿|1}}个{{颜色|红|【正音-地火】}}",
+        "技能": "滑奏",
+        "消耗能量": "{{颜色|绿|3}}",
+        "技能1": "演奏乐曲，可根据<操千曲>的效果获得额外强化：对敌方全员造成{{颜色|绿|300%}}攻击力的伤害，每有一个{{颜色|红|【正音-地火】}}，伤害系数提升{{颜色|绿|300%}}。<br>为我方全员附加一层护盾（{{颜色|绿|2}}回合，可叠加），护盾量为自身{{颜色|绿|80%}}的攻击力，每有一个{{颜色|红|【正音-水风】}}，额外附加一层。<br>提升我方全员的{{颜色|绿|5%}}攻击力和最大生命（可叠加{{颜色|绿|25}}层），每有一个{{颜色|红|【正音-阴阳】}}，额外获得一层提升效果",
+        "技能2": "演奏乐曲，可根据<操千曲>的效果获得额外强化：对敌方全员造成{{颜色|绿|310%}}攻击力的伤害，每有一个{{颜色|红|【正音-地火】}}，伤害系数提升{{颜色|绿|300%}}。<br>为我方全员附加一层护盾（{{颜色|绿|2}}回合，可叠加），护盾量为自身{{颜色|绿|80%}}的攻击力，每有一个{{颜色|红|【正音-水风】}}，额外附加一层。<br>提升我方全员的{{颜色|绿|5%}}攻击力和最大生命（可叠加{{颜色|绿|25}}层），每有一个{{颜色|红|【正音-阴阳】}}，额外获得一层提升效果",
+        "技能3": "演奏乐曲，可根据<操千曲>的效果获得额外强化：对敌方全员造成{{颜色|绿|320%}}攻击力的伤害，每有一个{{颜色|红|【正音-地火】}}，伤害系数提升{{颜色|绿|300%}}。<br>为我方全员附加一层护盾（{{颜色|绿|2}}回合，可叠加），护盾量为自身{{颜色|绿|80%}}的攻击力，每有一个{{颜色|红|【正音-水风】}}，额外附加一层。<br>提升我方全员的{{颜色|绿|5%}}攻击力和最大生命（可叠加{{颜色|绿|25}}层），每有一个{{颜色|红|【正音-阴阳】}}，额外获得一层提升效果",
+        "队长技能": "落月悲歌",
+        "队长技能信息": "我方所有<持有乐器的密探>的最大生命提升{{颜色|绿|30%}}，攻击力提升{{颜色|绿|30%}}",
+        "天赋1": "渐离之音<!--2星天赋 -->",
+        "天赋信息1": "技能演奏乐曲前，若本次演奏至少达到{{颜色|绿|40}}分，我方全员的技能增伤提升{{颜色|绿|10}}，增伤值提升{{颜色|绿|5}}（{{颜色|绿|1}}回合，可叠加{{颜色|绿|2}}层）。若本次演奏至少达到{{颜色|绿|80}}分，我方全员的技能增伤提升{{颜色|绿|40}}，增伤值提升{{颜色|绿|15}}（{{颜色|绿|1}}回合，可叠加{{颜色|绿|2}}层）",
+        "天赋2": "苦谛<!--4星天赋 -->",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "和鸣锵锵<!--觉醒天赋 -->",
+        "天赋信息3": "我方每有一位<持有乐器的密探>，我方全员的攻击力提升{{颜色|绿|10%}}，最大生命提升{{颜色|绿|10%}}（可叠加{{颜色|绿|5}}层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%8D%A2%E6%A4%8D&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "庞德",
+      "first_up_pool": "坐令干霄",
+      "first_up_date": "2026-02-26",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/c/ce/h7twpu8ri4wyjysvk237zgv1x5ee38v.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BA%9E%E5%BE%B7",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BA%9E%E5%BE%B7&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "重盾",
+        "普攻信息": "奇数回合：对当前目标造成{{颜色|绿|200%}}攻击力的伤害，使当前目标获得{{颜色|绿|1}}层{{颜色|红|【断】}}<br>偶数回合：对当前目标造成{{颜色|绿|200%}}攻击力的伤害，随后<击碎>当前目标",
+        "技能": "鏖杀",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "使我方攻击力最高的破军密探获得{{颜色|红|【铠】}}（{{颜色|绿|2}}回合），若自身为{{颜色|绿|1}}号位则优先选取自身，对敌方全体造成{{颜色|绿|400%}}攻击力的伤害。{{颜色|红|【铠】}}：攻击力提升{{颜色|绿|30%}}，普攻增伤提升{{颜色|绿|30}}",
+        "技能2": "使我方攻击力最高的破军密探获得{{颜色|红|【铠】}}（{{颜色|绿|2}}回合），若自身为{{颜色|绿|1}}号位则优先选取自身，对敌方全体造成{{颜色|绿|410%}}攻击力的伤害。{{颜色|红|【铠】}}：攻击力提升{{颜色|绿|30%}}，普攻增伤提升{{颜色|绿|30}}",
+        "技能3": "使我方攻击力最高的破军密探获得{{颜色|红|【铠】}}（{{颜色|绿|2}}回合），若自身为{{颜色|绿|1}}号位则优先选取自身，对敌方全体造成{{颜色|绿|420%}}攻击力的伤害。{{颜色|红|【铠】}}：攻击力提升{{颜色|绿|30%}}，普攻增伤提升{{颜色|绿|30}}",
+        "队长技能": "白马将",
+        "队长技能信息": "我方全体普攻增伤提升{{颜色|绿|20}}，破军密探的普攻增伤额外提升{{颜色|绿|20}}",
+        "天赋1": "立义<!--2星天赋 -->",
+        "天赋信息1": "我方密探一回合内行动{{颜色|绿|7}}次后，我方全体增伤值提升{{颜色|绿|30}}（{{颜色|绿|1}}回合）",
+        "天赋2": "灭谛<!--4星天赋 -->",
+        "天赋信息2": "普攻增伤和技能增伤提升{{颜色|绿|15}}",
+        "天赋3": "授命<!--觉醒天赋 -->",
+        "天赋信息3": "回合开始时，我方攻击力最高的破军密探获得{{颜色|绿|1}}点行动点，若自身为{{颜色|绿|1}}号位则优先选取自身"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BA%9E%E5%BE%B7&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "酆公玖",
+      "first_up_pool": "珠玑琼玖",
+      "first_up_date": "2026-02-05",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/5/5d/2bfvyjbthwqw25823iraiidud7orcog.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%85%86%E5%85%AC%E7%8E%96",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%85%86%E5%85%AC%E7%8E%96&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "日轮",
+        "普攻信息": "对敌方全体造成{{颜色|绿|60%}}攻击力的伤害",
+        "技能": "一阳启泰",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "对敌方全体造成{{颜色|绿|400%}}攻击力的伤害",
+        "技能2": "对敌方全体造成{{颜色|绿|410%}}攻击力的伤害",
+        "技能3": "对敌方全体造成{{颜色|绿|420%}}攻击力的伤害",
+        "队长技能": "伏羲之目",
+        "队长技能信息": "我方全体的最大生命提升{{颜色|绿|20%}}，攻击力提升{{颜色|绿|20%}}",
+        "天赋1": "酌霞<!--2星天赋 -->",
+        "天赋信息1": "敌人受到与{{颜色|红|【青鳞】}}记录的伤害相同类型的伤害时，我方全员的攻击力提升{{颜色|绿|2%}}，增伤值提升{{颜色|绿|1}}（可叠加{{颜色|绿|30}}层）",
+        "天赋2": "灭谛<!--4星天赋 -->",
+        "天赋信息2": "普攻增伤和技能增伤提升{{颜色|绿|15}}",
+        "天赋3": "委蛇<!--觉醒天赋 -->",
+        "天赋信息3": "技能消耗的能量{{颜色|绿|-1}}"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%85%86%E5%85%AC%E7%8E%96&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "酆公珠",
+      "first_up_pool": "珠玑琼玖",
+      "first_up_date": "2026-02-05",
+      "pool_source": "https://wiki.biligame.com/yuan/2026%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/0/0a/5mbvlraje4rbr4yskmlavfy7on80pki.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%85%86%E5%85%AC%E7%8F%A0",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%85%86%E5%85%AC%E7%8F%A0&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "月溯",
+        "普攻信息": "恢复我方全员的生命，恢复量为自身{{颜色|绿|60%}}的攻击力",
+        "技能": "万水归阴",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "恢复我方全体的生命，恢复量为自身{{颜色|绿|120%}}的攻击力。为我方全体附加护盾（{{颜色|绿|2}}回合），护盾量为自身{{颜色|绿|100%}}的攻击力",
+        "技能2": "恢复我方全体的生命，恢复量为自身{{颜色|绿|130%}}的攻击力。为我方全体附加护盾（{{颜色|绿|2}}回合），护盾量为自身{{颜色|绿|100%}}的攻击力",
+        "技能3": "恢复我方全体的生命，恢复量为自身{{颜色|绿|140%}}的攻击力。为我方全体附加护盾（{{颜色|绿|2}}回合），护盾量为自身{{颜色|绿|100%}}的攻击力",
+        "队长技能": "女娲之肠",
+        "队长技能信息": "我方全体的最大生命提升{{颜色|绿|20%}}，攻击力提升{{颜色|绿|20%}}",
+        "天赋1": "饮月<!--2星天赋 -->",
+        "天赋信息1": "战斗开始时，我方全体获得{{颜色|绿|1}}点能量。使用技能后，提升我方全体{{颜色|绿|10%}}攻击力（可叠加{{颜色|绿|10}}层）",
+        "天赋2": "道谛<!--4星天赋 -->",
+        "天赋信息2": "自身提供的治疗效果提升{{颜色|绿|15%}}",
+        "天赋3": "委蛇<!--觉醒天赋 -->",
+        "天赋信息3": "技能消耗的能量-{{颜色|绿|1}}"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%85%86%E5%85%AC%E7%8F%A0&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "陈群",
+      "first_up_pool": "持心离欲",
+      "first_up_date": "2025-12-23",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/f/ff/mrir2rhukcjumjkf3aemqd3v4u06hck.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%99%88%E7%BE%A4",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%99%88%E7%BE%A4&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "行香",
+        "普攻信息": "对敌方全体造成{{颜色|绿|20%}}攻击力的伤害，使我方全体获得等同于自身{{颜色|绿|40%}}攻击力的护盾（{{颜色|绿|1}}回合）",
+        "技能": "拱默<ref>《三国志·魏书·桓二陈徐卫卢传》：群前后数密陈得失，每上封事，辄削其草，时人及其子弟莫能知也。论者或讥群居位拱默，正始中诏撰群臣上书，以为名臣奏议，朝士乃见群谏事，皆叹息焉。</ref>",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "对当前目标造成{{颜色|绿|120%}}攻击力的伤害，使我方全体获得等同于自身{{颜色|绿|120%}}攻击力的护盾（{{颜色|绿|2}}回合），并使我方全体获得{{颜色|红|【铜炉】}}({{颜色|绿|2}}回合)。<br>{{颜色|红|【铜炉】}}：受到攻击时，若自身不处于防御状态，进入防御状态（{{颜色|绿|1}}回合）。若自身处于防御状态，获得等同于陈群{{颜色|绿|40%}}攻击力的护盾（{{颜色|绿|1}}回合）。陈群死亡后失效",
+        "技能2": "对当前目标造成{{颜色|绿|135%}}攻击力的伤害，使我方全体获得等同于自身{{颜色|绿|135%}}攻击力的护盾（{{颜色|绿|2}}回合），并使我方全体获得{{颜色|红|【铜炉】}}({{颜色|绿|2}}回合)。<br>{{颜色|红|【铜炉】}}：受到攻击时，若自身不处于防御状态，进入防御状态（{{颜色|绿|1}}回合）。若自身处于防御状态，获得等同于陈群{{颜色|绿|40%}}攻击力的护盾（{{颜色|绿|1}}回合）。陈群死亡后失效",
+        "技能3": "对当前目标造成{{颜色|绿|150%}}攻击力的伤害，使我方全体获得等同于自身{{颜色|绿|150%}}攻击力的护盾（{{颜色|绿|2}}回合），并使我方全体获得{{颜色|红|【铜炉】}}({{颜色|绿|2}}回合)。<br>{{颜色|红|【铜炉】}}：受到攻击时，若自身不处于防御状态，进入防御状态（{{颜色|绿|1}}回合）。若自身处于防御状态，获得等同于陈群{{颜色|绿|40%}}攻击力的护盾（{{颜色|绿|1}}回合）。陈群死亡后失效",
+        "队长技能": "有老鼠！",
+        "队长技能信息": "我方全体获得的护盾效果提升{{颜色|绿|20%}}，地水属性密探获得的护盾效果额外提升{{颜色|绿|20%}}",
+        "天赋1": "每日干果<!--2星天赋 -->",
+        "天赋信息1": "使用技能后，使当前目标获得{{颜色|绿|1}}颗{{颜色|红|【干果】}}。随后杰瑞（陈群的老鼠）会对敌方全体造成{{颜色|绿|40%}}攻击力的伤害，然后吃掉目标身上的{{颜色|红|【干果】}}（每颗{{颜色|红|【干果】}}会让杰瑞的伤害系数永久提升{{颜色|绿|20%}}）<br>杰瑞在胃口得到满足后会变得更大，也会获得额外效果<br>额外效果：使我方全体获得等同于陈群自身{{颜色|绿|40%}}攻击力的护盾（{{颜色|绿|1}}回合）",
+        "天赋2": "道谛<!--4星天赋 -->",
+        "天赋信息2": "自身提供的护盾效果提升{{颜色|绿|15%}}",
+        "天赋3": "小瑞出击！<!--觉醒天赋 -->",
+        "天赋信息3": "我方密探在回合外造成持续伤害以外的伤害时，额外附带其{{颜色|绿|5%}}护盾量的伤害。陈群死亡后失效"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%99%88%E7%BE%A4&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "法正",
+      "first_up_pool": "持心离欲",
+      "first_up_date": "2025-12-23",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/6/63/qejszptdn6xciszk7sdxoz5pzcjdv5d.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E6%B3%95%E6%AD%A3",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E6%B3%95%E6%AD%A3&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "魔视一·穿刺",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "美美把玩",
+        "消耗能量": "{{颜色|绿|3}}",
+        "技能1": "对当前目标造成{{颜色|绿|300%}}攻击力的伤害。获得两种{{颜色|红|【圣物】}}，使用其对应的效果，根据不同的圣物组合可能触发热血沸腾组合技",
+        "技能2": "对当前目标造成{{颜色|绿|310%}}攻击力的伤害。获得两种{{颜色|红|【圣物】}}，使用其对应的效果，根据不同的圣物组合可能触发热血沸腾组合技",
+        "技能3": "对当前目标造成{{颜色|绿|320%}}攻击力的伤害。获得两种{{颜色|红|【圣物】}}，使用其对应的效果，根据不同的圣物组合可能触发热血沸腾组合技",
+        "队长技能": "天命弃子",
+        "队长技能信息": "所有阴属性密探的攻击力提升{{颜色|绿|25%}}，最大生命提升{{颜色|绿|25%}}。若我方有至少{{颜色|绿|3}}名阴属性密探，自身的增伤值提升{{颜色|绿|30}}",
+        "天赋1": "魔视三·暗翼<!--2星天赋 -->",
+        "天赋信息1": "回合开始时，额外获得{{颜色|绿|4}}枚{{颜色|红|【金币】}}",
+        "天赋2": "灭谛<!--4星天赋 -->",
+        "天赋信息2": "普攻增伤和技能增伤提升{{颜色|绿|15}}",
+        "天赋3": "抽了才能变强<!--觉醒天赋 -->",
+        "天赋信息3": "每抽取一次{{颜色|红|【圣物】}}，我方全体的攻击力和最大生命提升{{颜色|绿|1%}}（可叠加{{颜色|绿|50}}层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E6%B3%95%E6%AD%A3&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "郭女王",
+      "first_up_pool": "动静非我",
+      "first_up_date": "2025-12-11",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/e/e0/csvtu9mswn9vu90edkii6afraa1gz87.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%83%AD%E5%A5%B3%E7%8E%8B",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%83%AD%E5%A5%B3%E7%8E%8B&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "剑鸣",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "鸾凤吟",
+        "消耗能量": "{{颜色|绿|3}}",
+        "技能1": "令{{颜色|红|【伴身】}}失去{{颜色|绿|60%}}当前生命并获得护盾（{{颜色|绿|1}}回合），护盾量相当于郭女王{{颜色|绿|250%}}的攻击力。随后对当前目标造成{{颜色|绿|300%}}攻击力的伤害，<张仲剑>每有{{颜色|绿|1}}层充能，伤害系数提升{{颜色|绿|2%}}",
+        "技能2": "令{{颜色|红|【伴身】}}失去{{颜色|绿|60%}}当前生命并获得护盾（{{颜色|绿|1}}回合），护盾量相当于郭女王{{颜色|绿|250%}}的攻击力。随后对当前目标造成{{颜色|绿|310%}}攻击力的伤害，<张仲剑>每有{{颜色|绿|1}}层充能，伤害系数提升{{颜色|绿|2%}}",
+        "技能3": "令{{颜色|红|【伴身】}}失去{{颜色|绿|60%}}当前生命并获得护盾（{{颜色|绿|1}}回合），护盾量相当于郭女王{{颜色|绿|250%}}的攻击力。随后对当前目标造成{{颜色|绿|320%}}攻击力的伤害，<张仲剑>每有{{颜色|绿|1}}层充能，伤害系数提升{{颜色|绿|2%}}",
+        "队长技能": "女中王",
+        "队长技能信息": "自身的攻击力提升{{颜色|绿|40%}}，{{颜色|红|【伴身】}}的最大生命提升{{颜色|绿|40%}}",
+        "天赋1": "阴谐",
+        "天赋信息1": "{{颜色|红|【伴身】}}的生命降低至{{颜色|绿|50%}}以下时，郭女王和{{颜色|红|【伴身】}}获得{{颜色|绿|1}}点能量，这个效果一回合只能触发一次",
+        "天赋2": "灭谛",
+        "天赋信息2": "普攻增伤和技能增伤提升{{颜色|绿|15}}",
+        "天赋3": "运日",
+        "天赋信息3": "回合开始时，为<张仲剑>附加{{颜色|绿|20}}层充能"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%83%AD%E5%A5%B3%E7%8E%8B&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "蒯良",
+      "first_up_pool": "动静非我",
+      "first_up_date": "2025-12-11",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/f/fc/22ehzhg0fue5pai1nx19cc674m7ayw9.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%92%AF%E8%89%AF",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%92%AF%E8%89%AF&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "掸拭",
+        "普攻信息": "对当前目标造成{{颜色|绿|20%}}攻击力和{{颜色|红|【拂尘】}}存储生命的{{颜色|绿|40%}}的伤害，若目标为风属性，则使其获得技能免伤降低{{颜色|绿|10}}（{{颜色|绿|1}}回合）",
+        "技能": "拂扫",
+        "消耗能量": "4",
+        "技能1": "对当前目标造成{{颜色|绿|50%}}攻击力和{{颜色|红|【拂尘】}}存储生命的{{颜色|绿|140%}}的伤害，并使我方随机{{颜色|绿|1}}名破军密探最大生命提升{{颜色|绿|30%}}（{{颜色|绿|2}}回合）",
+        "技能2": "对当前目标造成{{颜色|绿|50%}}攻击力和{{颜色|红|【拂尘】}}存储生命的{{颜色|绿|150%}}的伤害，并使我方随机{{颜色|绿|1}}名破军密探最大生命提升{{颜色|绿|30%}}（{{颜色|绿|2}}回合）",
+        "技能3": "对当前目标造成{{颜色|绿|50%}}攻击力和{{颜色|红|【拂尘】}}存储生命的{{颜色|绿|160%}}的伤害，并使我方随机{{颜色|绿|1}}名破军密探最大生命提升{{颜色|绿|30%}}（{{颜色|绿|2}}回合）",
+        "队长技能": "雍季之才",
+        "队长技能信息": "我方火属性密探攻击力提升{{颜色|绿|20%}}，技能增伤提升{{颜色|绿|20}}",
+        "天赋1": "臼犯双谋<!--2星天赋 -->",
+        "天赋信息1": "回合开始时，若队友中存在蒯越，则蒯越本回合可以额外行动一次。每回合我方第一个火属性密探行动后，本回合我方火属性密探获得能量时，每点能量使自身获得{{颜色|绿|1}}层{{颜色|红|【淬火】}}（可叠加{{颜色|绿|8}}层）<br>",
+        "天赋2": "苦谛<!--4星天赋 -->",
+        "天赋信息2": "最大生命提升{{颜色|绿|15%}}",
+        "天赋3": "相马辨<!--觉醒天赋 -->",
+        "天赋信息3": "战斗开始时，我方全体获得{{颜色|绿|3}}点能量。每{{颜色|绿|3}}回合开始时，使敌方全体风属性敌人火属性抗性下降{{颜色|绿|20}}（可叠加{{颜色|绿|3}}层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%92%AF%E8%89%AF&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "诸葛亮",
+      "first_up_pool": "英徽弥亮",
+      "first_up_date": "2025-11-06",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/4/41/8o3157iy5m1ukkv4tbgoqqq3gs28aq8.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%AF%B8%E8%91%9B%E4%BA%AE",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%AF%B8%E8%91%9B%E4%BA%AE&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "龙战",
+        "普攻信息": "对敌方全体造成{{颜色|绿|60%}}攻击力的伤害，获得一层{{颜色|红|【龙气】}}（可叠加{{颜色|绿|6}}层）",
+        "技能": "地载",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "如果不处于龙脉中，则会进入<龙脉>并获得{{颜色|绿|2}}点能量和{{颜色|绿|2}}层{{颜色|红|【龙气】}}。随后对敌方全体造成{{颜色|绿|800%}}攻击力的伤害。<龙脉>：在龙脉中，我方全体的攻击力提升{{颜色|绿|20%}}，增伤值提升{{颜色|绿|20}}，免伤值提升{{颜色|绿|20}}。黄月英的主武器为鼓时，不会在龙脉中受到伤害或失去生命（对秒杀伤害有效）。龙脉需要每回合结束时消耗{{颜色|绿|3}}层{{颜色|红|【龙气】}}以维持，否则会直接结束。<br>如果已经处于龙脉中，则技能效果变为：对敌方全体造成{{颜色|绿|1200%}}攻击力的伤害。随后在龙脉中留下{{颜色|红|【铭】}}，记录当前我方全体的当前生命、能量和可行动次数。（后留下的记录会覆盖先前的记录，龙脉结束时，记录也会消失）",
+        "技能2": "如果不处于龙脉中，则会进入<龙脉>并获得{{颜色|绿|2}}点能量和{{颜色|绿|2}}层{{颜色|红|【龙气】}}。随后对敌方全体造成{{颜色|绿|810%}}攻击力的伤害。<龙脉>：在龙脉中，我方全体的攻击力提升{{颜色|绿|20%}}，增伤值提升{{颜色|绿|20}}，免伤值提升{{颜色|绿|20}}。黄月英的主武器为鼓时，不会在龙脉中受到伤害或失去生命（对秒杀伤害有效）。龙脉需要每回合结束时消耗{{颜色|绿|3}}层{{颜色|红|【龙气】}}以维持，否则会直接结束。<br>如果已经处于龙脉中，则技能效果变为：对敌方全体造成{{颜色|绿|1210%}}攻击力的伤害。随后在龙脉中留下{{颜色|红|【铭】}}，记录当前我方全体的当前生命、能量和可行动次数。（后留下的记录会覆盖先前的记录，龙脉结束时，记录也会消失）",
+        "技能3": "如果不处于龙脉中，则会进入<龙脉>并获得{{颜色|绿|2}}点能量和{{颜色|绿|2}}层{{颜色|红|【龙气】}}。随后对敌方全体造成{{颜色|绿|820%}}攻击力的伤害。<龙脉>：在龙脉中，我方全体的攻击力提升{{颜色|绿|20%}}，增伤值提升{{颜色|绿|20}}，免伤值提升{{颜色|绿|20}}。黄月英的主武器为鼓时，不会在龙脉中受到伤害或失去生命（对秒杀伤害有效）。龙脉需要每回合结束时消耗{{颜色|绿|3}}层{{颜色|红|【龙气】}}以维持，否则会直接结束。<br>如果已经处于龙脉中，则技能效果变为：对敌方全体造成{{颜色|绿|1220%}}攻击力的伤害。随后在龙脉中留下{{颜色|红|【铭】}}，记录当前我方全体的当前生命、能量和可行动次数。（后留下的记录会覆盖先前的记录，龙脉结束时，记录也会消失）",
+        "队长技能": "乾元",
+        "队长技能信息": "战斗开始时，我方全体获得{{颜色|绿|3}}点能量。自身获得{{颜色|绿|4}}层{{颜色|红|【龙气】}}。我方全员的最大生命提升{{颜色|绿|20%}}，攻击力提升{{颜色|绿|20%}}",
+        "天赋1": "黄裳<!--2星天赋 -->",
+        "天赋信息1": "我方其他队友使用技能后，诸葛亮有{{颜色|绿|50%}}的概率获得一层{{颜色|红|【龙气】}}。自身使用普攻或技能后，有{{颜色|绿|50%}}的概率额外对敌方全体造成{{颜色|绿|150%}}攻击力的技能伤害",
+        "天赋2": "金舆<!--4星天赋 -->",
+        "天赋信息2": "战斗开始时，我方全体的阳属性增伤提升{{颜色|绿|15}}，最大生命提升{{颜色|绿|15%}}。<龙脉>的效果结束时，立即获得{{颜色|绿|2}}点能量和{{颜色|绿|3}}层{{颜色|红|【龙气】}}",
+        "天赋3": "卧龙<!--觉醒天赋 -->",
+        "天赋信息3": "回合开始时，若处于<龙脉>中，自身可以额外进行一次行动"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%AF%B8%E8%91%9B%E4%BA%AE&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "司马徽",
+      "first_up_pool": "英徽弥亮",
+      "first_up_date": "2025-11-06",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/9/93/k1u7enkjs2xbefvy0kb7afrb5doxnmb.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%8F%B8%E9%A9%AC%E5%BE%BD",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%8F%B8%E9%A9%AC%E5%BE%BD&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "赤鱬之音",
+        "普攻信息": "对当前目标造成{{颜色|绿|50%}}攻击力的伤害，使当前目标获得一层{{颜色|红|【镜影】}}（可叠加）。{{颜色|红|【镜影】}}：印记，记录施加者每次施加时{{颜色|绿|200%}}攻击力的伤害<br>",
+        "技能": "横公鱼影",
+        "消耗能量": "{{颜色|绿|0}}",
+        "技能1": "技能不消耗能量，每次使用技能消耗{{颜色|绿|1}}层{{颜色|红|【水镜】}}，对当前目标造成{{颜色|绿|100%}}攻击力的伤害，引爆目标身上所有的印记，并造成记录的{{颜色|绿|100%}}印记伤害",
+        "技能2": "技能不消耗能量，每次使用技能消耗{{颜色|绿|1}}层{{颜色|红|【水镜】}}，对当前目标造成{{颜色|绿|110%}}攻击力的伤害，引爆目标身上所有的印记，并造成记录的{{颜色|绿|100%}}印记伤害",
+        "技能3": "技能不消耗能量，每次使用技能消耗{{颜色|绿|1}}层{{颜色|红|【水镜】}}，对当前目标造成{{颜色|绿|120%}}攻击力的伤害，引爆目标身上所有的印记，并造成记录的{{颜色|绿|100%}}印记伤害",
+        "队长技能": "山海之灵",
+        "队长技能信息": "我方全体印记伤害增伤提升{{颜色|绿|20}}，攻击力提升{{颜色|绿|20%}}",
+        "天赋1": "双影奇镜<!--2星天赋 -->",
+        "天赋信息1": "回合开始时，自身和葛洪的阴属性增伤提升{{颜色|绿|10}}，攻击力提升{{颜色|绿|10%}}（可叠加{{颜色|绿|5}}层）<br>",
+        "天赋2": "镜中真身<!--4星天赋 -->",
+        "天赋信息2": "印记伤害增伤提升{{颜色|绿|15}}",
+        "天赋3": "叠影<!--觉醒天赋 -->",
+        "天赋信息3": "每{{颜色|绿|3}}回合开始时，我方全体的印记伤害增伤提升{{颜色|绿|15}}（可叠加{{颜色|绿|4}}层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%8F%B8%E9%A9%AC%E5%BE%BD&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "简雍",
+      "first_up_pool": "大和丕应",
+      "first_up_date": "2025-10-16",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/d/de/l2r3vvvfykkj9grfsvx3i2s38b4ho1o.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E7%AE%80%E9%9B%8D",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E7%AE%80%E9%9B%8D&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "凤鸣",
+        "普攻信息": "奇数回合：对当前目标造成{{颜色|绿|200%}}攻击力的伤害，每有{{颜色|绿|1}}层{{颜色|红|【霸气】}}，伤害系数提升{{颜色|绿|25%}}<br>偶数回合：对敌方全体造成{{颜色|绿|100%}}攻击力的伤害，每有{{颜色|绿|1}}层{{颜色|红|【霸气】}}，伤害系数提升{{颜色|绿|15%}}",
+        "技能": "凤羽从游",
+        "消耗能量": "{{颜色|绿|3}}",
+        "技能1": "对当前目标造成{{颜色|绿|300%}}攻击力的伤害，并使自身和我方攻击力最高的密探的下一次普攻伤害必定触发<强刃>。<强刃>：属于普攻伤害，可造成额外{{颜色|绿|30%}}伤害，受到强刃增伤加成",
+        "技能2": "对当前目标造成{{颜色|绿|310%}}攻击力的伤害，并使自身和我方攻击力最高的密探的下一次普攻伤害必定触发<强刃>。<强刃>：属于普攻伤害，可造成额外{{颜色|绿|30%}}伤害，受到强刃增伤加成",
+        "技能3": "对当前目标造成{{颜色|绿|320%}}攻击力的伤害，并使自身和我方攻击力最高的密探的下一次普攻伤害必定触发<强刃>。<强刃>：属于普攻伤害，可造成额外{{颜色|绿|30%}}伤害，受到强刃增伤加成",
+        "队长技能": "昭德",
+        "队长技能信息": "我方水属性密探的普攻增伤提升{{颜色|绿|20}}，攻击力提升{{颜色|绿|20%}}",
+        "天赋1": "梧栖 <!--2星天赋 -->",
+        "天赋信息1": "除自身外的队友使用普攻后，自身普攻增伤提升{{颜色|绿|30}}，强刃增伤提升{{颜色|绿|30}}（{{颜色|绿|1}}回合），队友使用其他操作后移除。<br>自身使用技能或防御后，本回合内下一个行动的除自身外的队友行动时普攻增伤提升{{颜色|绿|30}}，水属性增伤提升{{颜色|绿|30}}（{{颜色|绿|1}}回合）",
+        "天赋2": "苦谛<!--4星天赋 -->",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "覆水<!--觉醒天赋 -->",
+        "天赋信息3": "我方密探触发<强刃>后，提升我方全体水属性增伤{{颜色|绿|3}}，普攻增伤{{颜色|绿|3}}（可叠加{{颜色|绿|10}}层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E7%AE%80%E9%9B%8D&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "曹丕",
+      "first_up_pool": "大和丕应",
+      "first_up_date": "2025-10-16",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/9/9f/s9zen6e9iqalbc7o1c7036hizn8tbpm.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E6%9B%B9%E4%B8%95",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E6%9B%B9%E4%B8%95&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "长刀",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害，并使自身减少{{颜色|绿|2}}点能量。若自身处于{{颜色|红|【拔刀】}}状态，本次攻击的伤害系数提升{{颜色|绿|50%}}",
+        "技能": "拔刀摸鱼",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "技能不消耗能量。若自身不处于{{颜色|红|【拔刀】}}状态，对当前目标造成{{颜色|绿|100%}}攻击力的伤害，进入{{颜色|红|【拔刀】}}状态（{{颜色|绿|4}}回合），并可立刻行动一次。若自身处于{{颜色|红|【拔刀】}}状态，解除自身的{{颜色|红|【拔刀】}}状态。{{颜色|红|【拔刀】}}：普攻和触发伤害增伤提升{{颜色|绿|40}}",
+        "技能2": "技能不消耗能量。若自身不处于{{颜色|红|【拔刀】}}状态，对当前目标造成{{颜色|绿|110%}}攻击力的伤害，进入{{颜色|红|【拔刀】}}状态（{{颜色|绿|4}}回合），并可立刻行动一次。若自身处于{{颜色|红|【拔刀】}}状态，解除自身的{{颜色|红|【拔刀】}}状态。{{颜色|红|【拔刀】}}：普攻和触发伤害增伤提升{{颜色|绿|40}}",
+        "技能3": "技能不消耗能量。若自身不处于{{颜色|红|【拔刀】}}状态，对当前目标造成{{颜色|绿|120%}}攻击力的伤害，进入{{颜色|红|【拔刀】}}状态（{{颜色|绿|4}}回合），并可立刻行动一次。若自身处于{{颜色|红|【拔刀】}}状态，解除自身的{{颜色|红|【拔刀】}}状态。{{颜色|红|【拔刀】}}：普攻和触发伤害增伤提升{{颜色|绿|40}}",
+        "队长技能": "龙兴",
+        "队长技能信息": "我方全体攻击力提升{{颜色|绿|15%}}，最大生命提升{{颜色|绿|15%}}",
+        "天赋1": "文气<!--2星天赋 -->",
+        "天赋信息1": "我方密探能量变化到{{颜色|绿|0}}时，普攻增伤提升{{颜色|绿|20}}（{{颜色|绿|2}}回合，可叠加{{颜色|绿|3}}层）",
+        "天赋2": "苦谛<!--4星天赋 -->",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "体气<!--觉醒天赋 -->",
+        "天赋信息3": "自身处于{{颜色|红|【拔刀】}}状态时，能量为{{颜色|绿|0}}的队友普攻后，进行一次<收割>，每回合最多触发{{颜色|绿|1}}次"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E6%9B%B9%E4%B8%95&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "吕布",
+      "first_up_pool": "以奉嘉觞",
+      "first_up_date": "2025-09-11",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/4/43/rqhrlofdjgjdju6kzi12r4rr9du5wb2.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%90%95%E5%B8%83",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%90%95%E5%B8%83&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "刺戟",
+        "普攻信息": "对当前目标造成{{颜色|绿|150%}}攻击力的伤害，并获得{{颜色|绿|1}}层{{颜色|红|【悍】}}（可叠加{{颜色|绿|9}}层），{{颜色|红|【悍】}}：攻击力提升{{颜色|绿|5%}}",
+        "技能": "挥戟",
+        "消耗能量": "3",
+        "技能1": "自身获得{{颜色|红|【霸道】}}（{{颜色|绿|2}}回合），使当前目标获得{{颜色|红|【死意】}}（{{颜色|绿|2}}回合）。",
+        "技能2": "自身获得{{颜色|红|【霸道】}}（{{颜色|绿|2}}回合），使当前目标获得{{颜色|红|【死意】}}（{{颜色|绿|2}}回合）。",
+        "技能3": "自身获得{{颜色|红|【霸道】}}（{{颜色|绿|2}}回合），使当前目标获得{{颜色|红|【死意】}}（{{颜色|绿|2}}回合）。",
+        "队长技能": "万夫不当",
+        "队长技能信息": "回合开始时，自身攻击力提升（{{颜色|绿|1}}回合），提升值为我方全体基础攻击力的{{颜色|绿|30%}}",
+        "天赋1": "逆乱<!--2星天赋 -->",
+        "天赋信息1": "战斗开始时，自身获得{{颜色|绿|6}}层{{颜色|红|【悍】}}。自身攻击力提升{{颜色|绿|30%}}，增伤值提升{{颜色|绿|30}}，自身所有攻击无视护盾。",
+        "天赋2": "纵掠<!--4星天赋 -->",
+        "天赋信息2": "战斗开始时轻骑和重骑形态均获得{{颜色|绿|3}}点能量，且自身可以立刻切换形态，自身切换形态的冷却时间减少一回合。自身分别使用普攻/技能造成普攻/技能伤害后，将伤害量的{{颜色|绿|5%}}（最大不超过自身{{颜色|绿|12%}}的攻击力）转化为我方全体密探的生命恢复，这个效果不算治疗",
+        "天赋3": "飞将军<!--觉醒天赋 -->",
+        "天赋信息3": "除自身外的地属性密探造成持续伤害以外的伤害时，附带自身攻击力{{颜色|绿|40%}}的伤害，自身死亡后失效。一场战斗生效{{颜色|绿|1}}次，自身受到致命伤害时，恢复{{颜色|绿|1}}点生命并获得{{颜色|红|【马革】}}（{{颜色|绿|3}}回合）{{颜色|红|【马革】}}：受到秒杀伤害以外的伤害转变为{{颜色|绿|0}}，持续回合结束时被放逐"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%90%95%E5%B8%83&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "周忠",
+      "first_up_pool": "以奉嘉觞",
+      "first_up_date": "2025-09-11",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/1/19/ea0v8vwnp3laq5qwk131breuxbmg6qx.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%91%A8%E5%BF%A0",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%91%A8%E5%BF%A0&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "枕头攻击",
+        "普攻信息": "恢复我方全员的生命，恢复量为自身{{颜色|绿|80%}}的攻击力",
+        "技能": "梦魇",
+        "消耗能量": "{{颜色|绿|3}}",
+        "技能1": "为我方全员恢复生命，恢复量为自身{{颜色|绿|200%}}的攻击力，随后进入{{颜色|红|【酣睡】}}状态（{{颜色|绿|5}}回合），随机进入一种<梦>并获得一次额外行动机会。处于{{颜色|红|【酣睡】}}状态时，技能消耗的能量{{颜色|绿|-3}}，同时技能效果变为：执行当前<梦>的效果。使用技能后结束{{颜色|红|【酣睡】}}状态",
+        "技能2": "为我方全员恢复生命，恢复量为自身{{颜色|绿|210%}}的攻击力，随后进入{{颜色|红|【酣睡】}}状态（{{颜色|绿|5}}回合），随机进入一种<梦>并获得一次额外行动机会。处于{{颜色|红|【酣睡】}}状态时，技能消耗的能量{{颜色|绿|-3}}，同时技能效果变为：执行当前<梦>的效果。使用技能后结束{{颜色|红|【酣睡】}}状态",
+        "技能3": "为我方全员恢复生命，恢复量为自身{{颜色|绿|220%}}的攻击力，随后进入{{颜色|红|【酣睡】}}状态（{{颜色|绿|5}}回合），随机进入一种<梦>并获得一次额外行动机会。处于{{颜色|红|【酣睡】}}状态时，技能消耗的能量{{颜色|绿|-3}}，同时技能效果变为：执行当前<梦>的效果。使用技能后结束{{颜色|红|【酣睡】}}状态",
+        "队长技能": "闭目养神",
+        "队长技能信息": "我方全员的攻击力提升{{颜色|绿|20%}}，最大生命提升{{颜色|绿|20%}}",
+        "天赋1": "醒梦<!--2星天赋 -->",
+        "天赋信息1": "回合结束时，若处于{{颜色|红|【酣睡】}}状态，则会获得一层{{颜色|红|【昏倦】}}（{{颜色|绿|2}}回合，可叠加{{颜色|绿|5}}层）。{{颜色|红|【酣睡】}}状态解除时，对敌方全员造成{{颜色|绿|100%}}*{{颜色|红|【昏倦】}}层数的触发伤害",
+        "天赋2": "道谛",
+        "天赋信息2": "自身提供的治疗效果提升{{颜色|绿|15%}}",
+        "天赋3": "神游<!--觉醒天赋 -->",
+        "天赋信息3": "每次进入{{颜色|红|【酣睡】}}状态，我方全员的攻击力提升{{颜色|绿|10%}}，最大生命提升{{颜色|绿|10%}}（可叠加{{颜色|绿|5}}层）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%91%A8%E5%BF%A0&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "庞羲",
+      "first_up_pool": "劫烬灰飞",
+      "first_up_date": "2025-08-21",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/1/1e/4i7fdc7783c1vk8le5hirx5avneaxrk.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BA%9E%E7%BE%B2",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BA%9E%E7%BE%B2&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "摄事",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害。如果有处于{{颜色|红|【夺权】}}状态的队友，效果变为：操纵处于{{颜色|红|【夺权】}}状态的队友，令其对当前目标造成{{颜色|绿|3}}次{{颜色|绿|60%}}攻击力的普攻伤害。操纵队友行动时，视为自身使用了一次对应操作，不会消耗队友的能量和行动次数",
+        "技能": "握节鸣金",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "对当前目标造成{{颜色|绿|450%}}攻击力的伤害。如果有处于{{颜色|红|【夺权】}}状态的队友，效果变为：操纵处于{{颜色|红|【夺权】}}状态的队友，令其对当前目标造成{{颜色|绿|600%}}攻击力的技能伤害，该队友获得{{颜色|红|【追剿】}}（{{颜色|绿|1}}回合）。{{颜色|红|【追剿】}}：因其他效果对敌人进行攻击后，额外对其造成{{颜色|绿|80%}}攻击力的普攻伤害",
+        "技能2": "对当前目标造成{{颜色|绿|460%}}攻击力的伤害。如果有处于{{颜色|红|【夺权】}}状态的队友，效果变为：操纵处于{{颜色|红|【夺权】}}状态的队友，令其对当前目标造成{{颜色|绿|610%}}攻击力的技能伤害，该队友获得{{颜色|红|【追剿】}}（{{颜色|绿|1}}回合）。{{颜色|红|【追剿】}}：因其他效果对敌人进行攻击后，额外对其造成{{颜色|绿|80%}}攻击力的普攻伤害",
+        "技能3": "对当前目标造成{{颜色|绿|470%}}攻击力的伤害。如果有处于{{颜色|红|【夺权】}}状态的队友，效果变为：操纵处于{{颜色|红|【夺权】}}状态的队友，令其对当前目标造成{{颜色|绿|620%}}攻击力的技能伤害，该队友获得{{颜色|红|【追剿】}}（{{颜色|绿|1}}回合）。{{颜色|红|【追剿】}}：因其他效果对敌人进行攻击后，额外对其造成{{颜色|绿|80%}}攻击力的普攻伤害",
+        "队长技能": "蔽日",
+        "队长技能信息": "战斗开始时，为生命值最高的敌人附加{{颜色|红|【垂荫】}}，使其攻击力降低{{颜色|绿|15%}}。持有{{颜色|红|【垂荫】}}的敌人每次受到伤害，我方全体的攻击力和最大生命提升{{颜色|绿|1%}}（可叠加{{颜色|绿|40}}层）",
+        "天赋1": "垂拱<!--2星-->",
+        "天赋信息1": "回合开始时，处于{{颜色|红|【夺权】}}状态的队友的基础攻击力和基础生命值会得到提升（{{颜色|绿|1}}回合），提升量相当于庞羲{{颜色|绿|40%}}的基础攻击力和基础生命值",
+        "天赋2": "视升平<!--4星-->",
+        "天赋信息2": "下拉防御时，若我方有队友处于{{颜色|红|【夺权】}}状态，则本回合可以额外进行一次行动。这个效果一回合只能触发一次。每回合开始时，提升处于{{颜色|红|【夺权】}}状态的队友{{颜色|绿|30}}普攻增伤和持续伤害增伤（{{颜色|绿|1}}回合）",
+        "天赋3": "端居<!--觉醒-->",
+        "天赋信息3": "处于{{颜色|红|【夺权】}}状态的队友受到攻击时，若本次攻击的伤害会使其生命降低至{{颜色|绿|0}}，则立即为其恢复{{颜色|绿|100%}}最大生命。这个效果一场战斗中可以触发三次"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BA%9E%E7%BE%B2&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "刘璋",
+      "first_up_pool": "劫烬灰飞",
+      "first_up_date": "2025-08-21",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/d/dd/pdlhxxe3ct2vf1dzzmawzl150ohbhzy.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%88%98%E7%92%8B",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%88%98%E7%92%8B&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "蜀钩",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害，若目标存在{{颜色|红|【箭伤】}}，则移除其{{颜色|红|【箭伤】}}并为我方全体附加{{颜色|绿|1}}层{{颜色|红|【钩束】}}（可叠加{{颜色|绿|3}}层，{{颜色|绿|1}}回合）。{{颜色|红|【钩束】}}：格挡值提升，提升量为施加者{{颜色|绿|1.5%}}的最大生命",
+        "技能": "雪月",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "对当前目标造成{{颜色|绿|650%}}攻击力的伤害，随后获得{{颜色|红|【提防】}}（{{颜色|绿|3}}回合）。{{颜色|红|【提防】}}：回合开始时，额外获得{{颜色|绿|2}}次行动机会",
+        "技能2": "对当前目标造成{{颜色|绿|660%}}攻击力的伤害，随后获得{{颜色|红|【提防】}}（{{颜色|绿|3}}回合）。{{颜色|红|【提防】}}：回合开始时，额外获得{{颜色|绿|2}}次行动机会",
+        "技能3": "对当前目标造成{{颜色|绿|670%}}攻击力的伤害，随后获得{{颜色|红|【提防】}}（{{颜色|绿|3}}回合）。{{颜色|红|【提防】}}：回合开始时，额外获得{{颜色|绿|2}}次行动机会",
+        "队长技能": "持盈",
+        "队长技能信息": "我方全体的地属性增伤提升{{颜色|绿|20}}，最大生命提升{{颜色|绿|20%}}",
+        "天赋1": "自卫<!-- 2星天赋 -->",
+        "天赋信息1": "使用技能后，获得{{颜色|绿|10}}层{{颜色|红|【破袭】}}（可叠加{{颜色|绿|99}}层）。{{颜色|红|【破袭】}}：攻击力提升{{颜色|绿|5%}}，地属性增伤提升{{颜色|绿|5}}，每次行动后减少{{颜色|绿|1}}层",
+        "天赋2": "戳一下试试<!-- 4星天赋 -->",
+        "天赋信息2": "使用技能后，立刻获得{{颜色|绿|2}}次额外行动机会。这个效果一回合只能触发{{颜色|绿|1}}次",
+        "天赋3": "附庸<!-- 觉醒天赋 -->",
+        "天赋信息3": "若我方存在至少{{颜色|绿|3}}名地属性密探，则每回合开始时，自身可以额外再行动{{颜色|绿|1}}次"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%88%98%E7%92%8B&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "钟繇",
+      "first_up_pool": "渊鼓锽钟",
+      "first_up_date": "2025-06-26",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/b/bb/tp8zc0pbtr2rzy1n6kdyi5wdtle3f0q.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%92%9F%E7%B9%87",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%92%9F%E7%B9%87&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "写心",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害，使我方全体获得护盾（{{颜色|绿|1}}回合），护盾量相当于自身最大生命{{颜色|绿|8%}}",
+        "技能": "调商宫",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "对当前目标造成{{颜色|绿|300%}}攻击力的伤害，使我方全体获得可抵挡相当于自身最大生命{{颜色|绿|12%}}的护盾（{{颜色|绿|1}}回合）和{{颜色|绿|1}}层{{颜色|红|【筝鸣】}}（可叠加，{{颜色|绿|1}}回合）。<br>",
+        "技能2": "对当前目标造成{{颜色|绿|310%}}攻击力的伤害，使我方全体获得可抵挡相当于自身最大生命{{颜色|绿|12%}}的护盾（{{颜色|绿|1}}回合）和{{颜色|绿|1}}层{{颜色|红|【筝鸣】}}（可叠加，{{颜色|绿|1}}回合）。<br>",
+        "技能3": "对当前目标造成{{颜色|绿|320%}}攻击力的伤害，使我方全体获得可抵挡相当于自身最大生命{{颜色|绿|12%}}的护盾（{{颜色|绿|1}}回合）和{{颜色|绿|1}}层{{颜色|红|【筝鸣】}}（可叠加，{{颜色|绿|1}}回合）。<br>",
+        "队长技能": "穷劫曲",
+        "队长技能信息": "战斗开始时若我方存在{{颜色|绿|5}}名火属性密探，我方全体最大生命提升{{颜色|绿|50%}}，火属性增伤提升{{颜色|绿|50}}",
+        "天赋1": "藏锋<!--2星天赋 -->",
+        "天赋信息1": "我方密探生命降低至{{颜色|绿|60%}}时，延长我方全体{{颜色|红|【墨研】}}{{颜色|绿|3}}回合，一场战斗只生效{{颜色|绿|1}}次。若我方场上存在{{颜色|绿|5}}名火属性密探，则我方密探生命降低时，延长目标{{颜色|红|【墨研】}}{{颜色|绿|1}}回合",
+        "天赋2": "苦谛<!--4星天赋 -->",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "回锋<!--觉醒天赋 -->",
+        "天赋信息3": "我方密探受到致命伤害时，提升我方全体最大生命{{颜色|绿|50%}}，自身技能消耗能量{{颜色|绿|-1}}，一场战斗只能触发一次"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%92%9F%E7%B9%87&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "夏侯渊",
+      "first_up_pool": "渊鼓锽钟",
+      "first_up_date": "2025-06-26",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/f/f9/9gbvmg4new9i7pp7wycr5nf0bfi5p95.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%A4%8F%E4%BE%AF%E6%B8%8A",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%A4%8F%E4%BE%AF%E6%B8%8A&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "汉律抽击",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害，若自身{{颜色|红|【律考】}}层数大于或等于{{颜色|绿|3}}，则会额外进行一次攻击。若{{颜色|红|【律考】}}层数为{{颜色|绿|5}}，造成的伤害翻倍。随后获得一层{{颜色|红|【律考】}}（可叠加{{颜色|绿|5}}层）",
+        "技能": "无情",
+        "消耗能量": "{{颜色|绿|0}}",
+        "技能1": "技能不消耗能量，至少拥有{{颜色|绿|3}}层{{颜色|红|【律考】}}时可以使用技能。消耗一层{{颜色|红|【律考】}}，对当前目标造成{{颜色|绿|450%}}攻击力的伤害。若{{颜色|红|【律考】}}层数为{{颜色|绿|5}}，技能效果变为：对当前目标造成{{颜色|绿|1200%}}攻击力的伤害，将自身的{{颜色|红|【竭力】}}状态转变为{{颜色|红|【竭心尽力】}}。{{颜色|红|【竭心尽力】}}状态下无法再获得{{颜色|红|【律考】}}，普攻增伤和技能增伤提升{{颜色|绿|30}}，阳属性增伤提升{{颜色|绿|30}}，使用技能不会再消耗{{颜色|红|【律考】}}，且行动后若自身有{{颜色|红|【律考】}}，则会消耗一层{{颜色|红|【律考】}}，本回合可以额外进行一次行动",
+        "技能2": "技能不消耗能量，至少拥有{{颜色|绿|3}}层{{颜色|红|【律考】}}时可以使用技能。消耗一层{{颜色|红|【律考】}}，对当前目标造成{{颜色|绿|460%}}攻击力的伤害。若{{颜色|红|【律考】}}层数为{{颜色|绿|5}}，技能效果变为：对当前目标造成{{颜色|绿|1210%}}攻击力的伤害，将自身的{{颜色|红|【竭力】}}状态转变为{{颜色|红|【竭心尽力】}}。{{颜色|红|【竭心尽力】}}状态下无法再获得{{颜色|红|【律考】}}，普攻增伤和技能增伤提升{{颜色|绿|30}}，阳属性增伤提升{{颜色|绿|30}}，使用技能不会再消耗{{颜色|红|【律考】}}，且行动后若自身有{{颜色|红|【律考】}}，则会消耗一层{{颜色|红|【律考】}}，本回合可以额外进行一次行动",
+        "技能3": "技能不消耗能量，至少拥有{{颜色|绿|3}}层{{颜色|红|【律考】}}时可以使用技能。消耗一层{{颜色|红|【律考】}}，对当前目标造成{{颜色|绿|470%}}攻击力的伤害。若{{颜色|红|【律考】}}层数为{{颜色|绿|5}}，技能效果变为：对当前目标造成{{颜色|绿|1220%}}攻击力的伤害，将自身的{{颜色|红|【竭力】}}状态转变为{{颜色|红|【竭心尽力】}}。{{颜色|红|【竭心尽力】}}状态下无法再获得{{颜色|红|【律考】}}，普攻增伤和技能增伤提升{{颜色|绿|30}}，阳属性增伤提升{{颜色|绿|30}}，使用技能不会再消耗{{颜色|红|【律考】}}，且行动后若自身有{{颜色|红|【律考】}}，则会消耗一层{{颜色|红|【律考】}}，本回合可以额外进行一次行动",
+        "队长技能": "军威重",
+        "队长技能信息": "我方全体的最大生命提升{{颜色|绿|20%}}，攻击力提升{{颜色|绿|20%}}",
+        "天赋1": "元戎<!--2星天赋 -->",
+        "天赋信息1": "获得能量时，每{{颜色|绿|1}}点能量会转变为提升自身{{颜色|绿|5%}}攻击力和{{颜色|绿|5}}阳属性增伤（可叠加{{颜色|绿|12}}层）",
+        "天赋2": "军棍<!--4星天赋 -->",
+        "天赋信息2": "普攻增伤和技能增伤提升{{颜色|绿|15}}。解除{{颜色|红|【竭力】}}或{{颜色|红|【竭心尽力】}}状态时，获得{{颜色|绿|1}}层{{颜色|红|【律考】}}",
+        "天赋3": "极刑<!--觉醒天赋 -->",
+        "天赋信息3": "受到致命伤害时，对敌方全体造成{{颜色|绿|3000%}}攻击力的伤害。这个效果一场战斗中只能触发一次"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%A4%8F%E4%BE%AF%E6%B8%8A&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "张燕",
+      "first_up_pool": "暮燕翻雷",
+      "first_up_date": "2025-05-29",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/4/4e/q437tdq6zfmflxk64earwz56ag1l6sr.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E7%87%95",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E7%87%95&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "飞燕",
+        "普攻信息": "对敌方全体造成{{颜色|绿|50%}}攻击力的伤害，若目标存在{{颜色|红|【啄矢】}}，则为自身附加{{颜色|红|【翔跃】}}（{{颜色|绿|1}}回合）且本回合可以额外行动一次。若自身处于{{颜色|红|【翔跃】}}状态，普攻的效果变为：对敌方全体造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "褐衣郎",
+        "消耗能量": "4",
+        "技能1": "令当前目标失去{{颜色|绿|15%}}最大生命，并为其附加{{颜色|红|【焚巢】}}（可叠加{{颜色|绿|2}}层）。若当前目标存在{{颜色|红|【啄矢】}}或{{颜色|红|【焚巢】}}，则技能效果变为：消耗自身{{颜色|绿|15%}}当前生命，对敌方全体造成本次消耗的生命{{颜色|绿|1600%}}的伤害，随后获得{{颜色|红|【燕翼】}}（{{颜色|绿|2}}回合）。{{颜色|红|【焚巢】}}：护盾，护盾量为自身{{颜色|绿|15%}}最大生命。{{颜色|红|【燕翼】}}：护盾。护盾量为自身{{颜色|绿|30%}}最大生命",
+        "技能2": "令当前目标失去{{颜色|绿|15%}}最大生命，并为其附加{{颜色|红|【焚巢】}}（可叠加{{颜色|绿|2}}层）。若当前目标存在{{颜色|红|【啄矢】}}或{{颜色|红|【焚巢】}}，则技能效果变为：消耗自身{{颜色|绿|15%}}当前生命，对敌方全体造成本次消耗的生命{{颜色|绿|1610%}}的伤害，随后获得{{颜色|红|【燕翼】}}（{{颜色|绿|2}}回合）。{{颜色|红|【焚巢】}}：护盾，护盾量为自身{{颜色|绿|15%}}最大生命。{{颜色|红|【燕翼】}}：护盾。护盾量为自身{{颜色|绿|30%}}最大生命",
+        "技能3": "令当前目标失去{{颜色|绿|15%}}最大生命，并为其附加{{颜色|红|【焚巢】}}（可叠加{{颜色|绿|2}}层）。若当前目标存在{{颜色|红|【啄矢】}}或{{颜色|红|【焚巢】}}，则技能效果变为：消耗自身{{颜色|绿|15%}}当前生命，对敌方全体造成本次消耗的生命{{颜色|绿|1620%}}的伤害，随后获得{{颜色|红|【燕翼】}}（{{颜色|绿|2}}回合）。{{颜色|红|【焚巢】}}：护盾，护盾量为自身{{颜色|绿|15%}}最大生命。{{颜色|红|【燕翼】}}：护盾。护盾量为自身{{颜色|绿|30%}}最大生命",
+        "队长技能": "侵掠如火",
+        "队长技能信息": "战斗开始时，获得{{颜色|绿|3}}点能量。提升自身{{颜色|绿|30}}火属性增伤",
+        "天赋1": "起事<!--2星天赋 -->",
+        "天赋信息1": "敌人的{{颜色|红|【焚巢】}}被击破时，我方全体的普攻增伤和技能增伤提升{{颜色|绿|30}}",
+        "天赋2": "苦谛<!--4星天赋 -->",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "轻捷<!--觉醒天赋 -->",
+        "天赋信息3": "技能消耗的能量{{颜色|绿|-1}}"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E7%87%95&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "虞翻",
+      "first_up_pool": "暮燕翻雷",
+      "first_up_date": "2025-05-29",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/0/05/ilrtuj9i5vg1ojyt7pvzdkm3fvcq903.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%99%9E%E7%BF%BB",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%99%9E%E7%BF%BB&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "隐刃",
+        "普攻信息": "对当前目标造成两次{{颜色|绿|50%}}攻击力的伤害。若有敌人持有{{颜色|红|【偃甲·袖剑】}}，则效果变为：对持有{{颜色|红|【偃甲·袖剑】}}的所有敌人造成两次{{颜色|绿|80%}}攻击力的偃甲伤害。如果无法选中目标，则会攻击随机敌人",
+        "技能": "杀不义",
+        "消耗能量": "3",
+        "技能1": "将{{颜色|红|【偃甲·袖剑】}}转移给当前目标，并对其造成{{颜色|绿|480%}}攻击力的偃甲伤害。若自身未持有但有敌人持有{{颜色|红|【偃甲·袖剑】}}，则技能效果变为：对持有{{颜色|红|【偃甲·袖剑】}}的所有敌人造成{{颜色|绿|480%}}攻击力的偃甲伤害，目标每有一层{{颜色|红|【断肠草】}}，伤害系数提升{{颜色|绿|40%}}。如果无法选中目标，则会攻击随机敌人。随后清除其{{颜色|红|【断肠草】}}效果并回收所有{{颜色|红|【偃甲·袖剑】}}",
+        "技能2": "将{{颜色|红|【偃甲·袖剑】}}转移给当前目标，并对其造成{{颜色|绿|490%}}攻击力的偃甲伤害。若自身未持有但有敌人持有{{颜色|红|【偃甲·袖剑】}}，则技能效果变为：对持有{{颜色|红|【偃甲·袖剑】}}的所有敌人造成{{颜色|绿|490%}}攻击力的偃甲伤害，目标每有一层{{颜色|红|【断肠草】}}，伤害系数提升{{颜色|绿|40%}}。如果无法选中目标，则会攻击随机敌人。随后清除其{{颜色|红|【断肠草】}}效果并回收所有{{颜色|红|【偃甲·袖剑】}}",
+        "技能3": "将{{颜色|红|【偃甲·袖剑】}}转移给当前目标，并对其造成{{颜色|绿|500%}}攻击力的偃甲伤害。若自身未持有但有敌人持有{{颜色|红|【偃甲·袖剑】}}，则技能效果变为：对持有{{颜色|红|【偃甲·袖剑】}}的所有敌人造成{{颜色|绿|500%}}攻击力的偃甲伤害，目标每有一层{{颜色|红|【断肠草】}}，伤害系数提升{{颜色|绿|40%}}。如果无法选中目标，则会攻击随机敌人。随后清除其{{颜色|红|【断肠草】}}效果并回收所有{{颜色|红|【偃甲·袖剑】}}",
+        "队长技能": "交相利",
+        "队长技能信息": "我方全体的最大生命提升{{颜色|绿|15%}}，攻击力提升{{颜色|绿|15%}}，偃甲伤害增伤提升{{颜色|绿|10}}",
+        "天赋1": "兜帽上滑<!--2星天赋 -->",
+        "天赋信息1": "我方行动结束时，若有敌人持有{{颜色|红|【偃甲·袖剑】}}，则对持有{{颜色|红|【偃甲·袖剑】}}的所有敌人造成{{颜色|绿|80%}}攻击力的偃甲伤害",
+        "天赋2": "无生<!--4星天赋 -->",
+        "天赋信息2": "偃甲伤害增伤提升{{颜色|绿|15}}",
+        "天赋3": "兜帽下拉<!--觉醒天赋 -->",
+        "天赋信息3": "使用普攻和技能后，进入防御状态（{{颜色|绿|1}}回合）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%99%9E%E7%BF%BB&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "程普",
+      "first_up_pool": "隧象衔尾",
+      "first_up_date": "2025-04-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/e/ed/1mr8kpxj7r6fic9jawzdl0yxvuxnw3x.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E7%A8%8B%E6%99%AE",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E7%A8%8B%E6%99%AE&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "锤击",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "炎锤",
+        "消耗能量": "{{颜色|绿|0}}",
+        "技能1": "不消耗能量，至少拥有{{颜色|绿|1}}层{{颜色|红|【百炼钢】}}时可以使用技能，对当前目标造成{{颜色|绿|100%}}攻击力的伤害。",
+        "技能2": "不消耗能量，至少拥有{{颜色|绿|1}}层{{颜色|红|【百炼钢】}}时可以使用技能，对当前目标造成{{颜色|绿|110%}}攻击力的伤害。",
+        "技能3": "不消耗能量，至少拥有{{颜色|绿|1}}层{{颜色|红|【百炼钢】}}时可以使用技能，对当前目标造成{{颜色|绿|120%}}攻击力的伤害。",
+        "队长技能": "百兵谱",
+        "队长技能信息": "我方每有{{颜色|绿|1}}种属性的密探，我方全属性增伤提升{{颜色|绿|5}}，最大生命提升{{颜色|绿|5%}}",
+        "天赋1": "军备展示<!--2星天赋 -->",
+        "天赋信息1": "我方除自身外的密探获得{{颜色|红|【兵器】}}时，我方全体增伤值提升{{颜色|绿|5}}（可叠加{{颜色|绿|4}}层）。回合开始时，若我方密探存在{{颜色|绿|4}}把{{颜色|红|【兵器】}}，我方全体增伤值提升{{颜色|绿|20}}（{{颜色|绿|1}}回合）",
+        "天赋2": "苦谛<!--4星天赋 -->",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "利器神兵<!--觉醒天赋 -->",
+        "天赋信息3": "我方除自身外的密探获得{{颜色|红|【兵器】}}后，造成持续伤害以外的伤害时会附带程普攻击力{{颜色|绿|100%}}的伤害，程普死亡后失效"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E7%A8%8B%E6%99%AE&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "士燮",
+      "first_up_pool": "隧象衔尾",
+      "first_up_date": "2025-04-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/b/b2/9p6j3vbe64apcr4az6g2wqhceffi9yw.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%A3%AB%E7%87%AE",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%A3%AB%E7%87%AE&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "潮涌",
+        "普攻信息": "为{{颜色|红|【流水阵】}}补充护盾量，补充量相当于自身{{颜色|绿|110%}}的攻击力。随后对敌方全体造成伤害，伤害量为自身护盾量的{{颜色|绿|10%}}",
+        "技能": "洪涛澜",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "为{{颜色|红|【流水阵】}}补充护盾量，补充量相当于自身{{颜色|绿|260%}}的攻击力。随后为我方全体附加{{颜色|绿|3}}层{{颜色|红|【士王】}}（{{颜色|绿|1}}回合，可叠加{{颜色|绿|3}}层）。{{颜色|红|【士王】}}：免伤值提升{{颜色|绿|6}}。受到攻击后会减少{{颜色|绿|1}}层，同时为{{颜色|红|【流水阵】}}补充护盾量，补充量相当于自身{{颜色|绿|30%}}的攻击力",
+        "技能2": "为{{颜色|红|【流水阵】}}补充护盾量，补充量相当于自身{{颜色|绿|270%}}的攻击力。随后为我方全体附加{{颜色|绿|3}}层{{颜色|红|【士王】}}（{{颜色|绿|1}}回合，可叠加{{颜色|绿|3}}层）。{{颜色|红|【士王】}}：免伤值提升{{颜色|绿|6}}。受到攻击后会减少{{颜色|绿|1}}层，同时为{{颜色|红|【流水阵】}}补充护盾量，补充量相当于自身{{颜色|绿|30%}}的攻击力",
+        "技能3": "为{{颜色|红|【流水阵】}}补充护盾量，补充量相当于自身{{颜色|绿|280%}}的攻击力。随后为我方全体附加{{颜色|绿|3}}层{{颜色|红|【士王】}}（{{颜色|绿|1}}回合，可叠加{{颜色|绿|3}}层）。{{颜色|红|【士王】}}：免伤值提升{{颜色|绿|6}}。受到攻击后会减少{{颜色|绿|1}}层，同时为{{颜色|红|【流水阵】}}补充护盾量，补充量相当于自身{{颜色|绿|30%}}的攻击力",
+        "队长技能": "越裳是南",
+        "队长技能信息": "我方全体的最大生命提升{{颜色|绿|15%}}，攻击力提升{{颜色|绿|15%}}，获得的护盾效果提升{{颜色|绿|6%}}",
+        "天赋1": "千乘主<!--2星天赋 -->",
+        "天赋信息1": "每{{颜色|绿|2}}回合开始时，若本场战斗中自身的生命未低于过{{颜色|绿|100%}}，提升我方全体{{颜色|绿|8}}触发伤害增伤和持续伤害增伤（可叠加{{颜色|绿|10}}层）",
+        "天赋2": "僭越<!--4星天赋 -->",
+        "天赋信息2": "提供的护盾效果提升{{颜色|绿|15%}}",
+        "天赋3": "荔枝补血糖<!--觉醒天赋 -->",
+        "天赋信息3": "每回合开始时，为{{颜色|红|【流水阵】}}补充护盾量，补充量相当于自身{{颜色|绿|50%}}的攻击力"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%A3%AB%E7%87%AE&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "董白",
+      "first_up_pool": "白日昭只",
+      "first_up_date": "2025-03-13",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/f/fe/lz337k4yneie5m7vknu2hhk4gk15521.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%91%A3%E7%99%BD",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%91%A3%E7%99%BD&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "构煽",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力伤害，若目标生命低于{{颜色|绿|20%}}，则董白相邻密探攻击力提升{{颜色|绿|10%}}（{{颜色|绿|1}}回合）",
+        "技能": "视眇望冥",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "对当前目标造成{{颜色|绿|300%}}攻击力的伤害，并使目标获得{{颜色|红|【晦盲】}}（{{颜色|绿|1}}回合）。{{颜色|红|【晦盲】}}：受到触发伤害的次数达到{{颜色|绿|10}}次时，自身普攻增伤和技能增伤降低{{颜色|绿|20}}（{{颜色|绿|3}}回合）",
+        "技能2": "对当前目标造成{{颜色|绿|310%}}攻击力的伤害，并使目标获得{{颜色|红|【晦盲】}}（{{颜色|绿|1}}回合）。{{颜色|红|【晦盲】}}：受到触发伤害的次数达到{{颜色|绿|10}}次时，自身普攻增伤和技能增伤降低{{颜色|绿|20}}（{{颜色|绿|3}}回合）",
+        "技能3": "对当前目标造成{{颜色|绿|320%}}攻击力的伤害，并使目标获得{{颜色|红|【晦盲】}}（{{颜色|绿|1}}回合）。{{颜色|红|【晦盲】}}：受到触发伤害的次数达到{{颜色|绿|10}}次时，自身普攻增伤和技能增伤降低{{颜色|绿|20}}（{{颜色|绿|3}}回合）",
+        "队长技能": "成朋以惑",
+        "队长技能信息": "我方全体生命值提升{{颜色|绿|20%}}，触发伤害增伤提升{{颜色|绿|15}}",
+        "天赋1": "重重锢露",
+        "天赋信息1": "若我方存在{{颜色|绿|3}}名地属性密探，则提升我方全体最大生命{{颜色|绿|20%}}，且每回合开始时，我方全体获得{{颜色|红|【黄金甲】}}（{{颜色|绿|1}}回合）。{{颜色|红|【黄金甲】}}：普攻免伤和技能免伤提升{{颜色|绿|30}}，受到来自敌人的一次攻击后解除<br>若我方存在{{颜色|绿|5}}名地属性密探，每{{颜色|绿|2}}回合开始时，我方攻击力最高的密探本回合可以额外行动{{颜色|绿|1}}次<!--2星天赋 -->",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}<!--4星天赋 -->",
+        "天赋3": "佯背引敌",
+        "天赋信息3": "自身和马超受到敌人攻击的次数累计达到{{颜色|绿|20}}次时，提升我方全体地属性增伤{{颜色|绿|30}}，一场战斗仅生效{{颜色|绿|1}}次<!--觉醒天赋 -->"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%91%A3%E7%99%BD&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "张昭",
+      "first_up_pool": "白日昭只",
+      "first_up_date": "2025-03-13",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/a/ae/l5z3jfv91p3u2jihe3a3u62yw1u3xub.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E6%98%AD",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E6%98%AD&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "股肱良哉<ref>《尚书•益稷》：“元首明哉，股肱良哉，庶事康哉”</ref>",
+        "普攻信息": "对当前目标造成两次{{颜色|绿|60%}}攻击力的伤害。若当前处于{{颜色|红|【习习谷风】}}，则为自身和与自身顺序上一位和下一位的密探附加{{颜色|红|【百工熙<ref>《尚书·虞书·益稷第五》：股肱喜哉！元首起哉！百工熙哉！</ref>】}}（{{颜色|绿|2}}回合）",
+        "技能": "维风及雨<ref>《诗经·小雅·谷风》：“习习谷风，维风及雨。将恐将惧，维予与女。”</ref>",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "对当前目标造成两次{{颜色|绿|250%}}攻击力的伤害，将当前场地效果变换为{{颜色|红|【习习谷风】}}（{{颜色|绿|3}}回合）",
+        "技能2": "对当前目标造成两次{{颜色|绿|260%}}攻击力的伤害，将当前场地效果变换为{{颜色|红|【习习谷风】}}（{{颜色|绿|3}}回合）",
+        "技能3": "对当前目标造成两次{{颜色|绿|270%}}攻击力的伤害，将当前场地效果变换为{{颜色|红|【习习谷风】}}（{{颜色|绿|3}}回合）",
+        "队长技能": "扬州风雨",
+        "队长技能信息": "我方全体风属性密探的最大生命提升{{颜色|绿|20%}}，攻击力提升{{颜色|绿|20%}}。回合开始时，若当前处于{{颜色|红|【习习谷风】}}，则我方每有两名风属性密探，对敌方全体造成一次{{颜色|绿|20%}}攻击力的普攻伤害",
+        "天赋1": "整旅耀武<ref>张衡《大司农鲍德诔》：“君斯整旅。耀武月频。”</ref>",
+        "天赋信息1": "我方一回合内对敌人进行{{颜色|绿|10}}次攻击（对多个单位同时攻击时只算一次），令我方随机破军密探再进行一次行动。这个效果发动后，至少在{{颜色|绿|2}}回合后才能再次发动",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "慑震戎虏",
+        "天赋信息3": "除自身外的我方密探造成持续伤害以外的伤害时，都会附带张昭{{颜色|绿|30%}}攻击力的伤害。张昭死亡后失效"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E6%98%AD&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "刘豹",
+      "first_up_pool": "深水逐鹿",
+      "first_up_date": "2025-02-20",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/1/1a/o1apoxwgp1wd4bhlmv6p0wyecicvnj8.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%88%98%E8%B1%B9",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%88%98%E8%B1%B9&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%88%98%E8%B1%B9&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%88%98%E8%B1%B9&action=raw&research=20260916"
+    },
+    {
+      "name": "张绣",
+      "first_up_pool": "深水逐鹿",
+      "first_up_date": "2025-02-20",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/2/26/t5yd08xs1i5f32rs23bh6y75oss8x62.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E7%BB%A3",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E7%BB%A3&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "獠牙",
+        "普攻信息": "对当前目标造成{{颜色|绿|150%}}攻击力的伤害，并为其附加一层{{颜色|红|【怯战】}}(可叠加{{颜色|绿|10}}层)。若处于{{颜色|红|【狼聚】}}状态，则伤害转变为技能伤害，伤害系数提升{{颜色|绿|300%}}且无视敌方防御和格挡值。{{颜色|红|【怯战】}}：免伤值降低{{颜色|绿|2}}",
+        "技能": "恣狼戾",
+        "消耗能量": "{{颜色|绿|5}}",
+        "技能1": "对当前目标造成{{颜色|绿|810%}}攻击力的伤害，自身获得{{颜色|红|【爪牙捍御】}}({{颜色|绿|3}}回合)",
+        "技能2": "对当前目标造成{{颜色|绿|820%}}攻击力的伤害，自身获得{{颜色|红|【爪牙捍御】}}({{颜色|绿|3}}回合)",
+        "技能3": "对当前目标造成{{颜色|绿|830%}}攻击力的伤害，自身获得{{颜色|红|【爪牙捍御】}}({{颜色|绿|3}}回合)",
+        "队长技能": "狺然啸聚",
+        "队长技能信息": "我方全体攻击力提升{{颜色|绿|15%}}，敌方全体阴属性抗性降低{{颜色|绿|20}}",
+        "天赋1": "追亡逐北",
+        "天赋信息1": "敌人获得{{颜色|红|【怯战】}}时，张绣攻击力提升，提升量相当于该敌人{{颜色|绿|15%}}的攻击力，一次提升不超过张绣{{颜色|绿|40%}}的基础攻击力，最多提升{{颜色|绿|5}}次，死亡时会重置该效果。队伍中每有{{颜色|绿|1}}个阴属性密探，我方全体阳属性抗性提升{{颜色|绿|5}}（可叠加{{颜色|绿|5}}层）；若有{{颜色|绿|5}}个阴属性密探，阳属性抗性额外提升{{颜色|绿|15}}",
+        "天赋2": "灭谛",
+        "天赋信息2": "普攻增伤和技能增伤提升{{颜色|绿|15}}",
+        "天赋3": "戮力厮杀",
+        "天赋信息3": "除自身外场上有单位死亡时，降低敌方全体阴属性抗性{{颜色|绿|40}}"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E7%BB%A3&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "祢衡",
+      "first_up_pool": "风兴云蒸",
+      "first_up_date": "2025-01-09",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/1/1e/jotvcoo69u0j3grqg2k955id7uxe56x.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E7%A5%A2%E8%A1%A1",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E7%A5%A2%E8%A1%A1&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "击刺",
+        "普攻信息": "对敌方全体造成{{颜色|绿|60%}}攻击力的伤害。如果自身处于{{颜色|红|【化仙】}}状态，则效果变为：对敌方全体造成{{颜色|绿|80%}}攻击力的伤害，自身每有{{颜色|绿|1}}层{{颜色|红|【化仙】}}，伤害系数提升{{颜色|绿|30%}}",
+        "技能": "傲意琅骨",
+        "消耗能量": "{{颜色|绿|5}}",
+        "技能1": "对敌方全体造成{{颜色|绿|300%}}攻击力的伤害，随后清除自身的{{颜色|红|【化仙】}}效果并重新附加一层{{颜色|红|【化仙】}}（可叠加{{颜色|绿|6}}层）。{{颜色|红|【化仙】}}：攻击力提升{{颜色|绿|10%}}，普攻增伤提升{{颜色|绿|10}}",
+        "技能2": "对敌方全体造成{{颜色|绿|310%}}攻击力的伤害，随后清除自身的{{颜色|红|【化仙】}}效果并重新附加一层{{颜色|红|【化仙】}}（可叠加{{颜色|绿|6}}层）。{{颜色|红|【化仙】}}：攻击力提升{{颜色|绿|10%}}，普攻增伤提升{{颜色|绿|10}}",
+        "技能3": "对敌方全体造成{{颜色|绿|320%}}攻击力的伤害，随后清除自身的{{颜色|红|【化仙】}}效果并重新附加一层{{颜色|红|【化仙】}}（可叠加{{颜色|绿|6}}层）。{{颜色|红|【化仙】}}：攻击力提升{{颜色|绿|10%}}，普攻增伤提升{{颜色|绿|10}}",
+        "队长技能": "湘竹不枯",
+        "队长技能信息": "我方全体的攻击力提升{{颜色|绿|15%}}，普攻增伤提升{{颜色|绿|15}}",
+        "天赋1": "还恩义",
+        "天赋信息1": "回合开始时，根据自身持有的能量提升阳属性增伤，每1点能量提升{{颜色|绿|10}}阳属性增伤({{颜色|绿|1}}回合，可叠加{{颜色|绿|5}}层)。如果场上有徐庶，徐庶也会获得该增伤效果",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "竹影乱",
+        "天赋信息3": "每个战斗波次开始时，降低敌方全体{{颜色|绿|20}}阳属性抗性"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E7%A5%A2%E8%A1%A1&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "蒯越",
+      "first_up_pool": "风兴云蒸",
+      "first_up_date": "2025-01-09",
+      "pool_source": "https://wiki.biligame.com/yuan/2025%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/9/9a/5qma82ahwk8wq765mke7rrwgodnjycl.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%92%AF%E8%B6%8A",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%92%AF%E8%B6%8A&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%92%AF%E8%B6%8A&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%92%AF%E8%B6%8A&action=raw&research=20260916"
+    },
+    {
+      "name": "朱然",
+      "first_up_pool": "搏鸷缚虬",
+      "first_up_date": "2024-11-15",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/1/18/034mfiscxt0ccyzp3f61gyggoqyabzc.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E6%9C%B1%E7%84%B6",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E6%9C%B1%E7%84%B6&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "执锏",
+        "普攻信息": "对当前目标造成{{颜色|绿|80%}}攻击力的伤害<br>",
+        "技能": "施电",
+        "消耗能量": "4",
+        "技能1": "对当前目标造成{{颜色|绿|260%}}攻击力的伤害<br>",
+        "技能2": "对当前目标造成{{颜色|绿|270%}}攻击力的伤害<br>",
+        "技能3": "对当前目标造成{{颜色|绿|280%}}攻击力的伤害<br>",
+        "队长技能": "堂堂之阵",
+        "队长技能信息": "我方龙盾密探的攻击力提升{{颜色|绿|30%}}，普攻增伤和技能增伤提升{{颜色|绿|30}}",
+        "天赋1": "同慷忾",
+        "天赋信息1": "我方龙盾密探行动后，自身获得一层{{颜色|红|【豪烈】}}（可叠加{{颜色|绿|20}}层）<br>",
+        "天赋2": "集谛",
+        "天赋信息2": "免伤值提升{{颜色|绿|15}}",
+        "天赋3": "共济业",
+        "天赋信息3": "我方行动完毕时，若我方全体均处于防御状态，则使我方全体本回合防御系数提升{{颜色|绿|10}}，攻击力提升{{颜色|绿|30%}}（{{颜色|绿|2}}回合）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E6%9C%B1%E7%84%B6&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "黄盖",
+      "first_up_pool": "搏鸷缚虬",
+      "first_up_date": "2024-11-15",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/d/d1/iucrr48v5bff9jsohsqr8uszn05okl9.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%BB%84%E7%9B%96",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%BB%84%E7%9B%96&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%BB%84%E7%9B%96&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%BB%84%E7%9B%96&action=raw&research=20260916"
+    },
+    {
+      "name": "令狐茂",
+      "first_up_pool": "一体盈虚",
+      "first_up_date": "2024-11-07",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/7/71/nd6qb1n2plly4c3hifokrbz1iigi83l.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E4%BB%A4%E7%8B%90%E8%8C%82",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E4%BB%A4%E7%8B%90%E8%8C%82&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "譬朝露",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "飞光促促",
+        "消耗能量": "{{颜色|绿|5}}",
+        "技能1": "为当前目标附加{{颜色|红|【冰销】}}（{{颜色|绿|1}}回合），使我方全体的攻击力提升{{颜色|绿|25%}}（{{颜色|绿|2}}回合），对当前目标造成{{颜色|绿|300%}}攻击力的伤害。{{颜色|红|【冰销】}}：效果持续期间，记录自身受到的水属性攻击伤害的数额。因持续回合结束而消失时，自身受到来自施加者的伤害，伤害量为记录量的{{颜色|绿|40%}}",
+        "技能2": "为当前目标附加{{颜色|红|【冰销】}}（{{颜色|绿|1}}回合），使我方全体的攻击力提升{{颜色|绿|25%}}（{{颜色|绿|2}}回合），对当前目标造成{{颜色|绿|310%}}攻击力的伤害。{{颜色|红|【冰销】}}：效果持续期间，记录自身受到的水属性攻击伤害的数额。因持续回合结束而消失时，自身受到来自施加者的伤害，伤害量为记录量的{{颜色|绿|40%}}",
+        "技能3": "为当前目标附加{{颜色|红|【冰销】}}（{{颜色|绿|1}}回合），使我方全体的攻击力提升{{颜色|绿|25%}}（{{颜色|绿|2}}回合），对当前目标造成{{颜色|绿|320%}}攻击力的伤害。{{颜色|红|【冰销】}}：效果持续期间，记录自身受到的水属性攻击伤害的数额。因持续回合结束而消失时，自身受到来自施加者的伤害，伤害量为记录量的{{颜色|绿|40%}}",
+        "队长技能": "壶关三老",
+        "队长技能信息": "我方全体的最大生命提升{{颜色|绿|15%}}，免伤值提升{{颜色|绿|10}}",
+        "天赋1": "未亡",
+        "天赋信息1": "敌人每受到{{颜色|绿|40}}次水属性的攻击，自身恢复{{颜色|绿|1}}点能量，并使我方全体的普攻免伤和技能免伤提升{{颜色|绿|5}}（可叠加{{颜色|绿|5}}层）",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "索居",
+        "天赋信息3": "技能消耗的能量{{颜色|绿|-1}}"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E4%BB%A4%E7%8B%90%E8%8C%82&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "马腾",
+      "first_up_pool": "一体盈虚",
+      "first_up_date": "2024-11-07",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/f/f8/smjp2tvib5ukpv5c93unsdhj6mmudh9.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%A9%AC%E8%85%BE",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%A9%AC%E8%85%BE&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%A9%AC%E8%85%BE&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%A9%AC%E8%85%BE&action=raw&research=20260916"
+    },
+    {
+      "name": "刘繇",
+      "first_up_pool": "逐奔不远",
+      "first_up_date": "2024-09-12",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/1/19/1nnfow5fu5u3gtgfuxn9q2pn5nikfuy.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%88%98%E7%B9%87",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%88%98%E7%B9%87&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "豪掷",
+        "普攻信息": "对当前目标造成{{颜色|绿|5%}}攻击力的伤害，自身每有{{颜色|绿|1}}层{{颜色|红|【麟趾】}}，伤害系数提升{{颜色|绿|2.5%}}",
+        "技能": "得人为枭",
+        "消耗能量": "3",
+        "技能1": "对当前目标造成{{颜色|绿|10%}}攻击力的伤害，自身每有{{颜色|绿|1}}层{{颜色|红|【麟趾】}}，伤害系数提升{{颜色|绿|13%}};切换当前的运营策略为<三军发>({{颜色|绿|1}}回合)。<三军发>:回合结束时，我方全体额外减少{{颜色|绿|1}}层{{颜色|红|【麟趾】}}。除刘繇外的我方密探使用普攻或技能后，额外使刘繇获得{{颜色|绿|1}}层{{颜色|红|【麟趾】}}，该密探额外获得{{颜色|绿|1}}层{{颜色|红|【战勋】}})",
+        "技能2": "对当前目标造成{{颜色|绿|20%}}攻击力的伤害，自身每有{{颜色|绿|1}}层{{颜色|红|【麟趾】}}，伤害系数提升{{颜色|绿|14%}};切换当前的运营策略为<三军发>({{颜色|绿|1}}回合)。<三军发>:回合结束时，我方全体额外减少{{颜色|绿|1}}层{{颜色|红|【麟趾】}}。除刘繇外的我方密探使用普攻或技能后，额外使刘繇获得{{颜色|绿|1}}层{{颜色|红|【麟趾】}}，该密探额外获得{{颜色|绿|1}}层{{颜色|红|【战勋】}})",
+        "技能3": "对当前目标造成{{颜色|绿|30%}}攻击力的伤害，自身每有{{颜色|绿|1}}层{{颜色|红|【麟趾】}}，伤害系数提升{{颜色|绿|15%}};切换当前的运营策略为<三军发>({{颜色|绿|1}}回合)。<三军发>:回合结束时，我方全体额外减少{{颜色|绿|1}}层{{颜色|红|【麟趾】}}。除刘繇外的我方密探使用普攻或技能后，额外使刘繇获得{{颜色|绿|1}}层{{颜色|红|【麟趾】}}，该密探额外获得{{颜色|绿|1}}层{{颜色|红|【战勋】}})",
+        "队长技能": "堆金迭玉主",
+        "队长技能信息": "每回合开始时，自身获得{{颜色|绿|1}}层{{颜色|红|【麟趾】}};我方全体的最大生命和攻击力提升{{颜色|绿|15%}}",
+        "天赋1": "罚没",
+        "天赋信息1": "场上有单位死亡或离开场上时，自身获得{{颜色|红|【内美】}}(可叠加)，一场战斗最多生效{{颜色|绿|3}}次。{{颜色|红|【内美】}}:使用技能后恢复{{颜色|绿|2}}点能量，之后扣减{{颜色|绿|1}}层。",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "鸿图",
+        "天赋信息3": "回合开始时，为我方场上除自身外{{颜色|红|【麟趾】}}数量最少的随机密探附加{{颜色|红|【效死】}}({{颜色|绿|1}}回合)。{{颜色|红|【效死】}}:使用普攻或技能后，为刘繇附加{{颜色|绿|2}}层{{颜色|红|【麟趾】}}"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%88%98%E7%B9%87&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "戏学",
+      "first_up_pool": "逐奔不远",
+      "first_up_date": "2024-09-12",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/6/65/os7c4po3vl6hyg2cf5vamrbv9zuvk06.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E6%88%8F%E5%AD%A6",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E6%88%8F%E5%AD%A6&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "燃灯",
+        "普攻信息": "对当前目标达成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "李代桃僵<ref>汉乐府《鸡鸣》：“桃生露井上，李树生桃傍。虫来啮桃根，李树代桃僵。树木身相代，兄弟还相忘。”三十六计之一</ref>",
+        "消耗能量": "{{颜色|绿|5}}",
+        "技能1": "不存在分身且敌方存在空位时：在敌方空位上召唤{{颜色|绿|1}}名当前目标的分身。",
+        "技能2": "不存在分身且敌方存在空位时：在敌方空位上召唤{{颜色|绿|1}}名当前目标的分身。",
+        "技能3": "不存在分身且敌方存在空位时：在敌方空位上召唤{{颜色|绿|1}}名当前目标的分身。",
+        "队长技能": "绵绵若存",
+        "队长技能信息": "我方地属性密探最大生命上限提升{{颜色|绿|20%}}，地属性增伤提升{{颜色|绿|20}}",
+        "天赋1": "孤行",
+        "天赋信息1": "自身首次行动后，会使除自身外的队友获得{{颜色|红|【参差】}}({{颜色|绿|1}}回合)。{{颜色|红|【参差】}}：自身行动后，使用的操作与戏学不一致时，会获得攻击力提升{{颜色|绿|10%}}({{颜色|绿|2}}回合，可叠加，上限{{颜色|绿|5}}层)",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "用之不勤<ref>《老子·道经》：“绵绵若存，用之不勤。”</ref>",
+        "天赋信息3": "自身使用技能后，我方除自身以外的地属性密探下一次使用技能消耗的能量减少{{颜色|绿|1}}点"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E6%88%8F%E5%AD%A6&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "安期",
+      "first_up_pool": "腾陵张胆",
+      "first_up_date": "2024-08-29",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/2/2b/l9kkg88p43hfv9e4utku09driy1iazf.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%AE%89%E6%9C%9F",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%AE%89%E6%9C%9F&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "杀生",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "斩妄邪",
+        "消耗能量": "{{颜色|绿|3}}",
+        "技能1": "对当前目标造成{{颜色|绿|270%}}攻击力的伤害，目标的生命每降低{{颜色|绿|1%}}，本次伤害提升{{颜色|绿|0.5%}}。若我方场上有{{颜色|红|【黄金剑】}}，技能效果变为:操纵所有{{颜色|红|【黄金剑】}}同时攻击，每把{{颜色|红|【黄金剑】}}对敌方全体造成触发伤害，伤害量相当于{{颜色|红|【黄金剑】}}持有者与自身攻击力总和的{{颜色|绿|100%}}",
+        "技能2": "对当前目标造成{{颜色|绿|280%}}攻击力的伤害，目标的生命每降低{{颜色|绿|1%}}，本次伤害提升{{颜色|绿|0.5%}}。若我方场上有{{颜色|红|【黄金剑】}}，技能效果变为:操纵所有{{颜色|红|【黄金剑】}}同时攻击，每把{{颜色|红|【黄金剑】}}对敌方全体造成触发伤害，伤害量相当于{{颜色|红|【黄金剑】}}持有者与自身攻击力总和的{{颜色|绿|110%}}",
+        "技能3": "对当前目标造成{{颜色|绿|290%}}攻击力的伤害，目标的生命每降低{{颜色|绿|1%}}，本次伤害提升{{颜色|绿|0.5%}}。若我方场上有{{颜色|红|【黄金剑】}}，技能效果变为:操纵所有{{颜色|红|【黄金剑】}}同时攻击，每把{{颜色|红|【黄金剑】}}对敌方全体造成触发伤害，伤害量相当于{{颜色|红|【黄金剑】}}持有者与自身攻击力总和的{{颜色|绿|120%}}",
+        "队长技能": "天地不仁",
+        "队长技能信息": "战斗开始时，获得{{颜色|绿|1}}层{{颜色|红|【刍狗】}}。我方全体的最大生命提升{{颜色|绿|20%}}，触发伤害增伤提升{{颜色|绿|15}}",
+        "天赋1": "厉生",
+        "天赋信息1": "每个战斗波次开始时，获得{{颜色|绿|3}}点能量，此时我方每有一名破军密探存活提升自身{{颜色|绿|15}}技能增伤(可叠加{{颜色|绿|5}}层)，使用一次技能后解除",
+        "天赋2": "先机",
+        "天赋信息2": "第{{颜色|绿|1}}回合和之后的每{{颜色|绿|3}}回合开始时，降低敌方全体{{颜色|绿|10}}触发伤害免伤(可叠加{{颜色|绿|2}}层)",
+        "天赋3": "证道",
+        "天赋信息3": "我方密探对敌人造成触发伤害时，提升我方全体{{颜色|绿|4}}触发伤害增伤({{颜色|绿|2}}回合，可叠加{{颜色|绿|10}}层)"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%AE%89%E6%9C%9F&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "凌统",
+      "first_up_pool": "腾陵张胆",
+      "first_up_date": "2024-08-29",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/a/af/4cf6nh9tu66vcb04qxtf3pfdoc2mg75.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%87%8C%E7%BB%9F",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%87%8C%E7%BB%9F&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%87%8C%E7%BB%9F&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%87%8C%E7%BB%9F&action=raw&research=20260916"
+    },
+    {
+      "name": "满宠",
+      "first_up_pool": "二柄刑德",
+      "first_up_date": "2024-07-04",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/1/1e/czcqpdvss1wbjp52hx24v492ui94qat.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E6%BB%A1%E5%AE%A0",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E6%BB%A1%E5%AE%A0&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "暴审",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害，并为其附加{{颜色|红|【罪愆】}}（可叠加{{颜色|绿|3}}层）",
+        "技能": "淫刑厌戮",
+        "消耗能量": "0",
+        "技能1": "技能不消耗能量，通过消耗5枚{{颜色|红|【刑令】}}可以使用技能。",
+        "技能2": "技能不消耗能量，通过消耗5枚{{颜色|红|【刑令】}}可以使用技能。",
+        "技能3": "技能不消耗能量，通过消耗5枚{{颜色|红|【刑令】}}可以使用技能。",
+        "队长技能": "严刑",
+        "队长技能信息": "我方全体的最大生命提升{{颜色|绿|15%}}，持续伤害增伤提升{{颜色|绿|20}}",
+        "天赋1": "无慎",
+        "天赋信息1": "战斗开始时，为敌方全体附加{{颜色|红|【诛戮】}}。{{颜色|红|【诛戮】}}：受到持续伤害时，使自身持续伤害免伤降低0.5（可叠加50层）",
+        "天赋2": "灭谛",
+        "天赋信息2": "持续伤害增伤提升{{颜色|绿|15}}",
+        "天赋3": "无赦",
+        "天赋信息3": "展开{{颜色|红|【牢狱】}}时，提升我方全体{{颜色|绿|30}}持续伤害增伤（{{颜色|绿|1}}回合）"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E6%BB%A1%E5%AE%A0&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "荀攸",
+      "first_up_pool": "二柄刑德",
+      "first_up_date": "2024-07-04",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/7/77/9xuehojeaa9zx0iazijp60litk0me4b.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%8D%80%E6%94%B8",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%8D%80%E6%94%B8&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "神机",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "啮雪为歌",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "吸收我方全体和当前目标{{颜色|绿|50%}}护盾值，对当前目标造成{{颜色|绿|280%}}攻击力的伤害，并附带吸取的护盾值{{颜色|绿|100%}}的伤害（上限为自身最大生命的{{颜色|绿|300%}}）",
+        "技能2": "吸收我方全体和当前目标{{颜色|绿|50%}}护盾值，对当前目标造成{{颜色|绿|290%}}攻击力的伤害，并附带吸取的护盾值{{颜色|绿|100%}}的伤害（上限为自身最大生命的{{颜色|绿|300%}}）",
+        "技能3": "吸收我方全体和当前目标{{颜色|绿|50%}}护盾值，对当前目标造成{{颜色|绿|300%}}攻击力的伤害，并附带吸取的护盾值{{颜色|绿|100%}}的伤害（上限为自身最大生命的{{颜色|绿|300%}}）",
+        "队长技能": "饮羽为语",
+        "队长技能信息": "我方密探获得的护盾效果提升{{颜色|绿|30%}}",
+        "天赋1": "手语",
+        "天赋信息1": "一回合一次，下拉防御前，若自身处于防御状态，则自身可以再次行动，且提升自身攻击力{{颜色|绿|30%}}，增伤值{{颜色|绿|30}}（{{颜色|绿|1}}回合）",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "捷计",
+        "天赋信息3": "技能消耗能量{{颜色|绿|-1}}"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%8D%80%E6%94%B8&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "诸葛诞",
+      "first_up_pool": "云雨滂润",
+      "first_up_date": "2024-05-25",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/d/d1/cn4e1lmyvna7pl1dwlw9je9edlow8gi.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%AF%B8%E8%91%9B%E8%AF%9E",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%AF%B8%E8%91%9B%E8%AF%9E&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "曼衍<ref>《汉书·西域传赞》：“漫衍鱼龙角抵之戏”</ref>",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "歌衫舞袖",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "提升{{颜色|红|【舞伴】}}{{颜色|绿|10%}}攻击力，10增伤值（{{颜色|绿|2}}回合）。如果{{颜色|红|【舞伴】}}为诸葛瑾，加成效果翻倍。",
+        "技能2": "提升{{颜色|红|【舞伴】}}{{颜色|绿|15%}}攻击力，15增伤值（{{颜色|绿|2}}回合）。如果{{颜色|红|【舞伴】}}为诸葛瑾，加成效果翻倍。",
+        "技能3": "提升{{颜色|红|【舞伴】}}{{颜色|绿|20%}}攻击力，20增伤值（{{颜色|绿|2}}回合）。如果{{颜色|红|【舞伴】}}为诸葛瑾，加成效果翻倍。",
+        "队长技能": "悬丝傀戏",
+        "队长技能信息": "提升自身和{{颜色|红|【舞伴】}}{{颜色|绿|15%}}最大生命和{{颜色|绿|30%}}攻击力。如果{{颜色|红|【舞伴】}}为诸葛瑾，加成效果翻倍",
+        "天赋1": "亦步亦趋",
+        "天赋信息1": "回合结束时，若本回合自身和{{颜色|红|【舞伴】}}使用过相同的操作（普攻、技能、下拉防御，死亡时会清除操作的记录），则提升{{颜色|红|【舞伴】}}{{颜色|绿|20%}}攻击力和{{颜色|绿|10}}增伤值（可叠加{{颜色|绿|2}}层，{{颜色|绿|2}}回合）<br>",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "鱼龙舞",
+        "天赋信息3": "使用技能后，回复{{颜色|红|【舞伴】}}{{颜色|绿|1}}点能量。如果{{颜色|红|【舞伴】}}为诸葛瑾，自身也会回复其{{颜色|绿|1}}点能量"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%AF%B8%E8%91%9B%E8%AF%9E&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "诸葛瑾",
+      "first_up_pool": "云雨滂润",
+      "first_up_date": "2024-05-25",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/0/08/r5n7krvm411k7dhjejjf52zd9742d45.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%AF%B8%E8%91%9B%E7%91%BE",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%AF%B8%E8%91%9B%E7%91%BE&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%AF%B8%E8%91%9B%E7%91%BE&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%AF%B8%E8%91%9B%E7%91%BE&action=raw&research=20260916"
+    },
+    {
+      "name": "曹植",
+      "first_up_pool": "谨司天英",
+      "first_up_date": "2024-05-09",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/d/d6/1v9q1te1ciue9a8sp48ezbl7flkgu8h.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E6%9B%B9%E6%A4%8D",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E6%9B%B9%E6%A4%8D&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "箜篌引",
+        "普攻信息": "对当前目标造成{{颜色|绿|60%}}攻击力的伤害，若队友存在周瑜，则为其附加{{颜色|绿|1}}层{{颜色|红|【音律-蓝】}}",
+        "技能": "万籁寂",
+        "消耗能量": "{{颜色|绿|5}}",
+        "技能1": "对当前目标造成{{颜色|绿|180%}}攻击力的伤害，并使其{{颜色|红|【沉吟】}}（{{颜色|绿|2}}回合）。{{颜色|红|【沉吟】}}：使用技能时，使本次技能无效，之后移除该状态。",
+        "技能2": "对当前目标造成{{颜色|绿|190%}}攻击力的伤害，并使其{{颜色|红|【沉吟】}}（{{颜色|绿|2}}回合）。{{颜色|红|【沉吟】}}：使用技能时，使本次技能无效，之后移除该状态。",
+        "技能3": "对当前目标造成{{颜色|绿|200%}}攻击力的伤害，并使其{{颜色|红|【沉吟】}}（{{颜色|绿|2}}回合）。{{颜色|红|【沉吟】}}：使用技能时，使本次技能无效，之后移除该状态。",
+        "队长技能": "才高八斗",
+        "队长技能信息": "战斗开始时，自身获得{{颜色|绿|2}}点能量。我方密探攻击力提升{{颜色|绿|20%}}",
+        "天赋1": "成章",
+        "天赋信息1": "自身获得{{颜色|红|【阳律】}}后，自身攻击力提升{{颜色|绿|20%}}（{{颜色|绿|2}}回合）；自身获得{{颜色|红|【阴律】}}后，回复自身{{颜色|10%}}最大生命的生命",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "惊才",
+        "天赋信息3": "我方密探对处于{{颜色|红|【控制状态】}}的敌人使用普攻或技能时，攻击力提升{{颜色|绿|25%}}（{{颜色|绿|1}}回合）。<br>"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E6%9B%B9%E6%A4%8D&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "董奉",
+      "first_up_pool": "谨司天英",
+      "first_up_date": "2024-05-09",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/a/a4/19cq16cwkn0jnnrp4tojjjf1stb532z.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%91%A3%E5%A5%89",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%91%A3%E5%A5%89&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%91%A3%E5%A5%89&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%91%A3%E5%A5%89&action=raw&research=20260916"
+    },
+    {
+      "name": "张邈",
+      "first_up_pool": "天门启阖",
+      "first_up_date": "2024-03-14",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/c/cb/g8uhz2400deqn1frrj9c9llqj80mreo.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E9%82%88",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%82%88&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "筹幄",
+        "普攻信息": "对当前目标造成两次{{颜色|绿|75%}}攻击力的伤害",
+        "技能": "翻云覆雨",
+        "消耗能量": "5",
+        "技能1": "对当前目标造成{{颜色|绿|300%}}攻击力的伤害，自身获得{{颜色|红|【伞影】}}({{颜色|绿|4}}回合){{颜色|红|【伞影】}}:初始为关闭状态,下拉防御后可以开启，使用普攻后可以关闭",
+        "技能2": "对当前目标造成{{颜色|绿|310%}}攻击力的伤害，自身获得{{颜色|红|【伞影】}}({{颜色|绿|4}}回合){{颜色|红|【伞影】}}:初始为关闭状态,下拉防御后可以开启，使用普攻后可以关闭",
+        "技能3": "对当前目标造成{{颜色|绿|320%}}攻击力的伤害，自身获得{{颜色|红|【伞影】}}({{颜色|绿|4}}回合){{颜色|红|【伞影】}}:初始为关闭状态,下拉防御后可以开启，使用普攻后可以关闭",
+        "队长技能": "怀璧握珠",
+        "队长技能信息": "战斗开始时，我方密探每有{{颜色|绿|1}}种属性,我方全体的普攻增伤和增伤值提升{{颜色|绿|4}}。若我方密探至少有{{颜色|绿|4}}种属性，额外提升{{颜色|绿|10}}普攻增伤和{{颜色|绿|10}}增伤值",
+        "天赋1": "临风易雨",
+        "天赋信息1": "{{颜色|红|【伞影】}}关闭时，提升我方全体{{颜色|绿|10%}}攻击力和{{颜色|绿|50}}普攻增伤({{颜色|绿|2}}回合),{{颜色|红|【伞影】}}开启时，自身顺位前后的两个密探获得防御状态（{{颜色|绿|1}}回合)",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "蕴珠",
+        "天赋信息3": "敌方每受到{{颜色|绿|50}}次普攻伤害，我方全体获得{{颜色|绿|1}}点能量",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：<font color=red>临风易雨</font>",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%82%88&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "黄月英",
+      "first_up_pool": "天门启阖",
+      "first_up_date": "2024-03-14",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/e/e6/g1lv56kanne5plab6aw4fa7e44kldyi.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%BB%84%E6%9C%88%E8%8B%B1",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%BB%84%E6%9C%88%E8%8B%B1&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%BB%84%E6%9C%88%E8%8B%B1&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%BB%84%E6%9C%88%E8%8B%B1&action=raw&research=20260916"
+    },
+    {
+      "name": "孔融",
+      "first_up_pool": "闻斯行诸",
+      "first_up_date": "2024-02-22",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/8/80/dqhb79oo55hrl5tz78n52ozlfa3vhf9.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%AD%94%E8%9E%8D",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%AD%94%E8%9E%8D&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "直责",
+        "普攻信息": "对当前目标造成{{颜色|绿|3}}次{{颜色|绿|30%}}攻击力的伤害",
+        "技能": "六纪<ref>《白虎通义》：三纲者何谓也？谓君臣、父子、夫妇也。六纪者，谓诸父、兄弟、族人、诸舅、师长、朋友也。</ref>",
+        "消耗能量": "5",
+        "技能1": "对当前目标造成{{颜色|绿|200%}}伤害，使目标在下回合开始时获得{{颜色|红|【仁】}}{{颜色|绿|1}}回合。{{颜色|红|【仁】}}:受到普攻攻击时，计数+{{颜色|绿|1}}。回合结束时，计数达到{{颜色|绿|6}}/{{颜色|绿|9}}/{{颜色|绿|11}}层时，使孔融普攻伤害系数提升{{颜色|绿|20%}}/{{颜色|绿|35%}}/{{颜色|绿|60%}}({{颜色|绿|3}}回合)。目标死亡，被放逐，被劝退时，则目标顺位下一个目标会获得{{颜色|红|【仁】}}",
+        "技能2": "对当前目标造成{{颜色|绿|210%}}伤害，使目标在下回合开始时获得{{颜色|红|【仁】}}{{颜色|绿|1}}回合。{{颜色|红|【仁】}}:受到普攻攻击时，计数+{{颜色|绿|1}}。回合结束时，计数达到{{颜色|绿|6}}/{{颜色|绿|9}}/{{颜色|绿|11}}层时，使孔融普攻伤害系数提升{{颜色|绿|20%}}/{{颜色|绿|35%}}/{{颜色|绿|60%}}({{颜色|绿|3}}回合)。目标死亡，被放逐，被劝退时，则目标顺位下一个目标会获得{{颜色|红|【仁】}}",
+        "技能3": "对当前目标造成{{颜色|绿|220%}}伤害，使目标在下回合开始时获得{{颜色|红|【仁】}}{{颜色|绿|1}}回合。{{颜色|红|【仁】}}:受到普攻攻击时，计数+{{颜色|绿|1}}。回合结束时，计数达到{{颜色|绿|6}}/{{颜色|绿|9}}/{{颜色|绿|11}}层时，使孔融普攻伤害系数提升{{颜色|绿|20%}}/{{颜色|绿|35%}}/{{颜色|绿|60%}}({{颜色|绿|3}}回合)。目标死亡，被放逐，被劝退时，则目标顺位下一个目标会获得{{颜色|红|【仁】}}",
+        "队长技能": "朝闻道<ref>《论语·里仁》：朝闻道，夕死可矣。</ref>",
+        "队长技能信息": "我方所有密探普攻增伤提升{{颜色|绿|30}}，增伤值提升{{颜色|绿|10}}",
+        "天赋1": "归仁焉<ref>《论语·颜渊》：克己复礼为仁。一日克己复礼，天下归仁焉。</ref>",
+        "天赋信息1": "回合结束时，若我方场上存活的带有{{颜色|红|【礼】}}的密探本回合均使用了普攻，则每有一个带有{{颜色|红|【礼】}}的密探，自身提升攻击力{{颜色|绿|15%}}({{颜色|绿|1}}回合)",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "门生",
+        "天赋信息3": "除自身外友方密探造成持续伤害以外的伤害时，都会附带孔融自身攻击力的{{颜色|绿|30%}}攻击力的伤害。自身死亡后失效",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：归仁焉",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%AD%94%E8%9E%8D&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "张鲁",
+      "first_up_pool": "闻斯行诸",
+      "first_up_date": "2024-02-22",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/f/fa/s58ovtlxw69vpinl7dhlnlg28jg1kp5.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E9%B2%81",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%B2%81&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "风火之车<ref>《佛学大辞典》火车条：（杂名）载罪人运于地狱之车。自车发火者。智度论十四记提婆达多欲伤佛，而生入地狱事曰：「复以恶毒，著指爪中，欲因礼佛以中伤佛。欲去未到，于王舍城中，地自然破裂，火车来迎，生入地狱。」观佛三昧经五曰：「佛告阿难，若有众生，杀父害母，骂辱六亲。作是罪者，命终之时，铜狗张口，化十八车，状如金车，宝盖在上，一切火焰，化为玉女。罪人遥见，心生欢喜，我欲往中，我欲往中。风刀解时，寒急失声，宁得好火，在车上坐。然火自爆，作是念已，即便命终。挥攉之间，已坐金车，顾瞻玉女，皆捉铁斧，斩截其身，身下火起。如火旋轮。」</ref>",
+        "普攻信息": "对敌方全体造成{{颜色|绿|50%}}攻击力的伤害",
+        "技能": "痴贪嗔<ref>佛教术语中称为三毒、三垢、三火或三不善根，指众生因贪欲、嗔恨、愚痴三种根本烦恼导致轮回生死之苦的根源。贪指对外物的过度执取，嗔指对逆境的憎恶怨恨，痴指不明因果的愚昧状态。</ref>",
+        "消耗能量": "4",
+        "技能1": "回复我方全体处于{{颜色|红|【三尸游走<ref>《云笈七签》：死后魂升于天，魄入于地，唯三尸游走，名之曰鬼。《酉阳杂俎》：上尸青姑伐人眼，中尸白姑伐人五藏，下尸血姑伐人胃命。一居人头中，令人多思欲，好车马；一居人腹，令人好饮食，恚怒；一居人足令人好色，喜杀。</ref>】}}状态的队友{{颜色|绿|1}}点能量。对敌方全体造成相当于自身{{颜色|绿|80%}}攻击力的伤害。我方场上每有一个处于{{颜色|红|【三尸游走】}}状态的队友，伤害系数提升{{颜色|绿|90%}}",
+        "技能2": "回复我方全体处于{{颜色|红|【三尸游走】}}状态的队友{{颜色|绿|1}}点能量。对敌方全体造成相当于自身{{颜色|绿|90%}}攻击力的伤害。我方场上每有一个处于{{颜色|红|【三尸游走】}}状态的队友，伤害系数提升{{颜色|绿|90%}}",
+        "技能3": "回复我方全体处于{{颜色|红|【三尸游走】}}状态的队友{{颜色|绿|1}}点能量。对敌方全体造成相当于自身{{颜色|绿|100%}}攻击力的伤害。我方场上每有一个处于{{颜色|红|【三尸游走】}}状态的队友，伤害系数提升{{颜色|绿|90%}}",
+        "队长技能": "奉帝敕",
+        "队长技能信息": "我方单位死亡时，提升我方全体{{颜色|绿|10%}}攻击力和{{颜色|绿|5}}增伤值（可叠加{{颜色|绿|5}}层）",
+        "天赋1": "欲未灭",
+        "天赋信息1": "战斗中前两次复活队友时，自身不会失去生命",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "招阴",
+        "天赋信息3": "使用技能或处于{{颜色|红|【三尸游走】}}状态的队友使用技能后，降低敌方全体{{颜色|绿|10}}阴属性抗性（{{颜色|绿|2}}回合，可叠加{{颜色|绿|9}}层）",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：欲未灭",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%B2%81&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "甄宓",
+      "first_up_pool": "击金鸣鼓",
+      "first_up_date": "2024-01-18",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/2/2a/57oybb7nblqovekzruu3m2y2knx9g80.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E7%94%84%E5%AE%93",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E7%94%84%E5%AE%93&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E7%94%84%E5%AE%93&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E7%94%84%E5%AE%93&action=raw&research=20260916"
+    },
+    {
+      "name": "甘宁",
+      "first_up_pool": "击金鸣鼓",
+      "first_up_date": "2024-01-18",
+      "pool_source": "https://wiki.biligame.com/yuan/2024%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/1/1e/k13y9sjbfvoapz5i2fqh5vphfx6nrf1.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E7%94%98%E5%AE%81",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E7%94%98%E5%AE%81&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "打劫",
+        "普攻信息": "打劫当前目标{{颜色|绿|1}}个{{颜色|红|【买命钱】}}，之后对当前目标造成{{颜色|绿|150%}}攻击力的伤害",
+        "技能": "无恶不作",
+        "消耗能量": "4",
+        "技能1": "对敌方全体造成{{颜色|绿|200%}}攻击力的伤害，每层{{颜色|红|【买命钱】}}会使此次伤害系数提升{{颜色|绿|35%}}。当自身拥有{{颜色|绿|10}}层{{颜色|红|【买命钱】}}时，本次伤害造成的伤害值的{{颜色|绿|4%}}将转化为我方全体的{{颜色|红|【护盾】}}{{颜色|绿|1}}回合",
+        "技能2": "对敌方全体造成{{颜色|绿|210%}}攻击力的伤害，每层{{颜色|红|【买命钱】}}会使此次伤害系数提升{{颜色|绿|35%}}。当自身拥有{{颜色|绿|10}}层{{颜色|红|【买命钱】}}时，本次伤害造成的伤害值的{{颜色|绿|4%}}将转化为我方全体的{{颜色|红|【护盾】}}{{颜色|绿|1}}回合",
+        "技能3": "对敌方全体造成{{颜色|绿|220%}}攻击力的伤害，每层{{颜色|红|【买命钱】}}会使此次伤害系数提升{{颜色|绿|35%}}。当自身拥有{{颜色|绿|10}}层{{颜色|红|【买命钱】}}时，本次伤害造成的伤害值的{{颜色|绿|4%}}将转化为我方全体的{{颜色|红|【护盾】}}{{颜色|绿|1}}回合",
+        "队长技能": "为所欲为",
+        "队长技能信息": "我方所有水系密探的增伤值和免伤值提升{{颜色|绿|20}}",
+        "天赋1": "寡义",
+        "天赋信息1": "自身使用普攻或技能后，使敌方全体水属性抗性下降{{颜色|绿|3}}（可叠加，上限{{颜色|绿|15}}层）",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "妄为",
+        "天赋信息3": "战斗开始时，若我方有{{颜色|绿|3}}名水系密探，我方全体水系密探攻击力提升{{颜色|绿|20%}}；若我方有{{颜色|绿|5}}名水系密探，则我方水系密探额外提升{{颜色|绿|20%}}攻击力",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：寡义",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E7%94%98%E5%AE%81&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "徐庶",
+      "first_up_pool": "绝艳惊鸿",
+      "first_up_date": "2023-12-21",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/3/3e/fb52fzoyesydjpn3imxgj9gsysrwmqm.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BE%90%E5%BA%B6",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BE%90%E5%BA%B6&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BE%90%E5%BA%B6&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BE%90%E5%BA%B6&action=raw&research=20260916"
+    },
+    {
+      "name": "张郃",
+      "first_up_pool": "绝艳惊鸿",
+      "first_up_date": "2023-12-21",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/6/6d/gwo9i8xlnj1e6ts9rvvlo9ov1vk8ogf.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E9%83%83",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%83%83&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "落花无情",
+        "普攻信息": "对敌方全体造成{{颜色|绿|50%}}攻击力的伤害，并附加一层{{颜色|红|【灼烧】}}({{颜色|绿|5}}回合，可叠加{{颜色|绿|15}}层)，自身获得一层{{颜色|红|【木芍药】}}(可叠加{{颜色|绿|10}}层)",
+        "技能": "终享一梦",
+        "消耗能量": "4",
+        "技能1": "提升我方全体{{颜色|绿|16%}}最大生命和攻击力({{颜色|绿|3}}回合)，为我方全体附加{{颜色|红|【花盾】}}({{颜色|绿|2}}回合)。自身获得{{颜色|绿|5}}层{{颜色|红|【木芍药】}}",
+        "技能2": "提升我方全体{{颜色|绿|18%}}最大生命和攻击力({{颜色|绿|3}}回合)，为我方全体附加{{颜色|红|【花盾】}}({{颜色|绿|2}}回合)。自身获得{{颜色|绿|5}}层{{颜色|红|【木芍药】}}",
+        "技能3": "提升我方全体{{颜色|绿|20%}}最大生命和攻击力({{颜色|绿|3}}回合)，为我方全体附加{{颜色|红|【花盾】}}({{颜色|绿|2}}回合)。自身获得{{颜色|绿|5}}层{{颜色|红|【木芍药】}}",
+        "队长技能": "饮血盛放",
+        "队长技能信息": "我方每有一名火属性密探，我方全体的攻击力和最大生命提升{{颜色|绿|5%}}",
+        "天赋1": "润物无声",
+        "天赋信息1": "自身的{{颜色|红|【花盾】}}因持续回合结束而消失时，获得{{颜色|绿|3}}层{{颜色|红|【木芍药】}}",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "降花",
+        "天赋信息3": "每回合开始时,获得{{颜色|绿|1}}层{{颜色|红|【木芍药】}}",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：润物无声",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%83%83&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "张闿",
+      "first_up_pool": "天曲日术",
+      "first_up_date": "2023-11-28",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/4/45/diqtklbhxqz3t2oopz5tqz6k65yath5.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E9%97%BF",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%97%BF&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%97%BF&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%97%BF&action=raw&research=20260916"
+    },
+    {
+      "name": "太史慈",
+      "first_up_pool": "天曲日术",
+      "first_up_date": "2023-11-28",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/3/3c/nc8l53aps0oh7nts3s2v4d3ylh01ua2.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%A4%AA%E5%8F%B2%E6%85%88",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%A4%AA%E5%8F%B2%E6%85%88&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "飞矢",
+        "普攻信息": "对当前目标造成{{颜色|绿|150%}}攻击力的伤害",
+        "技能": "五星好评",
+        "消耗能量": "0",
+        "技能1": "对当前目标造成{{颜色|绿|290%}}攻击力的伤害，并附加目标{{颜色|绿|5.5%}}最大生命的固定伤害（伤害量不超过自身{{颜色|绿|1650%}}攻击力）",
+        "技能2": "对当前目标造成{{颜色|绿|300%}}攻击力的伤害，并附加目标{{颜色|绿|6%}}最大生命的固定伤害（伤害量不超过自身{{颜色|绿|1800%}}攻击力）",
+        "技能3": "对当前目标造成{{颜色|绿|310%}}攻击力的伤害，并附加目标{{颜色|绿|6.5%}}最大生命的固定伤害（伤害量不超过自身{{颜色|绿|1950%}}攻击力）",
+        "队长技能": "赋能",
+        "队长技能信息": "我方全体风属性密探的攻击力提升{{颜色|绿|20%}}，最大生命提升{{颜色|绿|20%}}",
+        "天赋1": "返利",
+        "天赋信息1": "完成{{颜色|红|【订单】}}时，随机获得{{颜色|绿|1-3}}层{{颜色|红|【小费】}}（获得高层数{{颜色|红|【小费】}}的几率递减）。{{颜色|红|【小费】}}提升自身{{颜色|绿|2}}普攻增伤和触发增伤（可叠加{{颜色|绿|20}}层）",
+        "天赋2": "灭谛",
+        "天赋信息2": "普攻增伤和技能增伤提升{{颜色|绿|15}}",
+        "天赋3": "展期",
+        "天赋信息3": "触发增伤提升{{颜色|绿|15}}。完成{{颜色|红|【订单】}}时，若本次战斗中自身的{{颜色|红|【订单】}}从未被砍，提升自身{{颜色|绿|10}}普攻增伤（可叠加{{颜色|绿|9}}层）",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：返利",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：灭谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%A4%AA%E5%8F%B2%E6%85%88&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "马超",
+      "first_up_pool": "出奇无穷",
+      "first_up_date": "2023-11-09",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/5/55/t51nwz7hzpar2l5nkjai52814hqsiej.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%A9%AC%E8%B6%85",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%A9%AC%E8%B6%85&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%A9%AC%E8%B6%85&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%A9%AC%E8%B6%85&action=raw&research=20260916"
+    },
+    {
+      "name": "程昱",
+      "first_up_pool": "出奇无穷",
+      "first_up_date": "2023-11-09",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/2/22/k3vv5mx0mel7r7en8csvxc1m9u86hhi.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E7%A8%8B%E6%98%B1",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E7%A8%8B%E6%98%B1&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "折肢",
+        "普攻信息": "对敌方全体造成{{颜色|绿|20%}}攻击力的伤害，降低敌方全体{{颜色|绿|10%}}受到的治疗效果和{{颜色|绿|10}}免伤值（{{颜色|绿|1}}回合）",
+        "技能": "米肉天降",
+        "消耗能量": "4",
+        "技能1": "麻醉自身顺序下一位的队友（不会以自身为目标），为其附加{{颜色|红|【截肢】}}并令其失去{{颜色|绿|1000%}}最大生命。随后提升我方全体{{颜色|绿|15%}}攻击力，{{颜色|绿|35}}普攻和技能增伤 （{{颜色|绿|5}}回合，可叠加{{颜色|绿|2}}层）对敌方全体造成{{颜色|绿|240%}}攻击力的伤害。{{颜色|红|【截肢】}}：每回合开始时，我方全体失去{{颜色|绿|30%}}最大生命，复活后不会消失",
+        "技能2": "麻醉自身顺序下一位的队友（不会以自身为目标），为其附加{{颜色|红|【截肢】}}并令其失去{{颜色|绿|1000%}}最大生命。随后提升我方全体{{颜色|绿|15%}}攻击力，{{颜色|绿|35}}普攻和技能增伤 （{{颜色|绿|5}}回合，可叠加{{颜色|绿|2}}层）对敌方全体造成{{颜色|绿|250%}}攻击力的伤害。{{颜色|红|【截肢】}}：每回合开始时，我方全体失去{{颜色|绿|30%}}最大生命，复活后不会消失",
+        "技能3": "麻醉自身顺序下一位的队友（不会以自身为目标），为其附加{{颜色|红|【截肢】}}并令其失去{{颜色|绿|1000%}}最大生命。随后提升我方全体{{颜色|绿|15%}}攻击力，{{颜色|绿|35}}普攻和技能增伤 （{{颜色|绿|5}}回合，可叠加{{颜色|绿|2}}层）对敌方全体造成{{颜色|绿|260%}}攻击力的伤害。{{颜色|红|【截肢】}}：每回合开始时，我方全体失去{{颜色|绿|30%}}最大生命，复活后不会消失",
+        "队长技能": "显圣",
+        "队长技能信息": "任意敌人受到治疗时，对敌方全体造成{{颜色|绿|60%}}攻击力的触发伤害，降低敌方全体{{颜色|绿|5%}}受到的治疗效果和{{颜色|绿|5}}免伤值（可叠加{{颜色|绿|9}}层）。这个效果一回合只能触发一次",
+        "天赋1": "烹",
+        "天赋信息1": "战斗开始时为自身顺序下一位的目标附加{{颜色|红|【交易】}}。{{颜色|红|【交易】}}：攻击力提升{{颜色|绿|30%}}，增伤值提升{{颜色|绿|15}}，死亡时会传递给顺序下一位的队友",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "饪",
+        "天赋信息3": "我方场上有除自身外的单位受到致命伤害时，自身获得{{颜色|绿|1}}点能量。这个效果回合只能触发一次",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：蒸烛",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E7%A8%8B%E6%98%B1&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "张角",
+      "first_up_pool": "争光日月",
+      "first_up_date": "2023-09-28",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/3/33/neq17nejc9u4s3al10wdjrepjfwyzo7.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E8%A7%92",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E8%A7%92&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "杀生",
+        "普攻信息": "对敌方全体造成{{颜色|绿|60%}}攻击力的伤害",
+        "技能": "天谴",
+        "消耗能量": "3",
+        "技能1": "对敌方全体造成{{颜色|绿|180%}}攻击力的伤害，获得一层{{颜色|红|【巫血】}}（可叠加{{颜色|绿|9}}层）并{{颜色|红|【嘲讽】}}敌方全体（{{颜色|绿|1}}回合）。每层{{颜色|红|【巫血】}}会使这次伤害系数提升{{颜色|绿|25%}}。{{颜色|红|【巫血】}}：攻击力提升{{颜色|绿|10%}}，到达{{颜色|绿|3}}层后使技能消耗的能量-{{颜色|绿|1}}",
+        "技能2": "对敌方全体造成{{颜色|绿|190%}}攻击力的伤害，获得一层{{颜色|红|【巫血】}}（可叠加{{颜色|绿|9}}层）并{{颜色|红|【嘲讽】}}敌方全体（{{颜色|绿|1}}回合）。每层{{颜色|红|【巫血】}}会使这次伤害系数提升{{颜色|绿|25%}}。{{颜色|红|【巫血】}}：攻击力提升{{颜色|绿|10%}}，到达{{颜色|绿|3}}层后使技能消耗的能量-{{颜色|绿|1}}",
+        "技能3": "对敌方全体造成{{颜色|绿|200%}}攻击力的伤害，获得一层{{颜色|红|【巫血】}}（可叠加{{颜色|绿|9}}层）并{{颜色|红|【嘲讽】}}敌方全体（{{颜色|绿|1}}回合）。每层{{颜色|红|【巫血】}}会使这次伤害系数提升{{颜色|绿|25%}}。{{颜色|红|【巫血】}}：攻击力提升{{颜色|绿|10%}}，到达{{颜色|绿|3}}层后使技能消耗的能量-{{颜色|绿|1}}",
+        "队长技能": "护生",
+        "队长技能信息": "除自身外我方全体的最大生命提升{{颜色|绿|20%}}，攻击力降低{{颜色|绿|10%}}。自身攻击力提升{{颜色|绿|40%}}，最大生命降低{{颜色|绿|10%}}",
+        "天赋1": "大贤良师",
+        "天赋信息1": "受到致命伤害时，对敌方全体造成自身{{颜色|绿|150%}}攻击力的伤害（该伤害不属于普攻伤害也不属于技能伤害）",
+        "天赋2": "灭谛",
+        "天赋信息2": "普攻增伤和技能增伤提升{{颜色|绿|15}}",
+        "天赋3": "大吉",
+        "天赋信息3": "受到致命伤害时，提升自身{{颜色|绿|15%}}攻击力（可叠加{{颜色|绿|3}}层）",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：大贤良师",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：灭谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E8%A7%92&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "夏侯惇",
+      "first_up_pool": "争光日月",
+      "first_up_date": "2023-09-28",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/d/d1/0v3nsank9hkbtwt4t606glt4gtr6eot.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%A4%8F%E4%BE%AF%E6%83%87",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%A4%8F%E4%BE%AF%E6%83%87&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%A4%8F%E4%BE%AF%E6%83%87&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%A4%8F%E4%BE%AF%E6%83%87&action=raw&research=20260916"
+    },
+    {
+      "name": "张飞",
+      "first_up_pool": "诗画同律",
+      "first_up_date": "2023-09-07",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/d/df/8nwmi6en7vdzprl2ec21wt7ip69w6tt.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E9%A3%9E",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%A3%9E&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "矛击",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害。若处于{{颜色|红|【死战】}}状态，普攻变为“对当前目标造成两次{{颜色|绿|120%}}攻击力的伤害”",
+        "技能": "无尽幽梦",
+        "消耗能量": "5",
+        "技能1": "对当前目标造成{{颜色|绿|400%}}攻击力的伤害，为自身附加{{颜色|红|【死战】}}（{{颜色|绿|3}}回合）。{{颜色|红|【死战】}}：可以增强张飞的普攻效果",
+        "技能2": "对当前目标造成{{颜色|绿|425%}}攻击力的伤害，为自身附加{{颜色|红|【死战】}}（{{颜色|绿|3}}回合）。{{颜色|红|【死战】}}：可以增强张飞的普攻效果",
+        "技能3": "对当前目标造成{{颜色|绿|450%}}攻击力的伤害，为自身附加{{颜色|红|【死战】}}（{{颜色|绿|3}}回合）。{{颜色|红|【死战】}}：可以增强张飞的普攻效果",
+        "队长技能": "桃花落",
+        "队长技能信息": "我方全体的攻击力提升{{颜色|绿|30%}}，免伤值降低{{颜色|绿|10}}",
+        "天赋1": "霸蛮",
+        "天赋信息1": "第{{颜色|绿|1}}回合以及之后的每{{颜色|绿|3}}回合，{{颜色|红|【悬赏】}}敌方生命值最低的敌人（{{颜色|绿|3}}回合）。{{颜色|红|【悬赏】}}：普攻免伤降低{{颜色|绿|15}}，被击败时提升张飞{{颜色|绿|10}}普攻增伤（可叠加{{颜色|绿|4}}层）",
+        "天赋2": "灭谛",
+        "天赋信息2": "普攻增伤和技能增伤提升{{颜色|绿|15}}",
+        "天赋3": "横扫",
+        "天赋信息3": "生命值低于{{颜色|绿|50%}}时，普攻增伤提升{{颜色|绿|30}}，免伤值提升{{颜色|绿|15}}。战斗中仅有一次，{{颜色|红|【死战】}}状态下受到致命伤害时，可以免于死亡，回复自身{{颜色|绿|30%}}最大生命",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：霸蛮",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：灭谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E9%A3%9E&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "蔡琰",
+      "first_up_pool": "诗画同律",
+      "first_up_date": "2023-09-07",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/6/6d/liz97808flyz45i4phjv3tw5u6uq1dh.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%94%A1%E7%90%B0",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%94%A1%E7%90%B0&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%94%A1%E7%90%B0&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%94%A1%E7%90%B0&action=raw&research=20260916"
+    },
+    {
+      "name": "庞统",
+      "first_up_pool": "王佐之才",
+      "first_up_date": "2023-08-03",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/2/2d/2lk0njaxidd80kah8x1m4pzkwjcrv32.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BA%9E%E7%BB%9F",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BA%9E%E7%BB%9F&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "扬羽",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "灾凤",
+        "消耗能量": "4",
+        "技能1": "对敌方全体造成{{颜色|绿|165%}}攻击力的伤害。为我方除自己外随机一个目标附加{{颜色|红|【鹦鹉学舌】}}({{颜色|绿|3}}回合，不可叠加。{{颜色|红|【鹦鹉学舌】}}：下一次持有该效果的密探使用技能时，庞统(的鹦鹉)会模仿其技能效果，再释放一次该技能（模仿技能不算做使用技能)",
+        "技能2": "对敌方全体造成{{颜色|绿|170%}}攻击力的伤害。为我方除自己外随机一个目标附加{{颜色|红|【鹦鹉学舌】}}({{颜色|绿|3}}回合，不可叠加。{{颜色|红|【鹦鹉学舌】}}：下一次持有该效果的密探使用技能时，庞统(的鹦鹉)会模仿其技能效果，再释放一次该技能（模仿技能不算做使用技能)",
+        "技能3": "对敌方全体造成{{颜色|绿|175%}}攻击力的伤害。为我方除自己外随机一个目标附加{{颜色|红|【鹦鹉学舌】}}({{颜色|绿|3}}回合，不可叠加。{{颜色|红|【鹦鹉学舌】}}：下一次持有该效果的密探使用技能时，庞统(的鹦鹉)会模仿其技能效果，再释放一次该技能（模仿技能不算做使用技能)",
+        "队长技能": "凤尾摇光",
+        "队长技能信息": "我方全体的最大生命提升{{颜色|绿|15%}}，技能增伤提升{{颜色|绿|20}}",
+        "天赋1": "愤怒的小鸟<!-- 2星解锁 -->",
+        "天赋信息1": "每{{颜色|绿|4}}回合开始时,鹦鹉会对敌人投蛋,对敌方全体造成{{颜色|绿|100%}}攻击力的伤害",
+        "天赋2": "苦谛<!-- 4星解锁 -->",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "还恩<!-- 觉醒解锁 -->",
+        "天赋信息3": "使用技能后，有{{颜色|绿|20%}}概率使我方全体的技能增伤提升{{颜色|绿|20}}({{颜色|绿|1}}回合)",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：辨音",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BA%9E%E7%BB%9F&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "荀彧",
+      "first_up_pool": "王佐之才",
+      "first_up_date": "2023-08-03",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/5/5f/nfimt2x9ku4w92zlr6ds6h6lkhobq8n.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%8D%80%E5%BD%A7",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%8D%80%E5%BD%A7&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%8D%80%E5%BD%A7&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%8D%80%E5%BD%A7&action=raw&research=20260916"
+    },
+    {
+      "name": "葛洪",
+      "first_up_pool": "山有扶苏",
+      "first_up_date": "2023-06-21",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/3/3a/8zhb3504ohpb5q2xylxvjln7n6oo1j1.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%91%9B%E6%B4%AA",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%91%9B%E6%B4%AA&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "伏波",
+        "普攻信息": "为目标附加{{颜色|红|【寄生】}}（{{颜色|绿|3}}回合），随后对目标造成{{颜色|绿|100%}}攻击力的伤害。{{颜色|红|【寄生】}}：阴属性抗性降低{{颜色|绿|10}}",
+        "技能": "罗浮梦<ref>罗浮山，位于广东省东江之滨，为我国道教名山，相传东晋葛洪曾在此炼丹修道。《龙城录·赵师雄醉憩梅花下》：隋开皇中，赵师雄赴罗浮，日暮于松林酒肆旁遇淡妆素服女子，与之交谈觉芳香袭人，遂同饮，醉寝。醒后发现身处大梅树下，翠鸟啼鸣，月落参横，方知是梦。后因以“罗浮梦”指梅花梦，亦常比喻美好的梦幻或与梅花相关的情缘。</ref>",
+        "消耗能量": "4",
+        "技能1": "若目标身上有{{颜色|红|【寄生】}}，使目标的技能免伤降低{{颜色|绿|7}}（可叠加{{颜色|绿|3}}层）。对目标造成{{颜色|绿|360%}}攻击力的伤害，随后为目标附加{{颜色|红|【寄生】}}（{{颜色|绿|3}}回合）",
+        "技能2": "若目标身上有{{颜色|红|【寄生】}}，使目标的技能免伤降低{{颜色|绿|7}}（可叠加{{颜色|绿|3}}层）。对目标造成{{颜色|绿|370%}}攻击力的伤害，随后为目标附加{{颜色|红|【寄生】}}（{{颜色|绿|3}}回合）",
+        "技能3": "若目标身上有{{颜色|红|【寄生】}}，使目标的技能免伤降低{{颜色|绿|7}}（可叠加{{颜色|绿|3}}层）。对目标造成{{颜色|绿|380%}}攻击力的伤害，随后为目标附加{{颜色|红|【寄生】}}（{{颜色|绿|3}}回合）",
+        "队长技能": "玉函方<ref>葛洪所撰医书，已佚</ref>",
+        "队长技能信息": "进入战斗时，使敌方全员的阴属性抗性降低{{颜色|绿|15}}。我方全体的最大生命提升{{颜色|绿|15%}}",
+        "天赋1": "炼石",
+        "天赋信息1": "下拉防御时，对所有被{{颜色|红|【寄生】}}的敌人攻击，造成自身{{颜色|绿|35%}}攻击力的伤害并恢复自身{{颜色|绿|10%}}最大生命值的生命。<br>{{颜色|红|【寄生】}}的敌人每受到一次技能伤害，其阴属性抗性降低{{颜色|绿|2}}（可叠加{{颜色|绿|15}}层）",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "烹金",
+        "天赋信息3": "第{{颜色|绿|1}}回合以及之后的每{{颜色|绿|5}}回合，为敌方全员附加{{颜色|红|【寄生】}}（{{颜色|绿|3}}回合），并造成{{颜色|绿|1}}次{{颜色|绿|100%}}攻击力的伤害，这个伤害算作技能伤害",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：炼石",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%91%9B%E6%B4%AA&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "周瑜",
+      "first_up_pool": "山有扶苏",
+      "first_up_date": "2023-06-21",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/8/85/0r41ejxvo1lzzkq8y7igms9h1j1ihqv.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%91%A8%E7%91%9C",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%91%A8%E7%91%9C&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%91%A8%E7%91%9C&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%91%A8%E7%91%9C&action=raw&research=20260916"
+    },
+    {
+      "name": "张仲景",
+      "first_up_pool": "万物化光",
+      "first_up_date": "2023-06-08",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/7/72/q9h87vzaz151giknz6ktsx4wn24h3q5.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E4%BB%B2%E6%99%AF",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E4%BB%B2%E6%99%AF&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "六经论<ref>源于《伤寒杂病论》，以《内经》为基础，将人体十二经脉归纳为太阳、阳明、少阳、太阴、少阴、厥阴六经体系，阐释阴阳经脉互为表里的关系及对应脏腑。</ref>",
+        "普攻信息": "恢复我方全体的生命，恢复量相当于自身{{颜色|绿|45%}}的攻击力。随后恢复我方有{{颜色|红|【济世】}}效果的单位的生命，恢复量相当于自身{{颜色|绿|25%}}的攻击力",
+        "技能": "医圣",
+        "消耗能量": "4",
+        "技能1": "为我方生命值百分比最低的单位恢复生命，恢复量相当于自身{{颜色|绿|360%}}的攻击力，为其附加{{颜色|红|【济世】}}并使其增伤值提升{{颜色|绿|15}}（{{颜色|绿|3}}回合）。{{颜色|红|【济世】}}：免伤值提升{{颜色|绿|10}}",
+        "技能2": "为我方生命值百分比最低的单位恢复生命，恢复量相当于自身{{颜色|绿|370%}}的攻击力，为其附加{{颜色|红|【济世】}}并使其增伤值提升{{颜色|绿|15}}（{{颜色|绿|3}}回合）。{{颜色|红|【济世】}}：免伤值提升{{颜色|绿|10}}",
+        "技能3": "为我方生命值百分比最低的单位恢复生命，恢复量相当于自身{{颜色|绿|380%}}的攻击力，为其附加{{颜色|红|【济世】}}并使其增伤值提升{{颜色|绿|15}}（{{颜色|绿|3}}回合）。{{颜色|红|【济世】}}：免伤值提升{{颜色|绿|10}}",
+        "队长技能": "伤寒论",
+        "队长技能信息": "我方全体的最大生命提升{{颜色|绿|20%}}",
+        "天赋1": "五藏论<ref>敦煌莫高窟石室发现的一部约成书于六朝末叶至唐初期间的托名张仲景的珍贵古医学文献</ref>",
+        "天赋信息1": "战斗开始时，为我方生命值最低的单位附加{{颜色|红|【济世】}}",
+        "天赋2": "道谛",
+        "天赋信息2": "自身提供的治疗效果提升{{颜色|绿|15%}}",
+        "天赋3": "洁癖",
+        "天赋信息3": "使用技能后，为我方攻击力最高的单位附加{{颜色|红|【激励】}}（可叠加{{颜色|绿|5}}层）。{{颜色|红|【激励】}}：攻击力提升{{颜色|绿|15%}}",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：五藏论",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：道谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E4%BB%B2%E6%99%AF&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "张辽",
+      "first_up_pool": "万物化光",
+      "first_up_date": "2023-06-08",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/a/a0/295nzrz4qqrhrtlrv5v3eso0xl3pm0q.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E8%BE%BD",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E8%BE%BD&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E8%BE%BD&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E8%BE%BD&action=raw&research=20260916"
+    },
+    {
+      "name": "张修",
+      "first_up_pool": "鬼城之主",
+      "first_up_date": "2023-04-29",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/5/51/37p80uq8zlhc2xcgsnmmrpz4339937d.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%BC%A0%E4%BF%AE",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E4%BF%AE&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "鬼舞",
+        "普攻信息": "对敌方全体造成{{颜色|绿|45%}}攻击力的伤害",
+        "技能": "鬼城之主",
+        "消耗能量": "5",
+        "技能1": "令敌方全体{{颜色|红|【鬼魂化】}}({{颜色|绿|3}}回合)，对敌方全体造成{{颜色|绿|60%}}攻击力的伤害。{{颜色|红|【鬼魂化】}}:攻击力降低{{颜色|绿|15%}}，免伤值降低{{颜色|绿|15}}，死亡时会变成僵尸为我方作战（特殊目标除外)，僵尸会按敌方的最大生命值造成伤害",
+        "技能2": "令敌方全体{{颜色|红|【鬼魂化】}}({{颜色|绿|3}}回合)，对敌方全体造成{{颜色|绿|65%}}攻击力的伤害。{{颜色|红|【鬼魂化】}}:攻击力降低{{颜色|绿|15%}}，免伤值降低{{颜色|绿|15}}，死亡时会变成僵尸为我方作战（特殊目标除外)，僵尸会按敌方的最大生命值造成伤害",
+        "技能3": "令敌方全体{{颜色|红|【鬼魂化】}}({{颜色|绿|3}}回合)，对敌方全体造成{{颜色|绿|70%}}攻击力的伤害。{{颜色|红|【鬼魂化】}}:攻击力降低{{颜色|绿|15%}}，免伤值降低{{颜色|绿|15}}，死亡时会变成僵尸为我方作战（特殊目标除外)，僵尸会按敌方的最大生命值造成伤害",
+        "队长技能": "信徒",
+        "队长技能信息": "我方3号位获得“增伤值提升{{颜色|绿|25}}，免伤值降低{{颜色|绿|10}}”，2、4号位获得“生命值提升{{颜色|绿|20%}}，免伤值提升{{颜色|绿|10}}”",
+        "天赋1": "捉寒林<ref>寒林：佛教用语，弃尸处或墓地。代指孤魂野鬼，也作韩林。捉寒林：穿插在演出之间的活动。为了为确保酬神演唱平安无虞，将寒林捉来，严加看管。在四川，事先令演员去荒郊的无主坟山处游荡，然后，派遣五猖与押役去捉拿他。押役备锅底灰与铁链。当扮寒林者见到押役后，会慌忙地奔跑，“五猖”便紧追上前，捉住他时，不容分说，用锅灰把他的脸抹黑，铁链往颈上一套，拉起来就走。到戏台前，面朝戏台跪下。“城隍”升堂，斥责说：因他作怪，这地方近来不安宁，上吊的，投水的，不胜枚举。最后一拍惊堂木，喝令重责四十大板，锁入台下。扮演者身背纸扎的寒林受打。在湖南，“寒林”虽然已由草人代替，但仪式仍然煞有介事，做得极为认真。 《中国傩戏发展史及艺术形态研究》，朱恒夫，2023</ref>",
+        "天赋信息1": "战斗开始时获得{{颜色|绿|3}}点能量",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "引魂",
+        "天赋信息3": "场上有单位死亡时，自身获得{{颜色|绿|1}}点能量",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：捉寒林",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%BC%A0%E4%BF%AE&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "干吉",
+      "first_up_pool": "鬼城之主",
+      "first_up_date": "2023-04-29",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/7/7c/9k8pt2v7k9q7mrmj0jskynxibjkiacw.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%B9%B2%E5%90%89",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%B9%B2%E5%90%89&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%B9%B2%E5%90%89&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%B9%B2%E5%90%89&action=raw&research=20260916"
+    },
+    {
+      "name": "孙权",
+      "first_up_pool": "弓剑江东",
+      "first_up_date": "2023-04-06",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/d/d3/sn61dbmfg4mvq0l7nhs6l2i3y090lof.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%AD%99%E6%9D%83",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%AD%99%E6%9D%83&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": {
+        "普攻": "持剑",
+        "普攻信息": "获得一把{{颜色|红|【剑】}}，对目标造成{{颜色|绿|20％}}攻击力的伤害，每有1把剑会额外攻击一次（最多3次），每次攻击附加一层{{颜色|红|【灼伤】}}。{{颜色|红|【灼伤】}}火属性抗性降低{{颜色|绿|1}}，可叠加，最多30层",
+        "技能": "吴狂",
+        "消耗能量": "5",
+        "技能1": "释放所有的{{颜色|红|【剑】}}，每有1把{{颜色|红|【剑】}}会攻击一次，对目标造成{{颜色|绿|140%}}攻击力的伤害，每次攻击附加一层{{颜色|红|【灼伤】}}，孙权至少需要持有4把{{颜色|红|【剑】}}才能释放技能",
+        "技能2": "释放所有的{{颜色|红|【剑】}}，每有1把{{颜色|红|【剑】}}会攻击一次，对目标造成{{颜色|绿|150%}}攻击力的伤害，每次攻击附加一层{{颜色|红|【灼伤】}}，孙权至少需要持有4把{{颜色|红|【剑】}}才能释放技能",
+        "技能3": "释放所有的{{颜色|红|【剑】}}，每有1把{{颜色|红|【剑】}}会攻击一次，对目标造成{{颜色|绿|160%}}攻击力的伤害，每次攻击附加一层{{颜色|红|【灼伤】}}，孙权至少需要持有4把{{颜色|红|【剑】}}才能释放技能",
+        "队长技能": "江东之盟",
+        "队长技能信息": "战斗开始时就拥有2把{{颜色|红|【剑】}}并获得2点能量，使敌方全体的火属性抗性降低{{颜色|绿|25}}",
+        "天赋1": "九锡<ref>《韩诗外传》：诸侯之有德，天子锡（赐）之：一锡车马，再锡衣服，三锡虎贲，四锡乐器，五锡纳陛，六锡朱户，七锡弓矢，八锡鈇钺，九锡秬鬯。《三国志·魏书·文帝纪》：丁巳，使太常邢贞持节拜权为大将军，封吴王，加九锡。</ref>",
+        "天赋信息1": "受到攻击时，有{{颜色|绿|20%}}概率会以{{颜色|绿|100%}}攻击力反击",
+        "天赋2": "集谛",
+        "天赋信息2": "免伤值提升{{颜色|绿|15}}",
+        "天赋3": "天命护持",
+        "天赋信息3": "战斗中仅有一次，受到致命伤害时，失去所有{{颜色|红|【剑】}}，自身免于死亡并回复{{颜色|绿|30%}}最大生命",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：九锡",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：集谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%AD%99%E6%9D%83&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "孙尚香",
+      "first_up_pool": "弓剑江东",
+      "first_up_date": "2023-04-06",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/8/8b/otzlcriu8is4ehn5i73kq4ckr42qumw.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%AD%99%E5%B0%9A%E9%A6%99",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%AD%99%E5%B0%9A%E9%A6%99&action=raw",
+      "permanent_status": {
+        "is_permanent_now": null,
+        "verification": "not_individually_verified",
+        "status_text": "本轮未取得逐人明确的常驻更新公告；不以限时池结束自动推定。",
+        "source_url": null,
+        "previous_working_assumption": true
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%AD%99%E5%B0%9A%E9%A6%99&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%AD%99%E5%B0%9A%E9%A6%99&action=raw&research=20260916"
+    },
+    {
+      "name": "王粲",
+      "first_up_pool": "绣衣天下（开服常驻）",
+      "first_up_date": "2023-03-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/b/b4/ogwjp65ezs42vnac905spmivv1dxs03.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E7%8E%8B%E7%B2%B2",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E7%8E%8B%E7%B2%B2&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified_by_opening_pool_record",
+        "status_text": "开服「绣衣天下」常驻绝密。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2"
+      },
+      "abilities": {
+        "普攻": "文辩",
+        "普攻信息": "对目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "同生共死",
+        "消耗能量": "5",
+        "技能1": "回复我方全体{{颜色|绿|180%}}攻击力的生命，我方全体获得{{颜色|红|【同生共死】}}(3回合){{颜色|红|【同生共死】}}:我方任意队员受到攻击时,伤害会由所有队员平均承受",
+        "技能2": "回复我方全体{{颜色|绿|185%}}攻击力的生命，我方全体获得{{颜色|红|【同生共死】}}(3回合){{颜色|红|【同生共死】}}:我方任意队员受到攻击时,伤害会由所有队员平均承受",
+        "技能3": "回复我方全体{{颜色|绿|190%}}攻击力的生命，我方全体获得{{颜色|红|【同生共死】}}(3回合){{颜色|红|【同生共死】}}:我方任意队员受到攻击时,伤害会由所有队员平均承受",
+        "队长技能": "英雄论",
+        "队长技能信息": "我方全体最大生命提升{{颜色|绿|15%}}，攻击力提升{{颜色|绿|15%}}",
+        "天赋1": "羁绊",
+        "天赋信息1": "队伍中无人阵亡时,提升我方全体{{颜色|绿|20%}}攻击力",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "七子之冠<ref>《文心雕龙·才略》：仲宣溢才，捷而能密，文多兼善，辞少瑕累，摘其诗赋，则七子之冠冕乎！</ref>",
+        "天赋信息3": "密探觉醒后解锁任意队员受击时，王粲都有{{颜色|绿|2%}}概率获得1点能量",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：羁绊",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E7%8E%8B%E7%B2%B2&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "郭解",
+      "first_up_pool": "绣衣天下（开服常驻）",
+      "first_up_date": "2023-03-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/5/56/i9u9jqmex0fphpzn8tqtpk82qw8px8y.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%83%AD%E8%A7%A3",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%83%AD%E8%A7%A3&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified_by_opening_pool_record",
+        "status_text": "开服「绣衣天下」常驻绝密。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2"
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%83%AD%E8%A7%A3&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%83%AD%E8%A7%A3&action=raw&research=20260916"
+    },
+    {
+      "name": "陆逊",
+      "first_up_pool": "绣衣天下（开服常驻）",
+      "first_up_date": "2023-03-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/d/df/s3ifxm7amvnyefhjdyft7hmluj2r67q.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%99%86%E9%80%8A",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%99%86%E9%80%8A&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified_by_opening_pool_record",
+        "status_text": "开服「绣衣天下」常驻绝密。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2"
+      },
+      "abilities": {
+        "普攻": "挥军",
+        "普攻信息": "对目标造成{{颜色|绿|60%}}攻击力的伤害，并为其附加一层{{颜色|红|【火种】}}。{{颜色|红|【火种】}}：到达{{颜色|绿|5}}层时被引爆，触发<火烧连营>并清除{{颜色|红|【火种】}}层数。<火烧连营>：引爆者对敌方全体造成{{颜色|绿|100%}}攻击力的触发伤害，并对其它所有敌人附加一层{{颜色|红|【火种】}}",
+        "技能": "夷陵火<ref>《三国志·吴书·陆逊传》：黄武元年，刘备率大众来向西界，权命逊为大都督、假节，督朱然、潘璋、宋谦、韩当、徐盛、鲜于丹、孙桓等五万人拒之。备从巫峡、建平连围至夷陵界，立数十屯……逊曰：“吾已晓破之之术。”乃敕各持一把茅，以火攻拔之。一尔势成，通率诸军同时俱攻，斩张南、冯习及胡王沙靡柯等首，破其四十馀营。</ref>",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "对敌方全体造成{{颜色|绿|130%}}攻击力的伤害，使敌方全体的火属性抗性降低{{颜色|绿|15}}（{{颜色|绿|2}}回合）并为敌方全体附加一层{{颜色|红|【火种】}}",
+        "技能2": "对敌方全体造成{{颜色|绿|140%}}攻击力的伤害，使敌方全体的火属性抗性降低{{颜色|绿|15}}（{{颜色|绿|2}}回合）并为敌方全体附加一层{{颜色|红|【火种】}}",
+        "技能3": "对敌方全体造成{{颜色|绿|150%}}攻击力的伤害，使敌方全体的火属性抗性降低{{颜色|绿|15}}（{{颜色|绿|2}}回合）并为敌方全体附加一层{{颜色|红|【火种】}}",
+        "队长技能": "问书",
+        "队长技能信息": "我方全体的火属性增伤提升{{颜色|绿|15}}，最大生命提升{{颜色|绿|20%}}。每个战斗波次开始时，为敌方全体附加{{颜色|绿|2}}层{{颜色|红|【火种】}}",
+        "天赋1": "烈火为盾",
+        "天赋信息1": "队伍中的火属性密探使用普攻或技能后，有{{颜色|绿|25%}}概率对当前目标附加一层{{颜色|红|【火种】}}。如果队伍中有吕蒙，吕蒙的普攻必定为攻击的目标附加一层{{颜色|红|【火种】}}",
+        "天赋2": "灭谛",
+        "天赋信息2": "普攻增伤和技能增伤提升{{颜色|绿|15}}",
+        "天赋3": "停云<ref>陶渊明《停云》诗，其序明言“停云，思亲友也”</ref>",
+        "天赋信息3": "出手前，若敌人的数量小于{{颜色|绿|3}}，提升自身{{颜色|绿|30%}}攻击力（{{颜色|绿|1}}回合）",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：烈火为盾",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：灭谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%99%86%E9%80%8A&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "华佗",
+      "first_up_pool": "绣衣天下（开服常驻）",
+      "first_up_date": "2023-03-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/2/27/8ay6xz0qj3wp8m5e5jcdwv90ofhanql.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%8D%8E%E4%BD%97",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%8D%8E%E4%BD%97&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified_by_opening_pool_record",
+        "status_text": "开服「绣衣天下」常驻绝密。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2"
+      },
+      "abilities": {
+        "普攻": "藏相",
+        "普攻信息": "对敌方全体造成{{颜色|绿|60%}}攻击力的伤害，如果自身的生命值大于{{颜色|绿|50%}}，伤害系数提升{{颜色|绿|20%}}",
+        "技能": "开颅手术",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "恢复我方全体的生命，恢复量为自身{{颜色|绿|60%}}的攻击力。随后对敌方全体造成{{颜色|绿|120%}}攻击力的伤害",
+        "技能2": "恢复我方全体的生命，恢复量为自身{{颜色|绿|65%}}的攻击力。随后对敌方全体造成{{颜色|绿|130%}}攻击力的伤害",
+        "技能3": "恢复我方全体的生命，恢复量为自身{{颜色|绿|70%}}的攻击力。随后对敌方全体造成{{颜色|绿|140%}}攻击力的伤害",
+        "队长技能": "生生不息",
+        "队长技能信息": "自身提供的治疗效果提升{{颜色|绿|20%}}。我方全体的最大生命提升{{颜色|绿|20%}}",
+        "天赋1": "医可自医",
+        "天赋信息1": "我方单位的生命恢复至满额时，提升自身{{颜色|绿|20%}}攻击力（{{颜色|绿|1}}回合，可叠加{{颜色|绿|2}}层），随后对敌方全体造成{{颜色|绿|50%}}攻击力的触发伤害。这个效果一回合可以触发{{颜色|绿|2}}次",
+        "天赋2": "道谛",
+        "天赋信息2": "自身提供的治疗效果提升{{颜色|绿|15%}}",
+        "天赋3": "军医",
+        "天赋信息3": "我方有队友阵亡时，对敌方全体造成{{颜色|绿|200%}}攻击力的触发伤害。这个效果一回合可以触发{{颜色|绿|2}}次",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：医可自医",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：道谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%8D%8E%E4%BD%97&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "吕蒙",
+      "first_up_pool": "绣衣天下（开服常驻）",
+      "first_up_date": "2023-03-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/7/79/6ccmkvq213263u31ku1nam2hso3crjr.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E5%90%95%E8%92%99",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E5%90%95%E8%92%99&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified_by_opening_pool_record",
+        "status_text": "开服「绣衣天下」常驻绝密。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2"
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%90%95%E8%92%99&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E5%90%95%E8%92%99&action=raw&research=20260916"
+    },
+    {
+      "name": "鲁肃",
+      "first_up_pool": "绣衣天下（开服常驻）",
+      "first_up_date": "2023-03-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/4/45/0bgov91h2lssyuzm5dkxw5e5emt26at.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%B2%81%E8%82%83",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%B2%81%E8%82%83&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified_by_opening_pool_record",
+        "status_text": "开服「绣衣天下」常驻绝密。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2"
+      },
+      "abilities": {
+        "普攻": "抽击",
+        "普攻信息": "对目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "挥金",
+        "消耗能量": "3",
+        "技能1": "对敌方全体造成{{颜色|绿|105%}}攻击力的伤害，并有{{颜色|绿|20%}}概率直接劝退敌人，若敌人的生命值低于{{颜色|绿|30%}}，劝退概率翻倍",
+        "技能2": "对敌方全体造成{{颜色|绿|110%}}攻击力的伤害，并有{{颜色|绿|20%}}概率直接劝退敌人，若敌人的生命值低于{{颜色|绿|30%}}，劝退概率翻倍",
+        "技能3": "对敌方全体造成{{颜色|绿|115%}}攻击力的伤害，并有{{颜色|绿|20%}}概率直接劝退敌人，若敌人的生命值低于{{颜色|绿|30%}}，劝退概率翻倍",
+        "队长技能": "庇护",
+        "队长技能信息": "我方全体的最大生命提升{{颜色|绿|20%}}",
+        "天赋1": "以德服人",
+        "天赋信息1": "鲁肃的普攻也有{{颜色|绿|5%}}概率直接劝退敌人",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "以德济人",
+        "天赋信息3": "每回合结束时，回复我方生命百分比最低的队员{{颜色|绿|40%}}攻击力的生命",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：以德服人",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%B2%81%E8%82%83&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "郭嘉",
+      "first_up_pool": "绣衣天下（开服常驻）",
+      "first_up_date": "2023-03-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/e/ed/gvmmg3j4jnlkc3xjii54o3olwobviuq.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E9%83%AD%E5%98%89",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E9%83%AD%E5%98%89&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified_by_opening_pool_record",
+        "status_text": "开服「绣衣天下」常驻绝密。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2"
+      },
+      "abilities": null,
+      "ability_status": "source_mapped_unfetched",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%83%AD%E5%98%89&action=raw&research=20260916",
+      "ability_gap": "HTTPError: 429 Client Error: Too Many Requests for url: https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E9%83%AD%E5%98%89&action=raw&research=20260916"
+    },
+    {
+      "name": "贾诩",
+      "first_up_pool": "绣衣天下（开服常驻）",
+      "first_up_date": "2023-03-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/e/ec/7662qt7e0i2ofdsdqcqt1c2ehap2n7r.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E8%B4%BE%E8%AF%A9",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E8%B4%BE%E8%AF%A9&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified_by_opening_pool_record",
+        "status_text": "开服「绣衣天下」常驻绝密。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2"
+      },
+      "abilities": {
+        "普攻": "杖击",
+        "普攻信息": "对当前目标造成{{颜色|绿|100%}}攻击力的伤害。<br>若当前目标有{{颜色|红|【解析】}}效果，则普攻效果变为：提升自身{{颜色|绿|30}}技能增伤（{{颜色|绿|4}}回合），对敌方全体造成{{颜色|绿|70%}}攻击力的伤害。",
+        "技能": "毒心乱舞",
+        "消耗能量": "{{颜色|绿|4}}",
+        "技能1": "为敌方全体附加{{颜色|红|【看破】}}（{{颜色|绿|2}}回合），对敌方全体造成{{颜色|绿|130%}}攻击力的伤害，随后进行一次抽签，若抽到吉则提升我方全体{{颜色|绿|5%}}攻击力（{{颜色|绿|1}}回合），若抽到凶则自身失去{{颜色|绿|10%}}最大生命。{{颜色|红|【看破】}}:受到技能伤害后，获得一层{{颜色|红|【弱点-技能】}}（可叠加{{颜色|绿|6}}层）。{{颜色|红|【弱点-技能】}}：降低自身{{颜色|绿|6}}技能免伤。受到普攻伤害后，清除该效果",
+        "技能2": "为敌方全体附加{{颜色|红|【看破】}}（{{颜色|绿|2}}回合），对敌方全体造成{{颜色|绿|140%}}攻击力的伤害，随后进行一次抽签，若抽到吉则提升我方全体{{颜色|绿|5%}}攻击力（{{颜色|绿|1}}回合），若抽到凶则自身失去{{颜色|绿|10%}}最大生命。{{颜色|红|【看破】}}:受到技能伤害后，获得一层{{颜色|红|【弱点-技能】}}（可叠加{{颜色|绿|6}}层）。{{颜色|红|【弱点-技能】}}：降低自身{{颜色|绿|6}}技能免伤。受到普攻伤害后，清除该效果",
+        "技能3": "为敌方全体附加{{颜色|红|【看破】}}（{{颜色|绿|2}}回合），对敌方全体造成{{颜色|绿|150%}}攻击力的伤害，随后进行一次抽签，若抽到吉则提升我方全体{{颜色|绿|5%}}攻击力（{{颜色|绿|1}}回合），若抽到凶则自身失去{{颜色|绿|10%}}最大生命。{{颜色|红|【看破】}}:受到技能伤害后，获得一层{{颜色|红|【弱点-技能】}}（可叠加{{颜色|绿|6}}层）。{{颜色|红|【弱点-技能】}}：降低自身{{颜色|绿|6}}技能免伤。受到普攻伤害后，清除该效果",
+        "队长技能": "以间离之",
+        "队长技能信息": "我方全体的技能增伤提升{{颜色|绿|25}}",
+        "天赋1": "蒸烛",
+        "天赋信息1": "受到攻击时，有概率把本次攻击转移给随机敌人",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "鬼计",
+        "天赋信息3": "释放技能后，令敌方全体{{颜色|红|【沉默】}}（{{颜色|绿|1}}回合）。{{颜色|红|【沉默】}}：无法释放技能",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：蒸烛",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E8%B4%BE%E8%AF%A9&action=raw&research=20260916",
+      "ability_gap": null
+    },
+    {
+      "name": "杨修",
+      "first_up_pool": "绣衣天下（开服常驻）",
+      "first_up_date": "2023-03-30",
+      "pool_source": "https://wiki.biligame.com/yuan/2023%E5%8D%A1%E6%B1%A0%E4%B8%80%E8%A7%88",
+      "portrait_url": "https://patchwiki.biligame.com/images/yuan/5/5d/783ohpbvo2aiva17erqpqvq8qn3kx4w.png",
+      "wiki_url": "https://wiki.biligame.com/yuan/%E6%9D%A8%E4%BF%AE",
+      "ability_raw_url": "https://wiki.biligame.com/yuan/index.php?title=%E6%9D%A8%E4%BF%AE&action=raw",
+      "permanent_status": {
+        "is_permanent_now": true,
+        "verification": "verified_by_opening_pool_record",
+        "status_text": "开服「绣衣天下」常驻绝密。",
+        "source_url": "https://wiki.biligame.com/yuan/%E5%AF%86%E6%8E%A2"
+      },
+      "abilities": {
+        "普攻": "六博",
+        "普攻信息": "对目标造成{{颜色|绿|100%}}攻击力的伤害",
+        "技能": "逸游自恣",
+        "消耗能量": "3",
+        "技能1": "对目标造成{{颜色|绿|170%}}攻击力的伤害，并扔出2颗骰子，每个骰子点数会使伤害增加{{颜色|绿|10%}}。如果2个骰子点数相同，本次伤害翻倍",
+        "技能2": "对目标造成{{颜色|绿|180%}}攻击力的伤害，并扔出2颗骰子，每个骰子点数会使伤害增加{{颜色|绿|10%}}。如果2个骰子点数相同，本次伤害翻倍",
+        "技能3": "对目标造成{{颜色|绿|190%}}攻击力的伤害，并扔出2颗骰子，每个骰子点数会使伤害增加{{颜色|绿|10%}}。如果2个骰子点数相同，本次伤害翻倍",
+        "队长技能": "口吟舌言",
+        "队长技能信息": "我方全体的增伤值提升{{颜色|绿|20}}",
+        "天赋1": "韬光养晦",
+        "天赋信息1": "敌方每有一个敌人战败，就会提升自身{{颜色|绿|8%}}的攻击力，最多叠加6层",
+        "天赋2": "苦谛",
+        "天赋信息2": "攻击力提升{{颜色|绿|15%}}",
+        "天赋3": "瑰意绮行",
+        "天赋信息3": "战斗开始时，使我方1、3及5号位的技能增伤提升{{颜色|绿|20}}",
+        "1星其他加成": "大招等级+1",
+        "2星其他加成": "解锁技能：韬光养晦",
+        "3星其他加成": "大招等级+1",
+        "4星其他加成": "解锁技能：苦谛",
+        "5星其他加成": "大招等级+1"
+      },
+      "ability_status": "verified_raw_complete_core",
+      "ability_fetch_url": "https://r.jina.ai/http://wiki.biligame.com/yuan/index.php?title=%E6%9D%A8%E4%BF%AE&action=raw&research=20260916",
+      "ability_gap": null
+    }
+  ],
+  "excluded_future_agents": [
+    {
+      "name": "魏延",
+      "reason": "首个相关限时池「棺珠折骨」于 2026-09-17 开启，晚于截点",
+      "source_url": "https://www.sina.cn/news/detail/5342749117121359.html"
+    },
+    {
+      "name": "士䵋",
+      "reason": "首个相关限时池「棺珠折骨」于 2026-09-17 开启，晚于截点",
+      "source_url": "https://www.sina.cn/news/detail/5342749117121359.html"
+    }
+  ],
+  "gaps": [
+    "常驻状态仅对取得明确公告或开服常驻记录者写确定值；其余为 null，不从限时池结束时间推断。",
+    "技能数据按 BWIKI 角色页 raw wikitext 自动抓取；ability_status=source_mapped_unfetched 的角色保留 wiki_url、ability_raw_url、ability_fetch_url 与失败原因，未填内容不代表游戏内不存在。",
+    "升星效果沿用 BWIKI 模板的 1星其他加成至5星其他加成字段；页面未提供时保持缺失，不杜撰。",
+    "既有研究口径称 56 个限定卡池，但当前报告中可结构化识别的限时卡池表格行数以 metadata.limited_pool_rows_structured 为准；此字段用于提示前端不要盲信手工总数。"
+  ]
+}

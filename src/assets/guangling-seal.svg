@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <filter id="rough"><feTurbulence baseFrequency="0.055" numOctaves="3" seed="9" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="2.8"/></filter>
+    <mask id="worn"><rect width="120" height="120" fill="white"/><g fill="black" opacity=".45"><circle cx="17" cy="28" r="2"/><circle cx="96" cy="20" r="1.6"/><circle cx="32" cy="101" r="1.8"/><path d="M7 69l18-2M73 110l28-4M48 8l10 3" stroke="black" stroke-width="2"/></g></mask>
+  </defs>
+  <g filter="url(#rough)" mask="url(#worn)">
+    <path fill="#8f2b24" d="M11 9h98l3 7-2 94-8 3-94-4-2-9L9 15z"/>
+    <path fill="none" stroke="#f4e9d5" stroke-width="3" d="M17 17h86v86H17zM60 18v84M18 60h84"/>
+    <g fill="none" stroke="#f4e9d5" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter">
+      <!-- 廣：上左 -->
+      <path d="M25 49V27h27M28 31h20M31 36h17M32 40v8M44 38v10M28 48h22"/>
+      <!-- 陵：上右 -->
+      <path d="M68 27v23M68 28h10l-5 8 6 5-7 9M83 29h13M86 34h8M88 35v7l-6 7M95 42l-7 7"/>
+      <!-- 王：下左 -->
+      <path d="M26 70h26M39 68v27M28 81h22M25 96h29"/>
+      <!-- 璽：下右（篆意） -->
+      <path d="M68 69h29M72 75h21M81 68v28M68 83h29M72 89v7M91 89v7M68 97h29"/>
+    </g>
+  </g>
+</svg>
