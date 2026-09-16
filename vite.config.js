@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   base: './',
   build: {
-    assetsDir: '',
-    assetsInlineLimit: 2 * 1024 * 1024
+    assetsDir: 'assets',
+    assetsInlineLimit: 4096
   }
 });
