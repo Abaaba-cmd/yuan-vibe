@@ -154,5 +154,7 @@
 .header-actions{display:flex;align-items:center;gap:10px!important}@media(max-width:620px){.topbar{padding-left:18px!important;padding-right:18px!important}.header-actions{gap:8px}.royal-seal{width:46px!important}}
 
 
-/* 限定卡池标题与日期沿标题文字中心线对齐 */
-.pool-selector-trigger .pool-date{transform:translateY(9px)}
+/* 限定卡池标题与日期操作组沿标题文字中心线对齐 */
+.pool-selector-trigger .pool-date,
+.pool-selector-trigger .selector-cue,
+.pool-selector-trigger>svg{transform:translateY(9px)}
